@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 60
-- **With source attached:** 0 / 60
-- **Longest streak:** 12 days  |  **Current streak:** 12 days
+- **Total solved:** 61
+- **With source attached:** 0 / 61
+- **Longest streak:** 12 days  |  **Current streak:** 0 days
 - **Contest rating:** 1242 (max 1242)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 60 |
+| C++ | 61 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 20 |
+| 0800 | 21 |
 | 0900 | 10 |
 | 1000 | 2 |
 | 1100 | 4 |
@@ -54,7 +54,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 30 |
-| `math` | 28 |
+| `math` | 29 |
 | `implementation` | 16 |
 | `brute force` | 14 |
 | `binary search` | 10 |
@@ -62,8 +62,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `dp` | 8 |
 | `constructive algorithms` | 7 |
 | `sortings` | 5 |
+| `strings` | 4 |
 | `two pointers` | 4 |
-| `strings` | 3 |
 | `data structures` | 2 |
 | `dfs and similar` | 2 |
 | `graphs` | 2 |
@@ -96,6 +96,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1877A | [Goals of Victory](problems/math/0800_1877A-Goals-of-Victory) | 800 | `math` | — | [CF](https://codeforces.com/contest/1877/problem/A) |
 | 1901A | [Line Trip](problems/greedy/0800_1901A-Line-Trip) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1901/problem/A) |
 | 1903A | [Halloumi Boxes](problems/brute-force/0800_1903A-Halloumi-Boxes) | 800 | `brute force`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1903/problem/A) |
+| 2151A | [Incremental Subarray](problems/math/0800_2151A-Incremental-Subarray) | 800 | `math`, `strings` | — | [CF](https://codeforces.com/contest/2151/problem/A) |
 | 2182A | [New Year String](problems/constructive-algorithms/0800_2182A-New-Year-String) | 800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2182/problem/A) |
 | 2182B | [New Year Cake](problems/brute-force/0800_2182B-New-Year-Cake) | 800 | `brute force` | — | [CF](https://codeforces.com/contest/2182/problem/B) |
 | 2188A | [Divisible Permutation](problems/constructive-algorithms/0800_2188A-Divisible-Permutation) | 800 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2188/problem/A) |
