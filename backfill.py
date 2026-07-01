@@ -61,7 +61,7 @@ def commit_for_submission(sub, prob_dir, local_code_present):
     iso_date = datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
 
     rel_path = str(prob_dir.relative_to(core.REPO_ROOT))
-    git("add", rel_path)
+    git("add", rel_path, ".synced_problems.json")
 
     msg = f"Solve {key} - {name}"
     if local_code_present:
@@ -97,9 +97,9 @@ def main():
     for i, s in enumerate(todo, 1):
         key = core.problem_key(s["problem"])
         tag_dir, folder, prob_dir = core.write_problem_folder(s, local_code)
+        mark_committed(key)
         ok = commit_for_submission(s, prob_dir, key in local_code)
         if ok:
-            mark_committed(key)
             committed += 1
             print(f"  [{i}/{len(todo)}] committed {key} ({s['problem'].get('name','?')})")
         else:

@@ -61,7 +61,7 @@ def commit_and_push(sub, prob_dir, has_code):
     iso_date = datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
 
     rel_path = str(prob_dir.relative_to(core.REPO_ROOT))
-    git("add", rel_path, "README.md")
+    git("add", rel_path, "README.md", ".synced_problems.json")
     msg = f"Solve {key} - {name}" + (" [with code]" if has_code else "")
     res = git("commit", "-m", msg, env_extra={"GIT_AUTHOR_DATE": iso_date, "GIT_COMMITTER_DATE": iso_date})
     if res.returncode != 0:
@@ -82,14 +82,16 @@ def sync_once(done):
         key = core.problem_key(s["problem"])
         tag_dir, folder, prob_dir = core.write_problem_folder(s, local_code)
         core.generate_readme(subs, local_code, CF_HANDLE)  # keep index in sync
+        done.add(key)
+        save_state(done)
         ok = commit_and_push(s, prob_dir, key in local_code)
         if ok:
-            done.add(key)
-            save_state(done)
             pushed += 1
             print(f"  ✅ pushed {key} - {s['problem'].get('name','?')}")
         else:
             print(f"  ⚠️  failed to push {key}, will retry next cycle")
+            done.discard(key)
+            save_state(done)
     return pushed
 
 
@@ -97,9 +99,17 @@ def main():
     if not CF_HANDLE:
         raise SystemExit("Set CF_HANDLE env var to your Codeforces handle.")
 
+    run_once = os.environ.get("RUN_ONCE", "").strip().lower() in ("1", "true", "yes")
+
     done = load_state()
-    print(f"auto_sync.py running for {CF_HANDLE}, polling every {SYNC_INTERVAL}s. Ctrl+C to stop.")
+    print(f"auto_sync.py running for {CF_HANDLE}" + (" (single run mode)." if run_once else f", polling every {SYNC_INTERVAL}s. Ctrl+C to stop."))
     print(f"Already tracked: {len(done)} problems.\n")
+
+    if run_once:
+        now = datetime.now().strftime("%H:%M:%S")
+        n = sync_once(done)
+        print(f"[{now}] {n} new problem(s) synced." if n else f"[{now}] no new AC submissions.")
+        return
 
     while True:
         try:
