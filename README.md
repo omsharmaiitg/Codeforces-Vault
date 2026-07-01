@@ -19,13 +19,17 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 <img src="assets/charts/language_breakdown.png" width="320" />
 
-## By language
+<details>
+<summary>📋 Raw tables (language / rating / tag breakdown)</summary>
+
+
+### By language
 
 | Language | Solved |
 |---|---|
 | C++ | 60 |
 
-## By rating
+### By rating
 
 | Rating | Count |
 |---|---|
@@ -41,7 +45,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1700 | 1 |
 | Unrated | 3 |
 
-## By tag
+### By tag
 
 | Tag | Count |
 |---|---|
@@ -67,6 +71,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `bitmasks` | 1 |
 | `shortest paths` | 1 |
 | `games` | 1 |
+
+</details>
+
 
 ## All problems
 

@@ -141,7 +141,7 @@ def _save(fig, name):
     ASSETS_DIR.mkdir(parents=True, exist_ok=True)
     path = ASSETS_DIR / name
     fig.tight_layout()
-    fig.savefig(path, dpi=150)
+    fig.savefig(path, dpi=150, bbox_inches="tight")
     plt.close(fig)
     return path
 
@@ -171,16 +171,22 @@ def chart_tag_distribution(subs, top_n=15):
     for s in subs:
         for t in s["problem"].get("tags", []):
             tag_count[t] += 1
-    top = sorted(tag_count.items(), key=lambda x: x[1])[-top_n:]
+    top = sorted(tag_count.items(), key=lambda x: -x[1])[:top_n]
     tags = [t[0] for t in top]
     counts = [t[1] for t in top]
+    colors = [PALETTE[i % len(PALETTE)] for i in range(len(tags))]
 
-    fig, ax = plt.subplots(figsize=(8, max(4, len(tags) * 0.35)))
-    ax.barh(tags, counts, color=ACCENT2)
-    ax.set_title(f"Top {len(tags)} Tags", fontsize=13, fontweight="bold")
-    ax.set_xlabel("Problems solved")
-    for i, c in enumerate(counts):
-        ax.text(c + max(counts) * 0.01, i, str(c), va="center", fontsize=8)
+    fig, ax = plt.subplots(figsize=(8, 5))
+    wedges, _ = ax.pie(
+        counts, colors=colors, startangle=90,
+        wedgeprops={"width": 0.42, "edgecolor": "white", "linewidth": 1.5},
+    )
+    ax.set_title("Tags Solved", fontsize=13, fontweight="bold", loc="left")
+    legend_labels = [f"{t} : {c}" for t, c in zip(tags, counts)]
+    ax.legend(
+        wedges, legend_labels, loc="center left", bbox_to_anchor=(1.02, 0.5),
+        fontsize=9, frameon=False, handlelength=1.2, handleheight=1.2,
+    )
     return _save(fig, "tag_distribution.png")
 
 
@@ -361,19 +367,21 @@ def generate_readme(subs, local_code, handle):
     if not any(chart_status.values()):
         lines += ["_(charts unavailable this run — text summary below)_", "", "```", heat, "```", ""]
 
-    lines += [
-        "## By language", "", "| Language | Solved |", "|---|---|",
-    ]
+    lines += ["<details>", "<summary>📋 Raw tables (language / rating / tag breakdown)</summary>", ""]
+
+    lines += ["", "### By language", "", "| Language | Solved |", "|---|---|"]
     for lang, c in sorted(lang_count.items(), key=lambda x: -x[1]):
         lines.append(f"| {lang} | {c} |")
 
-    lines += ["", "## By rating", "", "| Rating | Count |", "|---|---|"]
+    lines += ["", "### By rating", "", "| Rating | Count |", "|---|---|"]
     for r, c in sorted(rating_count.items()):
         lines.append(f"| {r} | {c} |")
 
-    lines += ["", "## By tag", "", "| Tag | Count |", "|---|---|"]
+    lines += ["", "### By tag", "", "| Tag | Count |", "|---|---|"]
     for t, c in sorted(tag_count.items(), key=lambda x: -x[1]):
         lines.append(f"| `{t}` | {c} |")
+
+    lines += ["", "</details>", ""]
 
     lines += ["", "## All problems", "", "| # | Problem | Rating | Tags | Code | Link |", "|---|---|---|---|---|---|"]
     for s in sorted(subs, key=lambda s: (s["problem"].get("rating") or 0, s["problem"].get("contestId", 0))):
