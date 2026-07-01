@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from pathlib import Path
 from collections import defaultdict
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 REPO_ROOT = Path(os.environ.get("REPO_ROOT", "."))
 SOLUTIONS_DIR = REPO_ROOT / "solutions"
@@ -19,6 +19,12 @@ PROBLEMS_DIR = REPO_ROOT / "problems"
 ASSETS_DIR = REPO_ROOT / "assets" / "charts"
 
 EXT_TO_LANG = {".cpp": "C++", ".py": "Python", ".java": "Java"}
+
+# Day-bucketing for streak/heatmap uses this timezone, not UTC — otherwise
+# submissions made late at night (IST) get counted on the wrong calendar
+# day and streaks come out shorter than what your CF profile shows you
+# (CF's own activity page buckets by your local browser timezone).
+LOCAL_TZ = timezone(timedelta(hours=5, minutes=30))  # IST
 
 # ---- shared chart look & feel -------------------------------------------------
 plt.rcParams.update({
@@ -312,10 +318,10 @@ def chart_activity_heatmap(timestamps, weeks=52):
     """GitHub-style contribution calendar for the last `weeks` weeks."""
     by_day = defaultdict(int)
     for ts in timestamps:
-        d = datetime.utcfromtimestamp(ts).date()
+        d = datetime.fromtimestamp(ts, tz=LOCAL_TZ).date()
         by_day[d] += 1
 
-    today = datetime.utcnow().date()
+    today = datetime.now(tz=LOCAL_TZ).date()
     # align start to the most recent Sunday on/before (today - weeks*7)
     start = today - timedelta(days=weeks * 7 - 1)
     start -= timedelta(days=(start.weekday() + 1) % 7)  # back up to Sunday
@@ -379,10 +385,10 @@ def generate_all_charts(subs, local_code, rating_history=None, all_ac_timestamps
 def build_streak_calendar(timestamps, weeks=12):
     by_day = defaultdict(int)
     for ts in timestamps:
-        d = datetime.utcfromtimestamp(ts).date()
+        d = datetime.fromtimestamp(ts, tz=LOCAL_TZ).date()
         by_day[d] += 1
 
-    today = datetime.utcnow().date()
+    today = datetime.now(tz=LOCAL_TZ).date()
     start = today - timedelta(days=weeks * 7 - 1)
     chars = " ░▒▓█"
     row, day, streak, cur_streak = [], start, 0, 0
