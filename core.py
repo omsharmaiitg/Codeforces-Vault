@@ -77,6 +77,14 @@ def get_accepted_submissions(handle):
     return sorted(best.values(), key=lambda s: s["creationTimeSeconds"])
 
 
+def get_rating_history(handle):
+    """List of contest rating changes, oldest first. Empty list if user has never rated."""
+    try:
+        return cf_get("user.rating", {"handle": handle})
+    except RuntimeError:
+        return []
+
+
 def load_local_solutions():
     SOLUTIONS_DIR.mkdir(exist_ok=True)
     found = {}
@@ -135,6 +143,40 @@ def normalize_lang(raw_lang):
     if "java" in lang_l:
         return "Java"
     return raw_lang or "Other"
+
+
+def chart_rating_history(history):
+    """Line chart of contest rating over time, CF-profile style."""
+    if not history:
+        return None
+
+    dates = [datetime.utcfromtimestamp(h["ratingUpdateTimeSeconds"]) for h in history]
+    ratings = [h["newRating"] for h in history]
+
+    # CF-style rank tier color bands (rough thresholds)
+    bands = [
+        (0, 1200, "#cccccc"), (1200, 1400, "#77ff77"), (1400, 1600, "#77ddbb"),
+        (1600, 1900, "#aaaaff"), (1900, 2100, "#ff88ff"), (2100, 2300, "#ffcc88"),
+        (2300, 2400, "#ffbb55"), (2400, 2600, "#ff7777"), (2600, 3000, "#ff3333"),
+        (3000, 4000, "#aa0000"),
+    ]
+
+    fig, ax = plt.subplots(figsize=(11, 4.5))
+    for lo, hi, color in bands:
+        ax.axhspan(lo, hi, color=color, alpha=0.25, zorder=0)
+
+    ax.plot(dates, ratings, color="#222222", linewidth=1.5, zorder=2)
+    ax.scatter(dates, ratings, color="#222222", s=18, zorder=3)
+
+    ymin = min(ratings) - 100
+    ymax = max(ratings) + 100
+    ax.set_ylim(max(0, ymin), ymax)
+    ax.set_title(f"Rating History — current {ratings[-1]}, max {max(ratings)}",
+                 fontsize=13, fontweight="bold", loc="left")
+    ax.set_ylabel("Rating")
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
+    fig.autofmt_xdate()
+    return _save(fig, "rating_history.png")
 
 
 def chart_problem_type_distribution(subs):
@@ -300,18 +342,21 @@ def chart_activity_heatmap(subs, weeks=52):
     return _save(fig, "activity_heatmap.png")
 
 
-def generate_all_charts(subs, local_code):
+def generate_all_charts(subs, local_code, rating_history=None):
     """Generates every chart, tolerating individual failures so one bad
     chart doesn't block README generation."""
     made = {}
-    for name, fn, args in [
+    chart_list = [
         ("rating_distribution.png", chart_rating_distribution, (subs,)),
         ("tag_distribution.png", chart_tag_distribution, (subs,)),
         ("cumulative_progress.png", chart_cumulative_progress, (subs,)),
         ("language_breakdown.png", chart_language_breakdown, (subs, local_code)),
         ("problem_type_distribution.png", chart_problem_type_distribution, (subs,)),
         ("activity_heatmap.png", chart_activity_heatmap, (subs,)),
-    ]:
+    ]
+    if rating_history:
+        chart_list.append(("rating_history.png", chart_rating_history, (rating_history,)))
+    for name, fn, args in chart_list:
         try:
             fn(*args)
             made[name] = True
@@ -362,7 +407,8 @@ def generate_readme(subs, local_code, handle):
         lang_count[normalize_lang(raw_lang)] += 1
 
     heat, longest, current = build_streak_calendar(subs)
-    chart_status = generate_all_charts(subs, local_code)
+    rating_history = get_rating_history(handle)
+    chart_status = generate_all_charts(subs, local_code, rating_history)
 
     lines = [
         "# CF Vault", "",
@@ -371,29 +417,26 @@ def generate_readme(subs, local_code, handle):
         f"- **Total solved:** {total}",
         f"- **With source attached:** {with_code} / {total}",
         f"- **Longest streak:** {longest} days  |  **Current streak:** {current} days",
-        "",
     ]
+    if rating_history:
+        lines.append(f"- **Contest rating:** {rating_history[-1]['newRating']} (max {max(h['newRating'] for h in rating_history)})")
+    lines.append("")
 
     lines.append("## 📊 Analytics")
     lines.append("")
-    if chart_status.get("activity_heatmap.png"):
-        lines += ['<img src="assets/charts/activity_heatmap.png" width="100%" />', ""]
-    if chart_status.get("cumulative_progress.png"):
-        lines += ['<img src="assets/charts/cumulative_progress.png" width="100%" />', ""]
 
-    def _row(left_key, right_key):
-        if not (chart_status.get(left_key) or chart_status.get(right_key)):
-            return []
-        row = ["<table>", "<tr>"]
-        if chart_status.get(left_key):
-            row.append(f'<td width="50%"><img src="assets/charts/{left_key}" width="100%" /></td>')
-        if chart_status.get(right_key):
-            row.append(f'<td width="50%"><img src="assets/charts/{right_key}" width="100%" /></td>')
-        row += ["</tr>", "</table>", ""]
-        return row
-
-    lines += _row("rating_distribution.png", "tag_distribution.png")
-    lines += _row("language_breakdown.png", "problem_type_distribution.png")
+    chart_order = [
+        "rating_history.png",
+        "activity_heatmap.png",
+        "cumulative_progress.png",
+        "rating_distribution.png",
+        "tag_distribution.png",
+        "language_breakdown.png",
+        "problem_type_distribution.png",
+    ]
+    for chart_file in chart_order:
+        if chart_status.get(chart_file):
+            lines += [f'<img src="assets/charts/{chart_file}" width="100%" />', ""]
 
     if not any(chart_status.values()):
         lines += ["_(charts unavailable this run — text summary below)_", "", "```", heat, "```", ""]

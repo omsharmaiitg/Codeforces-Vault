@@ -5,26 +5,23 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 - **Total solved:** 60
 - **With source attached:** 0 / 60
 - **Longest streak:** 11 days  |  **Current streak:** 0 days
+- **Contest rating:** 1192 (max 1192)
 
 ## 📊 Analytics
+
+<img src="assets/charts/rating_history.png" width="100%" />
 
 <img src="assets/charts/activity_heatmap.png" width="100%" />
 
 <img src="assets/charts/cumulative_progress.png" width="100%" />
 
-<table>
-<tr>
-<td width="50%"><img src="assets/charts/rating_distribution.png" width="100%" /></td>
-<td width="50%"><img src="assets/charts/tag_distribution.png" width="100%" /></td>
-</tr>
-</table>
+<img src="assets/charts/rating_distribution.png" width="100%" />
 
-<table>
-<tr>
-<td width="50%"><img src="assets/charts/language_breakdown.png" width="100%" /></td>
-<td width="50%"><img src="assets/charts/problem_type_distribution.png" width="100%" /></td>
-</tr>
-</table>
+<img src="assets/charts/tag_distribution.png" width="100%" />
+
+<img src="assets/charts/language_breakdown.png" width="100%" />
+
+<img src="assets/charts/problem_type_distribution.png" width="100%" />
 
 <details>
 <summary>📋 Raw tables (language / rating / tag breakdown)</summary>
