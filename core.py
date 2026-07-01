@@ -137,6 +137,32 @@ def normalize_lang(raw_lang):
     return raw_lang or "Other"
 
 
+def chart_problem_type_distribution(subs):
+    """Pie chart of solved problems grouped by contest position letter (A, B, C...)."""
+    type_count = defaultdict(int)
+    for s in subs:
+        idx = s["problem"].get("index", "?")
+        letter = idx[0].upper() if idx else "?"
+        type_count[letter] += 1
+
+    letters = sorted(type_count.keys())
+    counts = [type_count[l] for l in letters]
+    colors = [PALETTE[i % len(PALETTE)] for i in range(len(letters))]
+
+    fig, ax = plt.subplots(figsize=(6, 6))
+    wedges, _ = ax.pie(
+        counts, colors=colors, startangle=90,
+        wedgeprops={"width": 0.42, "edgecolor": "white", "linewidth": 1.5},
+    )
+    ax.set_title("Solved by Problem Type (position)", fontsize=13, fontweight="bold", loc="left")
+    legend_labels = [f"{l} : {c}" for l, c in zip(letters, counts)]
+    ax.legend(
+        wedges, legend_labels, loc="center left", bbox_to_anchor=(1.02, 0.5),
+        fontsize=9, frameon=False, handlelength=1.2, handleheight=1.2,
+    )
+    return _save(fig, "problem_type_distribution.png")
+
+
 def _save(fig, name):
     ASSETS_DIR.mkdir(parents=True, exist_ok=True)
     path = ASSETS_DIR / name
@@ -283,6 +309,7 @@ def generate_all_charts(subs, local_code):
         ("tag_distribution.png", chart_tag_distribution, (subs,)),
         ("cumulative_progress.png", chart_cumulative_progress, (subs,)),
         ("language_breakdown.png", chart_language_breakdown, (subs, local_code)),
+        ("problem_type_distribution.png", chart_problem_type_distribution, (subs,)),
         ("activity_heatmap.png", chart_activity_heatmap, (subs,)),
     ]:
         try:
@@ -350,19 +377,23 @@ def generate_readme(subs, local_code, handle):
     lines.append("## 📊 Analytics")
     lines.append("")
     if chart_status.get("activity_heatmap.png"):
-        lines += ["![Activity heatmap](assets/charts/activity_heatmap.png)", ""]
+        lines += ['<img src="assets/charts/activity_heatmap.png" width="100%" />', ""]
     if chart_status.get("cumulative_progress.png"):
-        lines += ["![Cumulative progress](assets/charts/cumulative_progress.png)", ""]
-    if chart_status.get("rating_distribution.png") or chart_status.get("tag_distribution.png"):
-        lines.append('<p float="left">')
-        if chart_status.get("rating_distribution.png"):
-            lines.append('  <img src="assets/charts/rating_distribution.png" width="48%" />')
-        if chart_status.get("tag_distribution.png"):
-            lines.append('  <img src="assets/charts/tag_distribution.png" width="48%" />')
-        lines.append("</p>")
-        lines.append("")
-    if chart_status.get("language_breakdown.png"):
-        lines += ['<img src="assets/charts/language_breakdown.png" width="320" />', ""]
+        lines += ['<img src="assets/charts/cumulative_progress.png" width="100%" />', ""]
+
+    def _row(left_key, right_key):
+        if not (chart_status.get(left_key) or chart_status.get(right_key)):
+            return []
+        row = ["<table>", "<tr>"]
+        if chart_status.get(left_key):
+            row.append(f'<td width="50%"><img src="assets/charts/{left_key}" width="100%" /></td>')
+        if chart_status.get(right_key):
+            row.append(f'<td width="50%"><img src="assets/charts/{right_key}" width="100%" /></td>')
+        row += ["</tr>", "</table>", ""]
+        return row
+
+    lines += _row("rating_distribution.png", "tag_distribution.png")
+    lines += _row("language_breakdown.png", "problem_type_distribution.png")
 
     if not any(chart_status.values()):
         lines += ["_(charts unavailable this run — text summary below)_", "", "```", heat, "```", ""]

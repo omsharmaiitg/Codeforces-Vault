@@ -8,16 +8,23 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 ## 📊 Analytics
 
-![Activity heatmap](assets/charts/activity_heatmap.png)
+<img src="assets/charts/activity_heatmap.png" width="100%" />
 
-![Cumulative progress](assets/charts/cumulative_progress.png)
+<img src="assets/charts/cumulative_progress.png" width="100%" />
 
-<p float="left">
-  <img src="assets/charts/rating_distribution.png" width="48%" />
-  <img src="assets/charts/tag_distribution.png" width="48%" />
-</p>
+<table>
+<tr>
+<td width="50%"><img src="assets/charts/rating_distribution.png" width="100%" /></td>
+<td width="50%"><img src="assets/charts/tag_distribution.png" width="100%" /></td>
+</tr>
+</table>
 
-<img src="assets/charts/language_breakdown.png" width="320" />
+<table>
+<tr>
+<td width="50%"><img src="assets/charts/language_breakdown.png" width="100%" /></td>
+<td width="50%"><img src="assets/charts/problem_type_distribution.png" width="100%" /></td>
+</tr>
+</table>
 
 <details>
 <summary>📋 Raw tables (language / rating / tag breakdown)</summary>
