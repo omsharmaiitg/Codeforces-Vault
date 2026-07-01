@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 """
-auto_sync.py — long-running watcher tied to REAL Codeforces acceptance.
+auto_sync.py — long-running watcher tied to REAL Codeforces acceptance
+AND rating changes.
 
 It does NOT watch your local files for saves. It polls the Codeforces API
-every SYNC_INTERVAL seconds and checks: "is there a problem with verdict OK
-that I haven't committed yet?" Only when that's true does it:
-  1. write the problem folder (pulling your code from solutions/ if present)
-  2. git commit (one commit per newly-accepted problem)
-  3. git push
-
-If nothing new got accepted, it does nothing that cycle — no empty/fake commits.
+every SYNC_INTERVAL seconds and, every cycle:
+  1. checks for newly-accepted problems (writes their folders)
+  2. ALWAYS regenerates README.md + all analytics charts (rating history,
+     activity heatmap, etc.) — this matters even when zero new problems
+     were solved, e.g. after a contest that only changed your rating.
+  3. stages everything, and commits+pushes ONLY IF something actually
+     changed on disk (git commit is a no-op otherwise) — so idle cycles
+     never create empty/fake commits.
 
 Usage:
     export CF_HANDLE=your_handle
@@ -25,7 +27,7 @@ import os
 import json
 import time
 import subprocess
-from datetime import datetime, timezone
+from datetime import datetime
 import core
 
 CF_HANDLE = os.environ.get("CF_HANDLE", "").strip()
@@ -43,56 +45,47 @@ def save_state(done):
     STATE_FILE.write_text(json.dumps(sorted(done)), encoding="utf-8")
 
 
-def git(*args, env_extra=None):
-    env = os.environ.copy()
-    if env_extra:
-        env.update(env_extra)
-    result = subprocess.run(["git", *args], cwd=core.REPO_ROOT, env=env,
+def git(*args):
+    result = subprocess.run(["git", *args], cwd=core.REPO_ROOT,
                              capture_output=True, text=True)
     if result.returncode != 0:
         print(f"  git {' '.join(args)} failed: {result.stderr.strip()}")
     return result
 
 
-def commit_and_push(sub, prob_dir, has_code):
-    key = core.problem_key(sub["problem"])
-    name = sub["problem"].get("name", "?")
-    ts = sub["creationTimeSeconds"]
-    iso_date = datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
-
-    rel_path = str(prob_dir.relative_to(core.REPO_ROOT))
-    git("add", rel_path, "README.md", ".synced_problems.json")
-    msg = f"Solve {key} - {name}" + (" [with code]" if has_code else "")
-    res = git("commit", "-m", msg, env_extra={"GIT_AUTHOR_DATE": iso_date, "GIT_COMMITTER_DATE": iso_date})
-    if res.returncode != 0:
-        return False
-    push_res = git("push")
-    return push_res.returncode == 0
-
-
 def sync_once(done):
+    """Returns (new_problem_count, committed: bool)."""
     subs = core.get_accepted_submissions(CF_HANDLE)
     new_subs = [s for s in subs if core.problem_key(s["problem"]) not in done]
-    if not new_subs:
-        return 0
-
     local_code = core.load_local_solutions()
-    pushed = 0
+
     for s in new_subs:
-        key = core.problem_key(s["problem"])
-        tag_dir, folder, prob_dir = core.write_problem_folder(s, local_code)
-        core.generate_readme(subs, local_code, CF_HANDLE)  # keep index in sync
-        done.add(key)
-        save_state(done)
-        ok = commit_and_push(s, prob_dir, key in local_code)
-        if ok:
-            pushed += 1
-            print(f"  ✅ pushed {key} - {s['problem'].get('name','?')}")
-        else:
-            print(f"  ⚠️  failed to push {key}, will retry next cycle")
-            done.discard(key)
-            save_state(done)
-    return pushed
+        core.write_problem_folder(s, local_code)
+        done.add(core.problem_key(s["problem"]))
+
+    # Always regenerate — this is what picks up rating changes, streak
+    # updates, and chart refreshes even when no new problem was solved.
+    core.generate_readme(subs, local_code, CF_HANDLE)
+    save_state(done)
+
+    git("add", "problems", "README.md", "assets", str(STATE_FILE.name))
+    diff_check = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=core.REPO_ROOT)
+    if diff_check.returncode == 0:
+        return len(new_subs), False  # nothing actually changed, no-op
+
+    if new_subs:
+        names = ", ".join(core.problem_key(s["problem"]) for s in new_subs[:5])
+        suffix = f" (+{len(new_subs) - 5} more)" if len(new_subs) > 5 else ""
+        msg = f"Sync: {len(new_subs)} new problem(s) — {names}{suffix}"
+    else:
+        msg = "Sync: refresh analytics (rating/streak update, no new problems)"
+
+    commit_res = git("commit", "-m", msg)
+    if commit_res.returncode != 0:
+        return len(new_subs), False
+
+    push_res = git("push")
+    return len(new_subs), push_res.returncode == 0
 
 
 def main():
@@ -105,22 +98,25 @@ def main():
     print(f"auto_sync.py running for {CF_HANDLE}" + (" (single run mode)." if run_once else f", polling every {SYNC_INTERVAL}s. Ctrl+C to stop."))
     print(f"Already tracked: {len(done)} problems.\n")
 
-    if run_once:
+    def cycle():
         now = datetime.now().strftime("%H:%M:%S")
-        n = sync_once(done)
-        print(f"[{now}] {n} new problem(s) synced." if n else f"[{now}] no new AC submissions.")
+        try:
+            n_new, committed = sync_once(done)
+            if committed and n_new:
+                print(f"[{now}] pushed {n_new} new problem(s) + refreshed analytics.")
+            elif committed:
+                print(f"[{now}] refreshed analytics (rating/streak change detected), pushed.")
+            else:
+                print(f"[{now}] no changes to sync.")
+        except Exception as e:
+            print(f"[{now}] [error] {e}")
+
+    if run_once:
+        cycle()
         return
 
     while True:
-        try:
-            now = datetime.now().strftime("%H:%M:%S")
-            n = sync_once(done)
-            if n:
-                print(f"[{now}] {n} new problem(s) synced.")
-            else:
-                print(f"[{now}] no new AC submissions.")
-        except Exception as e:
-            print(f"[error] {e}")
+        cycle()
         time.sleep(SYNC_INTERVAL)
 
 

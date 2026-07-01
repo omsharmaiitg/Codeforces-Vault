@@ -77,6 +77,15 @@ def get_accepted_submissions(handle):
     return sorted(best.values(), key=lambda s: s["creationTimeSeconds"])
 
 
+def get_all_ac_timestamps(handle):
+    """Every accepted submission's timestamp (NOT deduped per problem).
+    Used for streak/activity — resubmitting or re-solving an already-AC'd
+    problem still counts as activity that day, matching how CF's own
+    streak counters work."""
+    subs = cf_get("user.status", {"handle": handle, "from": 1, "count": 100000})
+    return [s["creationTimeSeconds"] for s in subs if s.get("verdict") == "OK"]
+
+
 def get_rating_history(handle):
     """List of contest rating changes, oldest first. Empty list if user has never rated."""
     try:
@@ -299,11 +308,11 @@ def chart_language_breakdown(subs, local_code):
     return _save(fig, "language_breakdown.png")
 
 
-def chart_activity_heatmap(subs, weeks=52):
+def chart_activity_heatmap(timestamps, weeks=52):
     """GitHub-style contribution calendar for the last `weeks` weeks."""
     by_day = defaultdict(int)
-    for s in subs:
-        d = datetime.utcfromtimestamp(s["creationTimeSeconds"]).date()
+    for ts in timestamps:
+        d = datetime.utcfromtimestamp(ts).date()
         by_day[d] += 1
 
     today = datetime.utcnow().date()
@@ -342,17 +351,18 @@ def chart_activity_heatmap(subs, weeks=52):
     return _save(fig, "activity_heatmap.png")
 
 
-def generate_all_charts(subs, local_code, rating_history=None):
+def generate_all_charts(subs, local_code, rating_history=None, all_ac_timestamps=None):
     """Generates every chart, tolerating individual failures so one bad
     chart doesn't block README generation."""
     made = {}
+    heatmap_source = all_ac_timestamps if all_ac_timestamps is not None else [s["creationTimeSeconds"] for s in subs]
     chart_list = [
         ("rating_distribution.png", chart_rating_distribution, (subs,)),
         ("tag_distribution.png", chart_tag_distribution, (subs,)),
         ("cumulative_progress.png", chart_cumulative_progress, (subs,)),
         ("language_breakdown.png", chart_language_breakdown, (subs, local_code)),
         ("problem_type_distribution.png", chart_problem_type_distribution, (subs,)),
-        ("activity_heatmap.png", chart_activity_heatmap, (subs,)),
+        ("activity_heatmap.png", chart_activity_heatmap, (heatmap_source,)),
     ]
     if rating_history:
         chart_list.append(("rating_history.png", chart_rating_history, (rating_history,)))
@@ -366,10 +376,10 @@ def generate_all_charts(subs, local_code, rating_history=None):
     return made
 
 
-def build_streak_calendar(subs, weeks=12):
+def build_streak_calendar(timestamps, weeks=12):
     by_day = defaultdict(int)
-    for s in subs:
-        d = datetime.utcfromtimestamp(s["creationTimeSeconds"]).date()
+    for ts in timestamps:
+        d = datetime.utcfromtimestamp(ts).date()
         by_day[d] += 1
 
     today = datetime.utcnow().date()
@@ -406,9 +416,10 @@ def generate_readme(subs, local_code, handle):
         raw_lang = local_code.get(key, (s.get("programmingLanguage", "Other"),))[0]
         lang_count[normalize_lang(raw_lang)] += 1
 
-    heat, longest, current = build_streak_calendar(subs)
+    all_ac_timestamps = get_all_ac_timestamps(handle)
+    heat, longest, current = build_streak_calendar(all_ac_timestamps)
     rating_history = get_rating_history(handle)
-    chart_status = generate_all_charts(subs, local_code, rating_history)
+    chart_status = generate_all_charts(subs, local_code, rating_history, all_ac_timestamps)
 
     lines = [
         "# CF Vault", "",
