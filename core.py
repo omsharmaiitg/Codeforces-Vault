@@ -5,6 +5,10 @@ core.py — shared logic for CF Vault scripts (fetch.py, backfill.py, auto_sync.
 import os
 import re
 import requests
+import matplotlib
+matplotlib.use("Agg")  # no display needed, works in CI
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 from pathlib import Path
 from collections import defaultdict
 from datetime import datetime, timedelta
@@ -12,8 +16,27 @@ from datetime import datetime, timedelta
 REPO_ROOT = Path(os.environ.get("REPO_ROOT", "."))
 SOLUTIONS_DIR = REPO_ROOT / "solutions"
 PROBLEMS_DIR = REPO_ROOT / "problems"
+ASSETS_DIR = REPO_ROOT / "assets" / "charts"
 
 EXT_TO_LANG = {".cpp": "C++", ".py": "Python", ".java": "Java"}
+
+# ---- shared chart look & feel -------------------------------------------------
+plt.rcParams.update({
+    "figure.facecolor": "white",
+    "axes.facecolor": "white",
+    "axes.edgecolor": "#444444",
+    "axes.labelcolor": "#222222",
+    "text.color": "#222222",
+    "xtick.color": "#444444",
+    "ytick.color": "#444444",
+    "font.size": 10,
+    "axes.grid": True,
+    "grid.color": "#e6e6e6",
+    "grid.linewidth": 0.6,
+})
+ACCENT = "#2f81f7"      # GitHub-blue-ish accent
+ACCENT2 = "#3fb950"     # green accent
+PALETTE = ["#2f81f7", "#3fb950", "#f0883e", "#a371f7", "#f85149", "#db61a2", "#56d364"]
 
 
 def cf_get(method, params):
@@ -103,6 +126,168 @@ def write_problem_folder(sub, local_code):
     return tag_dir, folder, prob_dir
 
 
+def normalize_lang(raw_lang):
+    lang_l = (raw_lang or "Other").lower()
+    if "c++" in lang_l or "gnu c" in lang_l:
+        return "C++"
+    if "python" in lang_l or "pypy" in lang_l:
+        return "Python"
+    if "java" in lang_l:
+        return "Java"
+    return raw_lang or "Other"
+
+
+def _save(fig, name):
+    ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+    path = ASSETS_DIR / name
+    fig.tight_layout()
+    fig.savefig(path, dpi=150)
+    plt.close(fig)
+    return path
+
+
+def chart_rating_distribution(subs):
+    buckets = defaultdict(int)
+    for s in subs:
+        r = s["problem"].get("rating")
+        buckets[r if r else 0] += 1
+    xs = sorted(buckets.keys())
+    labels = [("Unrated" if x == 0 else str(x)) for x in xs]
+    ys = [buckets[x] for x in xs]
+
+    fig, ax = plt.subplots(figsize=(9, 4))
+    ax.bar(labels, ys, color=ACCENT, width=0.7)
+    ax.set_title("Problems Solved by Rating", fontsize=13, fontweight="bold")
+    ax.set_xlabel("Rating")
+    ax.set_ylabel("Problems solved")
+    ax.tick_params(axis="x", rotation=60)
+    for i, y in enumerate(ys):
+        ax.text(i, y + max(ys) * 0.01, str(y), ha="center", fontsize=8)
+    return _save(fig, "rating_distribution.png")
+
+
+def chart_tag_distribution(subs, top_n=15):
+    tag_count = defaultdict(int)
+    for s in subs:
+        for t in s["problem"].get("tags", []):
+            tag_count[t] += 1
+    top = sorted(tag_count.items(), key=lambda x: x[1])[-top_n:]
+    tags = [t[0] for t in top]
+    counts = [t[1] for t in top]
+
+    fig, ax = plt.subplots(figsize=(8, max(4, len(tags) * 0.35)))
+    ax.barh(tags, counts, color=ACCENT2)
+    ax.set_title(f"Top {len(tags)} Tags", fontsize=13, fontweight="bold")
+    ax.set_xlabel("Problems solved")
+    for i, c in enumerate(counts):
+        ax.text(c + max(counts) * 0.01, i, str(c), va="center", fontsize=8)
+    return _save(fig, "tag_distribution.png")
+
+
+def chart_cumulative_progress(subs):
+    dates = sorted(datetime.utcfromtimestamp(s["creationTimeSeconds"]).date() for s in subs)
+    if not dates:
+        return None
+    cum_x, cum_y = [], []
+    count = 0
+    for d in dates:
+        count += 1
+        cum_x.append(d)
+        cum_y.append(count)
+
+    fig, ax = plt.subplots(figsize=(9, 4))
+    ax.plot(cum_x, cum_y, color=ACCENT, linewidth=2)
+    ax.fill_between(cum_x, cum_y, color=ACCENT, alpha=0.12)
+    ax.set_title("Cumulative Problems Solved Over Time", fontsize=13, fontweight="bold")
+    ax.set_ylabel("Total solved")
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
+    fig.autofmt_xdate()
+    return _save(fig, "cumulative_progress.png")
+
+
+def chart_language_breakdown(subs, local_code):
+    lang_count = defaultdict(int)
+    for s in subs:
+        key = problem_key(s["problem"])
+        raw_lang = local_code.get(key, (s.get("programmingLanguage", "Other"),))[0]
+        lang_count[normalize_lang(raw_lang)] += 1
+
+    labels = list(lang_count.keys())
+    sizes = list(lang_count.values())
+    colors = PALETTE[: len(labels)]
+
+    fig, ax = plt.subplots(figsize=(5, 5))
+    wedges, texts, autotexts = ax.pie(
+        sizes, labels=labels, autopct="%1.0f%%", colors=colors,
+        startangle=90, textprops={"fontsize": 10}
+    )
+    ax.set_title("Solved by Language", fontsize=13, fontweight="bold")
+    return _save(fig, "language_breakdown.png")
+
+
+def chart_activity_heatmap(subs, weeks=52):
+    """GitHub-style contribution calendar for the last `weeks` weeks."""
+    by_day = defaultdict(int)
+    for s in subs:
+        d = datetime.utcfromtimestamp(s["creationTimeSeconds"]).date()
+        by_day[d] += 1
+
+    today = datetime.utcnow().date()
+    # align start to the most recent Sunday on/before (today - weeks*7)
+    start = today - timedelta(days=weeks * 7 - 1)
+    start -= timedelta(days=(start.weekday() + 1) % 7)  # back up to Sunday
+
+    n_days = (today - start).days + 1
+    n_weeks = n_days // 7 + 1
+    grid = [[None] * n_weeks for _ in range(7)]  # 7 rows (Sun..Sat), n_weeks cols
+
+    day = start
+    while day <= today:
+        w = (day - start).days // 7
+        dow = (day.weekday() + 1) % 7  # convert Mon=0..Sun=6 -> Sun=0..Sat=6
+        grid[dow][w] = by_day.get(day, 0)
+        day += timedelta(days=1)
+
+    max_count = max((c for row in grid for c in row if c is not None), default=1) or 1
+
+    fig, ax = plt.subplots(figsize=(max(8, n_weeks * 0.22), 2.4))
+    for dow in range(7):
+        for w in range(n_weeks):
+            c = grid[dow][w]
+            if c is None:
+                continue
+            intensity = 0 if c == 0 else min(1.0, 0.25 + 0.75 * (c / max_count))
+            color = "#ebedf0" if c == 0 else plt.cm.Greens(intensity)
+            ax.add_patch(plt.Rectangle((w, 6 - dow), 0.85, 0.85, color=color))
+
+    ax.set_xlim(-0.5, n_weeks + 0.5)
+    ax.set_ylim(-0.5, 7.5)
+    ax.set_aspect("equal")
+    ax.axis("off")
+    ax.set_title(f"Activity — last {weeks} weeks", fontsize=13, fontweight="bold", loc="left")
+    return _save(fig, "activity_heatmap.png")
+
+
+def generate_all_charts(subs, local_code):
+    """Generates every chart, tolerating individual failures so one bad
+    chart doesn't block README generation."""
+    made = {}
+    for name, fn, args in [
+        ("rating_distribution.png", chart_rating_distribution, (subs,)),
+        ("tag_distribution.png", chart_tag_distribution, (subs,)),
+        ("cumulative_progress.png", chart_cumulative_progress, (subs,)),
+        ("language_breakdown.png", chart_language_breakdown, (subs, local_code)),
+        ("activity_heatmap.png", chart_activity_heatmap, (subs,)),
+    ]:
+        try:
+            fn(*args)
+            made[name] = True
+        except Exception as e:
+            print(f"  [charts] skipped {name}: {e}")
+            made[name] = False
+    return made
+
+
 def build_streak_calendar(subs, weeks=12):
     by_day = defaultdict(int)
     for s in subs:
@@ -140,10 +325,11 @@ def generate_readme(subs, local_code, handle):
             tag_count[t] += 1
         rating_count[rating_bucket(p.get("rating"))] += 1
         key = problem_key(p)
-        lang = local_code.get(key, (s.get("programmingLanguage", "?"),))[0]
-        lang_count[lang] += 1
+        raw_lang = local_code.get(key, (s.get("programmingLanguage", "Other"),))[0]
+        lang_count[normalize_lang(raw_lang)] += 1
 
     heat, longest, current = build_streak_calendar(subs)
+    chart_status = generate_all_charts(subs, local_code)
 
     lines = [
         "# CF Vault", "",
@@ -152,7 +338,30 @@ def generate_readme(subs, local_code, handle):
         f"- **Total solved:** {total}",
         f"- **With source attached:** {with_code} / {total}",
         f"- **Longest streak:** {longest} days  |  **Current streak:** {current} days",
-        "", "## Activity (last 12 weeks)", "", "```", heat, "```", "",
+        "",
+    ]
+
+    lines.append("## 📊 Analytics")
+    lines.append("")
+    if chart_status.get("activity_heatmap.png"):
+        lines += ["![Activity heatmap](assets/charts/activity_heatmap.png)", ""]
+    if chart_status.get("cumulative_progress.png"):
+        lines += ["![Cumulative progress](assets/charts/cumulative_progress.png)", ""]
+    if chart_status.get("rating_distribution.png") or chart_status.get("tag_distribution.png"):
+        lines.append('<p float="left">')
+        if chart_status.get("rating_distribution.png"):
+            lines.append('  <img src="assets/charts/rating_distribution.png" width="48%" />')
+        if chart_status.get("tag_distribution.png"):
+            lines.append('  <img src="assets/charts/tag_distribution.png" width="48%" />')
+        lines.append("</p>")
+        lines.append("")
+    if chart_status.get("language_breakdown.png"):
+        lines += ['<img src="assets/charts/language_breakdown.png" width="320" />', ""]
+
+    if not any(chart_status.values()):
+        lines += ["_(charts unavailable this run — text summary below)_", "", "```", heat, "```", ""]
+
+    lines += [
         "## By language", "", "| Language | Solved |", "|---|---|",
     ]
     for lang, c in sorted(lang_count.items(), key=lambda x: -x[1]):
