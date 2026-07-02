@@ -1,35 +1,28 @@
 name: Sync CF Vault
-
 on:
   schedule:
     - cron: "*/30 * * * *"   # every 30 minutes
-  workflow_dispatch: {}       # allows manual "Run workflow" trigger
+  workflow_dispatch: {}      
   push:
     paths:
       - "solutions/**"
-
 permissions:
   contents: write
-
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # full history so dated commits don't conflict
-
+          fetch-depth: 0  
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - run: pip install -r requirements.txt
-
       - name: Configure git identity
         run: |
-          git config user.name "cf-vault-bot"
-          git config user.email "actions@github.com"
-
+          git config user.name "Om Sharma"
+          git config user.email "omsharma8834@gmail.com"
       - name: Check for newly accepted problems and push
         env:
           CF_HANDLE: ${{ vars.CF_HANDLE }}
