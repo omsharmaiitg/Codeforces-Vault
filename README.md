@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 63
-- **With source attached:** 0 / 63
+- **Total solved:** 64
+- **With source attached:** 0 / 64
 - **Longest streak:** 14 days  |  **Current streak:** 14 days
 - **Contest rating:** 1242 (max 1242)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 63 |
+| C++ | 64 |
 
 ### By rating
 
@@ -41,7 +41,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0900 | 10 |
 | 1000 | 2 |
 | 1100 | 4 |
-| 1200 | 6 |
+| 1200 | 7 |
 | 1300 | 4 |
 | 1400 | 1 |
 | 1500 | 8 |
@@ -55,20 +55,20 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | `greedy` | 31 |
 | `math` | 30 |
-| `implementation` | 16 |
+| `implementation` | 17 |
 | `brute force` | 15 |
+| `dp` | 10 |
 | `binary search` | 10 |
-| `dp` | 9 |
 | `number theory` | 8 |
 | `constructive algorithms` | 7 |
 | `sortings` | 5 |
 | `strings` | 4 |
 | `two pointers` | 4 |
+| `combinatorics` | 3 |
 | `data structures` | 2 |
 | `bitmasks` | 2 |
 | `dfs and similar` | 2 |
 | `graphs` | 2 |
-| `combinatorics` | 2 |
 | `geometry` | 1 |
 | `interactive` | 1 |
 | `ternary search` | 1 |
@@ -125,6 +125,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2240B | [AI Finds Nothing Here](problems/combinatorics/1100_2240B-AI-Finds-Nothing-Here) | 1100 | `combinatorics`, `math` | — | [CF](https://codeforces.com/contest/2240/problem/B) |
 | 961B | [Lecture Sleep](problems/data-structures/1200_961B-Lecture-Sleep) | 1200 | `data structures`, `dp`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/961/problem/B) |
 | 1076B | [Divisor Subtraction](problems/implementation/1200_1076B-Divisor-Subtraction) | 1200 | `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1076/problem/B) |
+| 1272C | [Yet Another Broken Keyboard](problems/combinatorics/1200_1272C-Yet-Another-Broken-Keyboard) | 1200 | `combinatorics`, `dp`, `implementation` | — | [CF](https://codeforces.com/contest/1272/problem/C) |
 | 1546B | [AquaMoon and Stolen String](problems/interactive/1200_1546B-AquaMoon-and-Stolen-String) | 1200 | `interactive`, `math` | — | [CF](https://codeforces.com/contest/1546/problem/B) |
 | 1613C | [Poisoned Dagger](problems/binary-search/1200_1613C-Poisoned-Dagger) | 1200 | `binary search` | — | [CF](https://codeforces.com/contest/1613/problem/C) |
 | 1925B | [A Balanced Problemset?](problems/brute-force/1200_1925B-A-Balanced-Problemset) | 1200 | `brute force`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1925/problem/B) |
