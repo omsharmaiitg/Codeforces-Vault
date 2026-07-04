@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 64
-- **With source attached:** 0 / 64
-- **Longest streak:** 14 days  |  **Current streak:** 0 days
+- **Total solved:** 65
+- **With source attached:** 0 / 65
+- **Longest streak:** 15 days  |  **Current streak:** 15 days
 - **Contest rating:** 1242 (max 1242)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 64 |
+| C++ | 65 |
 
 ### By rating
 
@@ -40,7 +40,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0800 | 21 |
 | 0900 | 10 |
 | 1000 | 2 |
-| 1100 | 4 |
+| 1100 | 5 |
 | 1200 | 7 |
 | 1300 | 4 |
 | 1400 | 1 |
@@ -53,19 +53,19 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 31 |
+| `greedy` | 32 |
 | `math` | 30 |
 | `implementation` | 17 |
 | `brute force` | 15 |
 | `dp` | 10 |
 | `binary search` | 10 |
 | `number theory` | 8 |
-| `constructive algorithms` | 7 |
-| `sortings` | 5 |
+| `constructive algorithms` | 8 |
+| `sortings` | 6 |
 | `strings` | 4 |
 | `two pointers` | 4 |
+| `data structures` | 3 |
 | `combinatorics` | 3 |
-| `data structures` | 2 |
 | `bitmasks` | 2 |
 | `dfs and similar` | 2 |
 | `graphs` | 2 |
@@ -120,6 +120,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
 | 2236C | [Omsk Programmers](problems/brute-force/1000_2236C-Omsk-Programmers) | 1000 | `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2236/problem/C) |
 | 1942B | [Bessie and MEX](problems/constructive-algorithms/1100_1942B-Bessie-and-MEX) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1942/problem/B) |
+| 2063B | [Subsequence Update](problems/constructive-algorithms/1100_2063B-Subsequence-Update) | 1100 | `constructive algorithms`, `data structures`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/2063/problem/B) |
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](problems/binary-search/1100_2065C1-Skibidus-and-Fanum-Tax-easy-version) | 1100 | `binary search`, `dp`, `greedy` | — | [CF](https://codeforces.com/contest/2065/problem/C1) |
 | 2169B | [Drifting Away](problems/greedy/1100_2169B-Drifting-Away) | 1100 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/2169/problem/B) |
 | 2240B | [AI Finds Nothing Here](problems/combinatorics/1100_2240B-AI-Finds-Nothing-Here) | 1100 | `combinatorics`, `math` | — | [CF](https://codeforces.com/contest/2240/problem/B) |
