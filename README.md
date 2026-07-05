@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 66
-- **With source attached:** 0 / 66
+- **Total solved:** 67
+- **With source attached:** 0 / 67
 - **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 1242 (max 1242)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 66 |
+| C++ | 67 |
 
 ### By rating
 
@@ -45,7 +45,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1300 | 4 |
 | 1400 | 1 |
 | 1500 | 8 |
-| 1600 | 2 |
+| 1600 | 3 |
 | 1700 | 2 |
 | Unrated | 3 |
 
@@ -53,12 +53,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 32 |
-| `math` | 30 |
-| `implementation` | 18 |
+| `greedy` | 33 |
+| `math` | 31 |
+| `implementation` | 19 |
 | `brute force` | 16 |
+| `binary search` | 12 |
 | `dp` | 11 |
-| `binary search` | 11 |
 | `number theory` | 9 |
 | `constructive algorithms` | 8 |
 | `sortings` | 6 |
@@ -66,12 +66,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `two pointers` | 4 |
 | `data structures` | 3 |
 | `combinatorics` | 3 |
+| `geometry` | 2 |
+| `ternary search` | 2 |
 | `bitmasks` | 2 |
 | `dfs and similar` | 2 |
 | `graphs` | 2 |
-| `geometry` | 1 |
 | `interactive` | 1 |
-| `ternary search` | 1 |
 | `dsu` | 1 |
 | `shortest paths` | 1 |
 | `games` | 1 |
@@ -147,5 +147,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2240D | [Decidophobia](problems/greedy/1500_2240D-Decidophobia) | 1500 | `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/2240/problem/D) |
 | 150B | [Quantity of Strings](problems/combinatorics/1600_150B-Quantity-of-Strings) | 1600 | `combinatorics`, `dfs and similar`, `graphs`, `math` | — | [CF](https://codeforces.com/contest/150/problem/B) |
 | 1610C | [Keshi Is Throwing a Party](problems/binary-search/1600_1610C-Keshi-Is-Throwing-a-Party) | 1600 | `binary search`, `greedy` | — | [CF](https://codeforces.com/contest/1610/problem/C) |
+| 1730B | [Meeting on the Line](problems/binary-search/1600_1730B-Meeting-on-the-Line) | 1600 | `binary search`, `geometry`, `greedy`, `implementation`, `math`, `ternary search` | — | [CF](https://codeforces.com/contest/1730/problem/B) |
 | 474D | [Flowers](problems/dp/1700_474D-Flowers) | 1700 | `dp` | — | [CF](https://codeforces.com/contest/474/problem/D) |
 | 2236E | [Friendly Gifts](problems/brute-force/1700_2236E-Friendly-Gifts) | 1700 | `brute force`, `dp` | — | [CF](https://codeforces.com/contest/2236/problem/E) |
