@@ -2,10 +2,10 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 69
-- **With source attached:** 0 / 69
+- **Total solved:** 70
+- **With source attached:** 0 / 70
 - **Longest streak:** 15 days  |  **Current streak:** 0 days
-- **Contest rating:** 1242 (max 1242)
+- **Contest rating:** 1294 (max 1294)
 
 ## 📊 Analytics
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 69 |
+| C++ | 70 |
 
 ### By rating
 
@@ -47,15 +47,15 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1500 | 8 |
 | 1600 | 3 |
 | 1700 | 2 |
-| Unrated | 5 |
+| Unrated | 6 |
 
 ### By tag
 
 | Tag | Count |
 |---|---|
-| `greedy` | 33 |
-| `math` | 31 |
-| `implementation` | 20 |
+| `greedy` | 34 |
+| `math` | 32 |
+| `implementation` | 21 |
 | `brute force` | 17 |
 | `binary search` | 12 |
 | `dp` | 11 |
@@ -63,8 +63,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `sortings` | 8 |
 | `constructive algorithms` | 8 |
 | `strings` | 5 |
+| `data structures` | 5 |
 | `two pointers` | 5 |
-| `data structures` | 4 |
 | `combinatorics` | 3 |
 | `geometry` | 2 |
 | `ternary search` | 2 |
@@ -88,6 +88,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2241D | [An Alternative Way](problems/dp/Unrated_2241D-An-Alternative-Way) | ? | `dp`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2241/problem/D) |
 | 2242A | [Bigrams](problems/sortings/Unrated_2242A-Bigrams) | ? | `sortings`, `strings` | — | [CF](https://codeforces.com/contest/2242/problem/A) |
 | 2242C | [Unstable Elements](problems/brute-force/Unrated_2242C-Unstable-Elements) | ? | `brute force`, `data structures`, `implementation`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2242/problem/C) |
+| 2242B | [Predominant Frequency Division](problems/data-structures/Unrated_2242B-Predominant-Frequency-Division) | ? | `data structures`, `greedy`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2242/problem/B) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
 | 1493A | [Anti-knapsack](problems/constructive-algorithms/0800_1493A-Anti-knapsack) | 800 | `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/1493/problem/A) |
