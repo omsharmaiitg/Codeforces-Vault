@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 72
-- **With source attached:** 0 / 72
+- **Total solved:** 74
+- **With source attached:** 0 / 74
 - **Longest streak:** 15 days  |  **Current streak:** 0 days
 - **Contest rating:** 1294 (max 1294)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 72 |
+| C++ | 74 |
 
 ### By rating
 
@@ -42,10 +42,10 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1000 | 2 |
 | 1100 | 6 |
 | 1200 | 7 |
-| 1300 | 4 |
+| 1300 | 5 |
 | 1400 | 2 |
 | 1500 | 8 |
-| 1600 | 4 |
+| 1600 | 5 |
 | 1700 | 2 |
 | Unrated | 6 |
 
@@ -53,18 +53,18 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 36 |
+| `greedy` | 37 |
 | `math` | 34 |
-| `implementation` | 21 |
-| `brute force` | 18 |
+| `implementation` | 22 |
+| `brute force` | 19 |
+| `binary search` | 13 |
 | `dp` | 12 |
-| `binary search` | 12 |
+| `sortings` | 10 |
 | `number theory` | 9 |
 | `constructive algorithms` | 9 |
-| `sortings` | 8 |
-| `two pointers` | 7 |
+| `two pointers` | 8 |
+| `data structures` | 6 |
 | `strings` | 5 |
-| `data structures` | 5 |
 | `combinatorics` | 4 |
 | `bitmasks` | 3 |
 | `geometry` | 2 |
@@ -137,6 +137,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2109B | [Slice to Survive](problems/bitmasks/1200_2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2109/problem/B) |
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
 | 1661B | [Getting Zero](problems/bitmasks/1300_1661B-Getting-Zero) | 1300 | `bitmasks`, `brute force`, `dfs and similar`, `dp`, `graphs`, `greedy`, `shortest paths` | — | [CF](https://codeforces.com/contest/1661/problem/B) |
+| 2041A | [The Bento Box Adventure](problems/implementation/1300_2041A-The-Bento-Box-Adventure) | 1300 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2041/problem/A) |
 | 2116B | [Gellyfish and Baby's Breath](problems/greedy/1300_2116B-Gellyfish-and-Babys-Breath) | 1300 | `greedy`, `math`, `sortings` | — | [CF](https://codeforces.com/contest/2116/problem/B) |
 | 2240C | [Nim Game Is XOR Game](problems/games/1300_2240C-Nim-Game-Is-XOR-Game) | 1300 | `games`, `greedy` | — | [CF](https://codeforces.com/contest/2240/problem/C) |
 | 279B | [Books](problems/binary-search/1400_279B-Books) | 1400 | `binary search`, `brute force`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/279/problem/B) |
@@ -153,5 +154,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1610C | [Keshi Is Throwing a Party](problems/binary-search/1600_1610C-Keshi-Is-Throwing-a-Party) | 1600 | `binary search`, `greedy` | — | [CF](https://codeforces.com/contest/1610/problem/C) |
 | 1730B | [Meeting on the Line](problems/binary-search/1600_1730B-Meeting-on-the-Line) | 1600 | `binary search`, `geometry`, `greedy`, `implementation`, `math`, `ternary search` | — | [CF](https://codeforces.com/contest/1730/problem/B) |
 | 2040C | [Ordered Permutations](problems/bitmasks/1600_2040C-Ordered-Permutations) | 1600 | `bitmasks`, `combinatorics`, `constructive algorithms`, `greedy`, `math`, `two pointers` | — | [CF](https://codeforces.com/contest/2040/problem/C) |
+| 2048D | [Kevin and Competition Memories](problems/binary-search/1600_2048D-Kevin-and-Competition-Memories) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2048/problem/D) |
 | 474D | [Flowers](problems/dp/1700_474D-Flowers) | 1700 | `dp` | — | [CF](https://codeforces.com/contest/474/problem/D) |
 | 2236E | [Friendly Gifts](problems/brute-force/1700_2236E-Friendly-Gifts) | 1700 | `brute force`, `dp` | — | [CF](https://codeforces.com/contest/2236/problem/E) |
