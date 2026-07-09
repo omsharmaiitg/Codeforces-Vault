@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 74
-- **With source attached:** 0 / 74
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 75
+- **With source attached:** 0 / 75
+- **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 1294 (max 1294)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 74 |
+| C++ | 75 |
 
 ### By rating
 
@@ -41,7 +41,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0900 | 10 |
 | 1000 | 2 |
 | 1100 | 6 |
-| 1200 | 7 |
+| 1200 | 8 |
 | 1300 | 5 |
 | 1400 | 2 |
 | 1500 | 8 |
@@ -54,14 +54,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 37 |
-| `math` | 34 |
+| `math` | 35 |
 | `implementation` | 22 |
 | `brute force` | 19 |
 | `binary search` | 13 |
 | `dp` | 12 |
 | `sortings` | 10 |
+| `constructive algorithms` | 10 |
 | `number theory` | 9 |
-| `constructive algorithms` | 9 |
 | `two pointers` | 8 |
 | `data structures` | 6 |
 | `strings` | 5 |
@@ -134,6 +134,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1546B | [AquaMoon and Stolen String](problems/interactive/1200_1546B-AquaMoon-and-Stolen-String) | 1200 | `interactive`, `math` | — | [CF](https://codeforces.com/contest/1546/problem/B) |
 | 1613C | [Poisoned Dagger](problems/binary-search/1200_1613C-Poisoned-Dagger) | 1200 | `binary search` | — | [CF](https://codeforces.com/contest/1613/problem/C) |
 | 1925B | [A Balanced Problemset?](problems/brute-force/1200_1925B-A-Balanced-Problemset) | 1200 | `brute force`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1925/problem/B) |
+| 2041E | [Beautiful Array](problems/constructive-algorithms/1200_2041E-Beautiful-Array) | 1200 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2041/problem/E) |
 | 2109B | [Slice to Survive](problems/bitmasks/1200_2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2109/problem/B) |
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
 | 1661B | [Getting Zero](problems/bitmasks/1300_1661B-Getting-Zero) | 1300 | `bitmasks`, `brute force`, `dfs and similar`, `dp`, `graphs`, `greedy`, `shortest paths` | — | [CF](https://codeforces.com/contest/1661/problem/B) |
