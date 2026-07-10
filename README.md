@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 75
-- **With source attached:** 0 / 75
+- **Total solved:** 76
+- **With source attached:** 0 / 76
 - **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 1294 (max 1294)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 75 |
+| C++ | 76 |
 
 ### By rating
 
@@ -43,7 +43,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1100 | 6 |
 | 1200 | 8 |
 | 1300 | 5 |
-| 1400 | 2 |
+| 1400 | 3 |
 | 1500 | 8 |
 | 1600 | 5 |
 | 1700 | 2 |
@@ -53,21 +53,21 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 37 |
+| `greedy` | 38 |
 | `math` | 35 |
 | `implementation` | 22 |
 | `brute force` | 19 |
 | `binary search` | 13 |
 | `dp` | 12 |
-| `sortings` | 10 |
+| `sortings` | 11 |
 | `constructive algorithms` | 10 |
 | `number theory` | 9 |
 | `two pointers` | 8 |
-| `data structures` | 6 |
+| `data structures` | 7 |
 | `strings` | 5 |
 | `combinatorics` | 4 |
+| `geometry` | 3 |
 | `bitmasks` | 3 |
-| `geometry` | 2 |
 | `ternary search` | 2 |
 | `dfs and similar` | 2 |
 | `graphs` | 2 |
@@ -143,6 +143,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2240C | [Nim Game Is XOR Game](problems/games/1300_2240C-Nim-Game-Is-XOR-Game) | 1300 | `games`, `greedy` | — | [CF](https://codeforces.com/contest/2240/problem/C) |
 | 279B | [Books](problems/binary-search/1400_279B-Books) | 1400 | `binary search`, `brute force`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/279/problem/B) |
 | 2038L | [Bridge Renovation](problems/brute-force/1400_2038L-Bridge-Renovation) | 1400 | `brute force`, `dp`, `greedy`, `math`, `two pointers` | — | [CF](https://codeforces.com/contest/2038/problem/L) |
+| 2038C | [DIY](problems/data-structures/1400_2038C-DIY) | 1400 | `data structures`, `geometry`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/2038/problem/C) |
 | 545C | [Woodcutters](problems/dp/1500_545C-Woodcutters) | 1500 | `dp`, `greedy` | — | [CF](https://codeforces.com/contest/545/problem/C) |
 | 702C | [Cellular Network](problems/binary-search/1500_702C-Cellular-Network) | 1500 | `binary search`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/702/problem/C) |
 | 1575J | [Jeopardy of Dropped Balls](problems/binary-search/1500_1575J-Jeopardy-of-Dropped-Balls) | 1500 | `binary search`, `brute force`, `dsu`, `implementation` | — | [CF](https://codeforces.com/contest/1575/problem/J) |
