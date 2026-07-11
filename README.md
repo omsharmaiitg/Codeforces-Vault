@@ -37,17 +37,16 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Rating | Count |
 |---|---|
-| 0800 | 21 |
+| 0800 | 23 |
 | 0900 | 10 |
-| 1000 | 2 |
-| 1100 | 6 |
+| 1000 | 4 |
+| 1100 | 7 |
 | 1200 | 8 |
-| 1300 | 5 |
+| 1300 | 6 |
 | 1400 | 3 |
 | 1500 | 8 |
 | 1600 | 5 |
 | 1700 | 2 |
-| Unrated | 6 |
 
 ### By tag
 
@@ -83,12 +82,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2241A | [Divide and Conquer](problems/greedy/Unrated_2241A-Divide-and-Conquer) | ? | `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2241/problem/A) |
-| 2241C | [RemovevomeR](problems/greedy/Unrated_2241C-RemovevomeR) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2241/problem/C) |
-| 2241D | [An Alternative Way](problems/dp/Unrated_2241D-An-Alternative-Way) | ? | `dp`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2241/problem/D) |
-| 2242A | [Bigrams](problems/sortings/Unrated_2242A-Bigrams) | ? | `sortings`, `strings` | — | [CF](https://codeforces.com/contest/2242/problem/A) |
-| 2242C | [Unstable Elements](problems/brute-force/Unrated_2242C-Unstable-Elements) | ? | `brute force`, `data structures`, `implementation`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2242/problem/C) |
-| 2242B | [Predominant Frequency Division](problems/data-structures/Unrated_2242B-Predominant-Frequency-Division) | ? | `data structures`, `greedy`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2242/problem/B) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
 | 1493A | [Anti-knapsack](problems/constructive-algorithms/0800_1493A-Anti-knapsack) | 800 | `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/1493/problem/A) |
@@ -110,6 +103,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2236B | [Tatar TV Show](problems/greedy/0800_2236B-Tatar-TV-Show) | 800 | `greedy`, `math`, `strings` | — | [CF](https://codeforces.com/contest/2236/problem/B) |
 | 2238A | [Another Puzzle from Papyrus](problems/greedy/0800_2238A-Another-Puzzle-from-Papyrus) | 800 | `greedy`, `math`, `sortings` | — | [CF](https://codeforces.com/contest/2238/problem/A) |
 | 2240A | [Another Popcount Problem](problems/greedy/0800_2240A-Another-Popcount-Problem) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2240/problem/A) |
+| 2241A | [Divide and Conquer](problems/greedy/0800_2241A-Divide-and-Conquer) | 800 | `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2241/problem/A) |
+| 2242A | [Bigrams](problems/sortings/0800_2242A-Bigrams) | 800 | `sortings`, `strings` | — | [CF](https://codeforces.com/contest/2242/problem/A) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1537B | [Bad Boy](problems/constructive-algorithms/0900_1537B-Bad-Boy) | 900 | `constructive algorithms`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1537/problem/B) |
@@ -122,12 +117,15 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2238B | [Crimson Triples](problems/dp/0900_2238B-Crimson-Triples) | 900 | `dp`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2238/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
 | 2236C | [Omsk Programmers](problems/brute-force/1000_2236C-Omsk-Programmers) | 1000 | `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2236/problem/C) |
+| 2241C | [RemovevomeR](problems/greedy/1000_2241C-RemovevomeR) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2241/problem/C) |
+| 2242B | [Predominant Frequency Division](problems/data-structures/1000_2242B-Predominant-Frequency-Division) | 1000 | `data structures`, `greedy`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2242/problem/B) |
 | 919B | [Perfect Number](problems/binary-search/1100_919B-Perfect-Number) | 1100 | `binary search`, `brute force`, `dp`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/919/problem/B) |
 | 1942B | [Bessie and MEX](problems/constructive-algorithms/1100_1942B-Bessie-and-MEX) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1942/problem/B) |
 | 2063B | [Subsequence Update](problems/constructive-algorithms/1100_2063B-Subsequence-Update) | 1100 | `constructive algorithms`, `data structures`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/2063/problem/B) |
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](problems/binary-search/1100_2065C1-Skibidus-and-Fanum-Tax-easy-version) | 1100 | `binary search`, `dp`, `greedy` | — | [CF](https://codeforces.com/contest/2065/problem/C1) |
 | 2169B | [Drifting Away](problems/greedy/1100_2169B-Drifting-Away) | 1100 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/2169/problem/B) |
 | 2240B | [AI Finds Nothing Here](problems/combinatorics/1100_2240B-AI-Finds-Nothing-Here) | 1100 | `combinatorics`, `math` | — | [CF](https://codeforces.com/contest/2240/problem/B) |
+| 2241D | [An Alternative Way](problems/dp/1100_2241D-An-Alternative-Way) | 1100 | `dp`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2241/problem/D) |
 | 961B | [Lecture Sleep](problems/data-structures/1200_961B-Lecture-Sleep) | 1200 | `data structures`, `dp`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/961/problem/B) |
 | 1076B | [Divisor Subtraction](problems/implementation/1200_1076B-Divisor-Subtraction) | 1200 | `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1076/problem/B) |
 | 1272C | [Yet Another Broken Keyboard](problems/combinatorics/1200_1272C-Yet-Another-Broken-Keyboard) | 1200 | `combinatorics`, `dp`, `implementation` | — | [CF](https://codeforces.com/contest/1272/problem/C) |
@@ -141,6 +139,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2041A | [The Bento Box Adventure](problems/implementation/1300_2041A-The-Bento-Box-Adventure) | 1300 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2041/problem/A) |
 | 2116B | [Gellyfish and Baby's Breath](problems/greedy/1300_2116B-Gellyfish-and-Babys-Breath) | 1300 | `greedy`, `math`, `sortings` | — | [CF](https://codeforces.com/contest/2116/problem/B) |
 | 2240C | [Nim Game Is XOR Game](problems/games/1300_2240C-Nim-Game-Is-XOR-Game) | 1300 | `games`, `greedy` | — | [CF](https://codeforces.com/contest/2240/problem/C) |
+| 2242C | [Unstable Elements](problems/brute-force/1300_2242C-Unstable-Elements) | 1300 | `brute force`, `data structures`, `implementation`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2242/problem/C) |
 | 279B | [Books](problems/binary-search/1400_279B-Books) | 1400 | `binary search`, `brute force`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/279/problem/B) |
 | 2038L | [Bridge Renovation](problems/brute-force/1400_2038L-Bridge-Renovation) | 1400 | `brute force`, `dp`, `greedy`, `math`, `two pointers` | — | [CF](https://codeforces.com/contest/2038/problem/L) |
 | 2038C | [DIY](problems/data-structures/1400_2038C-DIY) | 1400 | `data structures`, `geometry`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/2038/problem/C) |
