@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 83
-- **With source attached:** 0 / 83
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 84
+- **With source attached:** 0 / 84
+- **Longest streak:** 15 days  |  **Current streak:** 4 days
 - **Contest rating:** 1294 (max 1294)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 83 |
+| C++ | 84 |
 
 ### By rating
 
@@ -42,7 +42,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1000 | 4 |
 | 1100 | 7 |
 | 1200 | 9 |
-| 1300 | 6 |
+| 1300 | 7 |
 | 1400 | 4 |
 | 1500 | 9 |
 | 1600 | 5 |
@@ -56,11 +56,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | `greedy` | 42 |
 | `math` | 36 |
-| `implementation` | 24 |
-| `brute force` | 21 |
+| `implementation` | 25 |
+| `brute force` | 22 |
 | `binary search` | 14 |
+| `constructive algorithms` | 13 |
 | `dp` | 13 |
-| `constructive algorithms` | 12 |
 | `sortings` | 11 |
 | `number theory` | 10 |
 | `strings` | 8 |
@@ -76,6 +76,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `dsu` | 1 |
 | `shortest paths` | 1 |
 | `games` | 1 |
+| `graph matchings` | 1 |
 
 </details>
 
@@ -142,6 +143,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
 | 1661B | [Getting Zero](problems/bitmasks/1300_1661B-Getting-Zero) | 1300 | `bitmasks`, `brute force`, `dfs and similar`, `dp`, `graphs`, `greedy`, `shortest paths` | — | [CF](https://codeforces.com/contest/1661/problem/B) |
 | 2041A | [The Bento Box Adventure](problems/implementation/1300_2041A-The-Bento-Box-Adventure) | 1300 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2041/problem/A) |
+| 2049B | [pspspsps](problems/brute-force/1300_2049B-pspspsps) | 1300 | `brute force`, `constructive algorithms`, `graph matchings`, `implementation` | — | [CF](https://codeforces.com/contest/2049/problem/B) |
 | 2116B | [Gellyfish and Baby's Breath](problems/greedy/1300_2116B-Gellyfish-and-Babys-Breath) | 1300 | `greedy`, `math`, `sortings` | — | [CF](https://codeforces.com/contest/2116/problem/B) |
 | 2240C | [Nim Game Is XOR Game](problems/games/1300_2240C-Nim-Game-Is-XOR-Game) | 1300 | `games`, `greedy` | — | [CF](https://codeforces.com/contest/2240/problem/C) |
 | 2242C | [Unstable Elements](problems/brute-force/1300_2242C-Unstable-Elements) | 1300 | `brute force`, `data structures`, `implementation`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2242/problem/C) |
