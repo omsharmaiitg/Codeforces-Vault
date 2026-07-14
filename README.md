@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 87
-- **With source attached:** 0 / 87
+- **Total solved:** 89
+- **With source attached:** 0 / 89
 - **Longest streak:** 15 days  |  **Current streak:** 5 days
 - **Contest rating:** 1294 (max 1294)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 87 |
+| C++ | 89 |
 
 ### By rating
 
@@ -48,7 +48,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 5 |
 | 1700 | 3 |
 | 1800 | 1 |
-| Unrated | 4 |
+| Unrated | 6 |
 
 ### By tag
 
@@ -87,6 +87,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|---|---|---|---|
 | 2244A | [Iskander and Drawings](problems/untagged/Unrated_2244A-Iskander-and-Drawings) | ? |  | — | [CF](https://codeforces.com/contest/2244/problem/A) |
 | 2244B | [Nikita and Books](problems/untagged/Unrated_2244B-Nikita-and-Books) | ? |  | — | [CF](https://codeforces.com/contest/2244/problem/B) |
+| 2244C | [Stepan and Permutation](problems/untagged/Unrated_2244C-Stepan-and-Permutation) | ? |  | — | [CF](https://codeforces.com/contest/2244/problem/C) |
+| 2244D | [Yaroslav and Productivity](problems/untagged/Unrated_2244D-Yaroslav-and-Productivity) | ? |  | — | [CF](https://codeforces.com/contest/2244/problem/D) |
 | 2246A | [farmpiggie and Subset Sum](problems/constructive-algorithms/Unrated_2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 2246B | [ezraft and Array](problems/constructive-algorithms/Unrated_2246B-ezraft-and-Array) | ? | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
