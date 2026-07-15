@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 87
-- **With source attached:** 0 / 87
+- **Total solved:** 88
+- **With source attached:** 0 / 88
 - **Longest streak:** 15 days  |  **Current streak:** 0 days
 - **Contest rating:** 1294 (max 1294)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 87 |
+| C++ | 88 |
 
 ### By rating
 
@@ -48,21 +48,21 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 5 |
 | 1700 | 3 |
 | 1800 | 1 |
-| Unrated | 4 |
+| Unrated | 5 |
 
 ### By tag
 
 | Tag | Count |
 |---|---|
-| `greedy` | 44 |
-| `math` | 37 |
+| `greedy` | 45 |
+| `math` | 38 |
 | `implementation` | 25 |
 | `brute force` | 22 |
 | `binary search` | 15 |
+| `sortings` | 14 |
+| `constructive algorithms` | 14 |
 | `dp` | 14 |
-| `sortings` | 13 |
-| `constructive algorithms` | 13 |
-| `number theory` | 10 |
+| `number theory` | 11 |
 | `strings` | 9 |
 | `two pointers` | 9 |
 | `data structures` | 7 |
@@ -70,11 +70,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `combinatorics` | 4 |
 | `geometry` | 3 |
 | `ternary search` | 2 |
+| `dsu` | 2 |
 | `dfs and similar` | 2 |
 | `graphs` | 2 |
 | `games` | 2 |
 | `interactive` | 1 |
-| `dsu` | 1 |
 | `shortest paths` | 1 |
 | `graph matchings` | 1 |
 
@@ -87,6 +87,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|---|---|---|---|
 | 2244A | [Iskander and Drawings](problems/dp/Unrated_2244A-Iskander-and-Drawings) | ? | `dp`, `games`, `greedy`, `strings` | — | [CF](https://codeforces.com/contest/2244/problem/A) |
 | 2244B | [Nikita and Books](problems/greedy/Unrated_2244B-Nikita-and-Books) | ? | `greedy`, `math`, `sortings` | — | [CF](https://codeforces.com/contest/2244/problem/B) |
+| 2244C | [Stepan and Permutation](problems/constructive-algorithms/Unrated_2244C-Stepan-and-Permutation) | ? | `constructive algorithms`, `dsu`, `greedy`, `math`, `number theory`, `sortings` | — | [CF](https://codeforces.com/contest/2244/problem/C) |
 | 2246A | [farmpiggie and Subset Sum](problems/constructive-algorithms/Unrated_2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 2246B | [ezraft and Array](problems/constructive-algorithms/Unrated_2246B-ezraft-and-Array) | ? | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
