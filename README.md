@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 89
-- **With source attached:** 0 / 89
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 90
+- **With source attached:** 0 / 90
+- **Longest streak:** 15 days  |  **Current streak:** 6 days
 - **Contest rating:** 1285 (max 1294)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 89 |
+| C++ | 90 |
 
 ### By rating
 
@@ -41,7 +41,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0900 | 10 |
 | 1000 | 4 |
 | 1100 | 7 |
-| 1200 | 10 |
+| 1200 | 11 |
 | 1300 | 7 |
 | 1400 | 4 |
 | 1500 | 9 |
@@ -54,18 +54,18 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 46 |
+| `greedy` | 47 |
 | `math` | 39 |
 | `implementation` | 25 |
-| `brute force` | 22 |
+| `brute force` | 23 |
+| `binary search` | 16 |
 | `constructive algorithms` | 15 |
 | `dp` | 15 |
-| `binary search` | 15 |
 | `sortings` | 14 |
 | `number theory` | 12 |
 | `strings` | 9 |
 | `two pointers` | 9 |
-| `data structures` | 7 |
+| `data structures` | 8 |
 | `bitmasks` | 4 |
 | `combinatorics` | 4 |
 | `geometry` | 3 |
@@ -144,6 +144,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2041E | [Beautiful Array](problems/constructive-algorithms/1200_2041E-Beautiful-Array) | 1200 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2041/problem/E) |
 | 2048C | [Kevin and Binary Strings](problems/bitmasks/1200_2048C-Kevin-and-Binary-Strings) | 1200 | `bitmasks`, `brute force`, `greedy`, `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2048/problem/C) |
 | 2051D | [Counting Pairs](problems/binary-search/1200_2051D-Counting-Pairs) | 1200 | `binary search`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2051/problem/D) |
+| 2053B | [Outstanding Impressionist](problems/binary-search/1200_2053B-Outstanding-Impressionist) | 1200 | `binary search`, `brute force`, `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2053/problem/B) |
 | 2109B | [Slice to Survive](problems/bitmasks/1200_2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2109/problem/B) |
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
 | 1661B | [Getting Zero](problems/bitmasks/1300_1661B-Getting-Zero) | 1300 | `bitmasks`, `brute force`, `dfs and similar`, `dp`, `graphs`, `greedy`, `shortest paths` | — | [CF](https://codeforces.com/contest/1661/problem/B) |
