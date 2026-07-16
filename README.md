@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 90
-- **With source attached:** 0 / 90
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 92
+- **With source attached:** 0 / 92
+- **Longest streak:** 15 days  |  **Current streak:** 7 days
 - **Contest rating:** 1285 (max 1294)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 90 |
+| C++ | 92 |
 
 ### By rating
 
@@ -48,7 +48,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 5 |
 | 1700 | 3 |
 | 1800 | 1 |
-| Unrated | 6 |
+| Unrated | 8 |
 
 ### By tag
 
@@ -89,6 +89,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2244B | [Nikita and Books](problems/greedy/Unrated_2244B-Nikita-and-Books) | ? | `greedy`, `math`, `sortings` | — | [CF](https://codeforces.com/contest/2244/problem/B) |
 | 2244C | [Stepan and Permutation](problems/constructive-algorithms/Unrated_2244C-Stepan-and-Permutation) | ? | `constructive algorithms`, `dfs and similar`, `dsu`, `greedy`, `math`, `number theory`, `sortings` | — | [CF](https://codeforces.com/contest/2244/problem/C) |
 | 2244D | [Yaroslav and Productivity](problems/constructive-algorithms/Unrated_2244D-Yaroslav-and-Productivity) | ? | `constructive algorithms`, `dp`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2244/problem/D) |
+| 2245A | [Who Watches the Watchpig?](problems/untagged/Unrated_2245A-Who-Watches-the-Watchpig) | ? |  | — | [CF](https://codeforces.com/contest/2245/problem/A) |
+| 2245B | [Delete and Concatenate](problems/untagged/Unrated_2245B-Delete-and-Concatenate) | ? |  | — | [CF](https://codeforces.com/contest/2245/problem/B) |
 | 2246A | [farmpiggie and Subset Sum](problems/constructive-algorithms/Unrated_2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 2246B | [ezraft and Array](problems/constructive-algorithms/Unrated_2246B-ezraft-and-Array) | ? | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
