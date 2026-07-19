@@ -59,8 +59,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `implementation` | 25 |
 | `brute force` | 23 |
 | `constructive algorithms` | 17 |
+| `dp` | 16 |
 | `binary search` | 16 |
-| `dp` | 15 |
 | `sortings` | 14 |
 | `number theory` | 13 |
 | `strings` | 9 |
@@ -93,7 +93,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2245B | [Delete and Concatenate](problems/greedy/Unrated_2245B-Delete-and-Concatenate) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2245/problem/B) |
 | 2246A | [farmpiggie and Subset Sum](problems/constructive-algorithms/Unrated_2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 2246B | [ezraft and Array](problems/constructive-algorithms/Unrated_2246B-ezraft-and-Array) | ? | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
-| 2247A | [Zero Sum](problems/constructive-algorithms/Unrated_2247A-Zero-Sum) | ? | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
+| 2247A | [Zero Sum](problems/constructive-algorithms/Unrated_2247A-Zero-Sum) | ? | `constructive algorithms`, `dp`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
 | 1493A | [Anti-knapsack](problems/constructive-algorithms/0800_1493A-Anti-knapsack) | 800 | `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/1493/problem/A) |
