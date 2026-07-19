@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 94
-- **With source attached:** 0 / 94
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 95
+- **With source attached:** 0 / 95
+- **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 1231 (max 1294)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 94 |
+| C++ | 95 |
 
 ### By rating
 
@@ -48,7 +48,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 5 |
 | 1700 | 4 |
 | 1800 | 1 |
-| Unrated | 8 |
+| Unrated | 9 |
 
 ### By tag
 
@@ -58,11 +58,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `math` | 41 |
 | `implementation` | 25 |
 | `brute force` | 23 |
-| `constructive algorithms` | 16 |
+| `constructive algorithms` | 17 |
 | `binary search` | 16 |
 | `dp` | 15 |
 | `sortings` | 14 |
-| `number theory` | 12 |
+| `number theory` | 13 |
 | `strings` | 9 |
 | `two pointers` | 9 |
 | `data structures` | 8 |
@@ -93,6 +93,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2245B | [Delete and Concatenate](problems/greedy/Unrated_2245B-Delete-and-Concatenate) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2245/problem/B) |
 | 2246A | [farmpiggie and Subset Sum](problems/constructive-algorithms/Unrated_2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 2246B | [ezraft and Array](problems/constructive-algorithms/Unrated_2246B-ezraft-and-Array) | ? | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
+| 2247A | [Zero Sum](problems/constructive-algorithms/Unrated_2247A-Zero-Sum) | ? | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
 | 1493A | [Anti-knapsack](problems/constructive-algorithms/0800_1493A-Anti-knapsack) | 800 | `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/1493/problem/A) |
