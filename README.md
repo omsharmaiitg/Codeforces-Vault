@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 95
-- **With source attached:** 0 / 95
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 96
+- **With source attached:** 0 / 96
+- **Longest streak:** 15 days  |  **Current streak:** 2 days
 - **Contest rating:** 1231 (max 1294)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 95 |
+| C++ | 96 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 23 |
+| 0800 | 24 |
 | 0900 | 10 |
 | 1000 | 4 |
 | 1100 | 8 |
@@ -55,7 +55,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 49 |
-| `math` | 41 |
+| `math` | 42 |
 | `implementation` | 25 |
 | `brute force` | 23 |
 | `constructive algorithms` | 17 |
@@ -96,6 +96,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2247A | [Zero Sum](problems/constructive-algorithms/Unrated_2247A-Zero-Sum) | ? | `constructive algorithms`, `dp`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
+| 617A | [Elephant](problems/math/0800_617A-Elephant) | 800 | `math` | — | [CF](https://codeforces.com/contest/617/problem/A) |
 | 1493A | [Anti-knapsack](problems/constructive-algorithms/0800_1493A-Anti-knapsack) | 800 | `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/1493/problem/A) |
 | 1766A | [Extremely Round](problems/brute-force/0800_1766A-Extremely-Round) | 800 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1766/problem/A) |
 | 1772A | [A+B?](problems/implementation/0800_1772A-AB) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/1772/problem/A) |
