@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 97
-- **With source attached:** 0 / 97
+- **Total solved:** 98
+- **With source attached:** 0 / 98
 - **Longest streak:** 15 days  |  **Current streak:** 0 days
 - **Contest rating:** 1231 (max 1294)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 97 |
+| C++ | 98 |
 
 ### By rating
 
@@ -42,7 +42,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1000 | 4 |
 | 1100 | 8 |
 | 1200 | 11 |
-| 1300 | 8 |
+| 1300 | 9 |
 | 1400 | 4 |
 | 1500 | 9 |
 | 1600 | 5 |
@@ -55,14 +55,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 50 |
-| `math` | 42 |
+| `math` | 43 |
 | `implementation` | 25 |
 | `brute force` | 24 |
 | `constructive algorithms` | 17 |
 | `binary search` | 17 |
 | `dp` | 16 |
+| `number theory` | 14 |
 | `sortings` | 14 |
-| `number theory` | 13 |
 | `strings` | 9 |
 | `two pointers` | 9 |
 | `data structures` | 8 |
@@ -77,6 +77,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `interactive` | 1 |
 | `shortest paths` | 1 |
 | `graph matchings` | 1 |
+| `hashing` | 1 |
 
 </details>
 
@@ -153,6 +154,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2109B | [Slice to Survive](problems/bitmasks/1200_2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2109/problem/B) |
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
 | 1661B | [Getting Zero](problems/bitmasks/1300_1661B-Getting-Zero) | 1300 | `bitmasks`, `brute force`, `dfs and similar`, `dp`, `graphs`, `greedy`, `shortest paths` | — | [CF](https://codeforces.com/contest/1661/problem/B) |
+| 1899D | [Yarik and Musical Notes](problems/hashing/1300_1899D-Yarik-and-Musical-Notes) | 1300 | `hashing`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1899/problem/D) |
 | 1913C | [Game with Multiset](problems/binary-search/1300_1913C-Game-with-Multiset) | 1300 | `binary search`, `bitmasks`, `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1913/problem/C) |
 | 2041A | [The Bento Box Adventure](problems/implementation/1300_2041A-The-Bento-Box-Adventure) | 1300 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2041/problem/A) |
 | 2049B | [pspspsps](problems/brute-force/1300_2049B-pspspsps) | 1300 | `brute force`, `constructive algorithms`, `graph matchings`, `implementation` | — | [CF](https://codeforces.com/contest/2049/problem/B) |
