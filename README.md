@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 98
-- **With source attached:** 0 / 98
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 99
+- **With source attached:** 0 / 99
+- **Longest streak:** 15 days  |  **Current streak:** 2 days
 - **Contest rating:** 1231 (max 1294)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 98 |
+| C++ | 99 |
 
 ### By rating
 
@@ -42,7 +42,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1000 | 4 |
 | 1100 | 8 |
 | 1200 | 11 |
-| 1300 | 9 |
+| 1300 | 10 |
 | 1400 | 4 |
 | 1500 | 9 |
 | 1600 | 5 |
@@ -54,12 +54,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 50 |
-| `math` | 43 |
+| `greedy` | 51 |
+| `math` | 44 |
+| `brute force` | 25 |
 | `implementation` | 25 |
-| `brute force` | 24 |
+| `binary search` | 18 |
 | `constructive algorithms` | 17 |
-| `binary search` | 17 |
 | `dp` | 16 |
 | `number theory` | 14 |
 | `sortings` | 14 |
@@ -153,6 +153,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2053B | [Outstanding Impressionist](problems/binary-search/1200_2053B-Outstanding-Impressionist) | 1200 | `binary search`, `brute force`, `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2053/problem/B) |
 | 2109B | [Slice to Survive](problems/bitmasks/1200_2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2109/problem/B) |
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
+| 1476B | [Inflation](problems/binary-search/1300_1476B-Inflation) | 1300 | `binary search`, `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1476/problem/B) |
 | 1661B | [Getting Zero](problems/bitmasks/1300_1661B-Getting-Zero) | 1300 | `bitmasks`, `brute force`, `dfs and similar`, `dp`, `graphs`, `greedy`, `shortest paths` | — | [CF](https://codeforces.com/contest/1661/problem/B) |
 | 1899D | [Yarik and Musical Notes](problems/hashing/1300_1899D-Yarik-and-Musical-Notes) | 1300 | `hashing`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1899/problem/D) |
 | 1913C | [Game with Multiset](problems/binary-search/1300_1913C-Game-with-Multiset) | 1300 | `binary search`, `bitmasks`, `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1913/problem/C) |
