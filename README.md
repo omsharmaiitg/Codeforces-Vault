@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 100
-- **With source attached:** 0 / 100
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 101
+- **With source attached:** 0 / 101
+- **Longest streak:** 15 days  |  **Current streak:** 4 days
 - **Contest rating:** 1231 (max 1294)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 100 |
+| C++ | 101 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 24 |
+| 0800 | 25 |
 | 0900 | 10 |
 | 1000 | 4 |
 | 1100 | 8 |
@@ -54,16 +54,16 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 51 |
+| `greedy` | 52 |
 | `math` | 44 |
+| `implementation` | 26 |
 | `brute force` | 25 |
-| `implementation` | 25 |
 | `binary search` | 18 |
 | `constructive algorithms` | 17 |
+| `sortings` | 16 |
 | `dp` | 16 |
-| `sortings` | 15 |
 | `number theory` | 14 |
-| `strings` | 9 |
+| `strings` | 10 |
 | `data structures` | 9 |
 | `two pointers` | 9 |
 | `bitmasks` | 5 |
@@ -97,6 +97,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2247A | [Zero Sum](problems/constructive-algorithms/Unrated_2247A-Zero-Sum) | ? | `constructive algorithms`, `dp`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
+| 339A | [Helpful Maths](problems/greedy/0800_339A-Helpful-Maths) | 800 | `greedy`, `implementation`, `sortings`, `strings` | — | [CF](https://codeforces.com/contest/339/problem/A) |
 | 617A | [Elephant](problems/math/0800_617A-Elephant) | 800 | `math` | — | [CF](https://codeforces.com/contest/617/problem/A) |
 | 1493A | [Anti-knapsack](problems/constructive-algorithms/0800_1493A-Anti-knapsack) | 800 | `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/1493/problem/A) |
 | 1766A | [Extremely Round](problems/brute-force/0800_1766A-Extremely-Round) | 800 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1766/problem/A) |
