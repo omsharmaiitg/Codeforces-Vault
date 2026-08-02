@@ -54,7 +54,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 54 |
+| `greedy` | 55 |
 | `math` | 44 |
 | `brute force` | 26 |
 | `implementation` | 26 |
@@ -95,7 +95,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2246A | [farmpiggie and Subset Sum](problems/constructive-algorithms/Unrated_2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 2246B | [ezraft and Array](problems/constructive-algorithms/Unrated_2246B-ezraft-and-Array) | ? | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
 | 2247A | [Zero Sum](problems/constructive-algorithms/Unrated_2247A-Zero-Sum) | ? | `constructive algorithms`, `dp`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
-| 2248A | [You Delete, I Delete](problems/untagged/Unrated_2248A-You-Delete-I-Delete) | ? |  | — | [CF](https://codeforces.com/contest/2248/problem/A) |
+| 2248A | [You Delete, I Delete](problems/greedy/Unrated_2248A-You-Delete-I-Delete) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2248/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 231A | [Team](problems/brute-force/0800_231A-Team) | 800 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/231/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
