@@ -37,18 +37,17 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Rating | Count |
 |---|---|
-| 0800 | 26 |
-| 0900 | 10 |
+| 0800 | 32 |
+| 0900 | 11 |
 | 1000 | 4 |
-| 1100 | 8 |
-| 1200 | 11 |
+| 1100 | 10 |
+| 1200 | 12 |
 | 1300 | 12 |
 | 1400 | 4 |
 | 1500 | 9 |
 | 1600 | 5 |
 | 1700 | 4 |
 | 1800 | 1 |
-| Unrated | 10 |
 
 ### By tag
 
@@ -86,16 +85,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2244A | [Iskander and Drawings](problems/dp/Unrated_2244A-Iskander-and-Drawings) | ? | `dp`, `games`, `greedy`, `strings` | — | [CF](https://codeforces.com/contest/2244/problem/A) |
-| 2244B | [Nikita and Books](problems/greedy/Unrated_2244B-Nikita-and-Books) | ? | `greedy`, `math`, `sortings` | — | [CF](https://codeforces.com/contest/2244/problem/B) |
-| 2244C | [Stepan and Permutation](problems/constructive-algorithms/Unrated_2244C-Stepan-and-Permutation) | ? | `constructive algorithms`, `dfs and similar`, `dsu`, `greedy`, `math`, `number theory`, `sortings` | — | [CF](https://codeforces.com/contest/2244/problem/C) |
-| 2244D | [Yaroslav and Productivity](problems/constructive-algorithms/Unrated_2244D-Yaroslav-and-Productivity) | ? | `constructive algorithms`, `dp`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2244/problem/D) |
-| 2245A | [Who Watches the Watchpig?](problems/greedy/Unrated_2245A-Who-Watches-the-Watchpig) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2245/problem/A) |
-| 2245B | [Delete and Concatenate](problems/greedy/Unrated_2245B-Delete-and-Concatenate) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2245/problem/B) |
-| 2246A | [farmpiggie and Subset Sum](problems/constructive-algorithms/Unrated_2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2246/problem/A) |
-| 2246B | [ezraft and Array](problems/constructive-algorithms/Unrated_2246B-ezraft-and-Array) | ? | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
-| 2247A | [Zero Sum](problems/constructive-algorithms/Unrated_2247A-Zero-Sum) | ? | `constructive algorithms`, `dp`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
-| 2248A | [You Delete, I Delete](problems/greedy/Unrated_2248A-You-Delete-I-Delete) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2248/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 231A | [Team](problems/brute-force/0800_231A-Team) | 800 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/231/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
@@ -122,6 +111,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2240A | [Another Popcount Problem](problems/greedy/0800_2240A-Another-Popcount-Problem) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2240/problem/A) |
 | 2241A | [Divide and Conquer](problems/greedy/0800_2241A-Divide-and-Conquer) | 800 | `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2241/problem/A) |
 | 2242A | [Bigrams](problems/sortings/0800_2242A-Bigrams) | 800 | `sortings`, `strings` | — | [CF](https://codeforces.com/contest/2242/problem/A) |
+| 2244A | [Iskander and Drawings](problems/dp/0800_2244A-Iskander-and-Drawings) | 800 | `dp`, `games`, `greedy`, `strings` | — | [CF](https://codeforces.com/contest/2244/problem/A) |
+| 2244B | [Nikita and Books](problems/greedy/0800_2244B-Nikita-and-Books) | 800 | `greedy`, `math`, `sortings` | — | [CF](https://codeforces.com/contest/2244/problem/B) |
+| 2245A | [Who Watches the Watchpig?](problems/greedy/0800_2245A-Who-Watches-the-Watchpig) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2245/problem/A) |
+| 2246A | [farmpiggie and Subset Sum](problems/constructive-algorithms/0800_2246A-farmpiggie-and-Subset-Sum) | 800 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2246/problem/A) |
+| 2247A | [Zero Sum](problems/constructive-algorithms/0800_2247A-Zero-Sum) | 800 | `constructive algorithms`, `dp`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
+| 2248A | [You Delete, I Delete](problems/greedy/0800_2248A-You-Delete-I-Delete) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2248/problem/A) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1537B | [Bad Boy](problems/constructive-algorithms/0900_1537B-Bad-Boy) | 900 | `constructive algorithms`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1537/problem/B) |
@@ -132,6 +127,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1904A | [Forked!](problems/brute-force/0900_1904A-Forked) | 900 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1904/problem/A) |
 | 2210B | [Simply Sitting on Chairs](problems/data-structures/0900_2210B-Simply-Sitting-on-Chairs) | 900 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2210/problem/B) |
 | 2238B | [Crimson Triples](problems/dp/0900_2238B-Crimson-Triples) | 900 | `dp`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2238/problem/B) |
+| 2246B | [ezraft and Array](problems/constructive-algorithms/0900_2246B-ezraft-and-Array) | 900 | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
 | 2236C | [Omsk Programmers](problems/brute-force/1000_2236C-Omsk-Programmers) | 1000 | `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2236/problem/C) |
 | 2241C | [RemovevomeR](problems/greedy/1000_2241C-RemovevomeR) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2241/problem/C) |
@@ -144,6 +140,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2240B | [AI Finds Nothing Here](problems/combinatorics/1100_2240B-AI-Finds-Nothing-Here) | 1100 | `combinatorics`, `math` | — | [CF](https://codeforces.com/contest/2240/problem/B) |
 | 2241D | [An Alternative Way](problems/dp/1100_2241D-An-Alternative-Way) | 1100 | `dp`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2241/problem/D) |
 | 2241B | [Good times Good times](problems/constructive-algorithms/1100_2241B-Good-times-Good-times) | 1100 | `constructive algorithms`, `dfs and similar`, `math` | — | [CF](https://codeforces.com/contest/2241/problem/B) |
+| 2244C | [Stepan and Permutation](problems/constructive-algorithms/1100_2244C-Stepan-and-Permutation) | 1100 | `constructive algorithms`, `dfs and similar`, `dsu`, `greedy`, `math`, `number theory`, `sortings` | — | [CF](https://codeforces.com/contest/2244/problem/C) |
+| 2245B | [Delete and Concatenate](problems/greedy/1100_2245B-Delete-and-Concatenate) | 1100 | `greedy` | — | [CF](https://codeforces.com/contest/2245/problem/B) |
 | 961B | [Lecture Sleep](problems/data-structures/1200_961B-Lecture-Sleep) | 1200 | `data structures`, `dp`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/961/problem/B) |
 | 1076B | [Divisor Subtraction](problems/implementation/1200_1076B-Divisor-Subtraction) | 1200 | `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1076/problem/B) |
 | 1272C | [Yet Another Broken Keyboard](problems/combinatorics/1200_1272C-Yet-Another-Broken-Keyboard) | 1200 | `combinatorics`, `dp`, `implementation` | — | [CF](https://codeforces.com/contest/1272/problem/C) |
@@ -155,6 +153,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2051D | [Counting Pairs](problems/binary-search/1200_2051D-Counting-Pairs) | 1200 | `binary search`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2051/problem/D) |
 | 2053B | [Outstanding Impressionist](problems/binary-search/1200_2053B-Outstanding-Impressionist) | 1200 | `binary search`, `brute force`, `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2053/problem/B) |
 | 2109B | [Slice to Survive](problems/bitmasks/1200_2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2109/problem/B) |
+| 2244D | [Yaroslav and Productivity](problems/constructive-algorithms/1200_2244D-Yaroslav-and-Productivity) | 1200 | `constructive algorithms`, `dp`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2244/problem/D) |
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
 | 665C | [Simple Strings](problems/dp/1300_665C-Simple-Strings) | 1300 | `dp`, `greedy`, `strings` | — | [CF](https://codeforces.com/contest/665/problem/C) |
 | 1424G | [Years](problems/data-structures/1300_1424G-Years) | 1300 | `data structures`, `sortings` | — | [CF](https://codeforces.com/contest/1424/problem/G) |
