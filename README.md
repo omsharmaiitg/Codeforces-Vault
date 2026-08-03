@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 104
-- **With source attached:** 0 / 104
+- **Total solved:** 105
+- **With source attached:** 0 / 105
 - **Longest streak:** 15 days  |  **Current streak:** 0 days
 - **Contest rating:** 1142 (max 1294)
 
@@ -31,14 +31,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 104 |
+| C++ | 105 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
 | 0800 | 32 |
-| 0900 | 11 |
+| 0900 | 12 |
 | 1000 | 4 |
 | 1100 | 10 |
 | 1200 | 12 |
@@ -55,12 +55,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | `greedy` | 55 |
 | `math` | 44 |
+| `implementation` | 27 |
 | `brute force` | 26 |
-| `implementation` | 26 |
 | `binary search` | 18 |
+| `sortings` | 17 |
 | `constructive algorithms` | 17 |
 | `dp` | 17 |
-| `sortings` | 16 |
 | `number theory` | 14 |
 | `strings` | 11 |
 | `data structures` | 9 |
@@ -125,6 +125,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1679A | [AvtoBus](problems/brute-force/0900_1679A-AvtoBus) | 900 | `brute force`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1679/problem/A) |
 | 1696B | [NIT Destroys the Universe](problems/greedy/0900_1696B-NIT-Destroys-the-Universe) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/1696/problem/B) |
 | 1904A | [Forked!](problems/brute-force/0900_1904A-Forked) | 900 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1904/problem/A) |
+| 2195B | [Heapify 1](problems/implementation/0900_2195B-Heapify-1) | 900 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2195/problem/B) |
 | 2210B | [Simply Sitting on Chairs](problems/data-structures/0900_2210B-Simply-Sitting-on-Chairs) | 900 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2210/problem/B) |
 | 2238B | [Crimson Triples](problems/dp/0900_2238B-Crimson-Triples) | 900 | `dp`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2238/problem/B) |
 | 2246B | [ezraft and Array](problems/constructive-algorithms/0900_2246B-ezraft-and-Array) | 900 | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
