@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 105
-- **With source attached:** 0 / 105
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 106
+- **With source attached:** 0 / 106
+- **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 1142 (max 1294)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 105 |
+| C++ | 106 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 32 |
+| 0800 | 33 |
 | 0900 | 12 |
 | 1000 | 4 |
 | 1100 | 10 |
@@ -53,8 +53,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 55 |
-| `math` | 44 |
+| `greedy` | 56 |
+| `math` | 45 |
 | `implementation` | 27 |
 | `brute force` | 26 |
 | `binary search` | 18 |
@@ -95,6 +95,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1772A | [A+B?](problems/implementation/0800_1772A-AB) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/1772/problem/A) |
 | 1772B | [Matrix Rotation](problems/brute-force/0800_1772B-Matrix-Rotation) | 800 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1772/problem/B) |
 | 1791C | [Prepend and Append](problems/implementation/0800_1791C-Prepend-and-Append) | 800 | `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/1791/problem/C) |
+| 1833C | [Vlad Building Beautiful Array](problems/greedy/0800_1833C-Vlad-Building-Beautiful-Array) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1833/problem/C) |
 | 1877A | [Goals of Victory](problems/math/0800_1877A-Goals-of-Victory) | 800 | `math` | — | [CF](https://codeforces.com/contest/1877/problem/A) |
 | 1901A | [Line Trip](problems/greedy/0800_1901A-Line-Trip) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1901/problem/A) |
 | 1903A | [Halloumi Boxes](problems/brute-force/0800_1903A-Halloumi-Boxes) | 800 | `brute force`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1903/problem/A) |
