@@ -64,7 +64,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `dp` | 17 |
 | `number theory` | 14 |
 | `strings` | 11 |
-| `data structures` | 9 |
+| `data structures` | 10 |
 | `two pointers` | 9 |
 | `bitmasks` | 5 |
 | `dfs and similar` | 4 |
@@ -86,7 +86,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2252A | [Boss Fight](problems/greedy/Unrated_2252A-Boss-Fight) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2252/problem/A) |
+| 2252A | [Boss Fight](problems/data-structures/Unrated_2252A-Boss-Fight) | ? | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2252/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 231A | [Team](problems/brute-force/0800_231A-Team) | 800 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/231/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
