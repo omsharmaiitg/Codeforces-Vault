@@ -2,10 +2,10 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 106
-- **With source attached:** 0 / 106
+- **Total solved:** 107
+- **With source attached:** 0 / 107
 - **Longest streak:** 15 days  |  **Current streak:** 0 days
-- **Contest rating:** 1142 (max 1294)
+- **Contest rating:** 1074 (max 1294)
 
 ## 📊 Analytics
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 106 |
+| C++ | 107 |
 
 ### By rating
 
@@ -48,12 +48,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 5 |
 | 1700 | 4 |
 | 1800 | 1 |
+| Unrated | 1 |
 
 ### By tag
 
 | Tag | Count |
 |---|---|
-| `greedy` | 56 |
+| `greedy` | 57 |
 | `math` | 45 |
 | `implementation` | 27 |
 | `brute force` | 26 |
@@ -85,6 +86,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
+| 2252A | [Boss Fight](problems/greedy/Unrated_2252A-Boss-Fight) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2252/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 231A | [Team](problems/brute-force/0800_231A-Team) | 800 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/231/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
