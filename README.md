@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 107
-- **With source attached:** 0 / 107
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 108
+- **With source attached:** 0 / 108
+- **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 1074 (max 1294)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 107 |
+| C++ | 108 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 33 |
+| 0800 | 34 |
 | 0900 | 12 |
 | 1000 | 4 |
 | 1100 | 10 |
@@ -55,7 +55,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 57 |
-| `math` | 45 |
+| `math` | 46 |
 | `implementation` | 27 |
 | `brute force` | 26 |
 | `binary search` | 18 |
@@ -78,6 +78,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `shortest paths` | 1 |
 | `graph matchings` | 1 |
 | `hashing` | 1 |
+| `probabilities` | 1 |
 
 </details>
 
@@ -92,6 +93,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
 | 339A | [Helpful Maths](problems/greedy/0800_339A-Helpful-Maths) | 800 | `greedy`, `implementation`, `sortings`, `strings` | — | [CF](https://codeforces.com/contest/339/problem/A) |
 | 617A | [Elephant](problems/math/0800_617A-Elephant) | 800 | `math` | — | [CF](https://codeforces.com/contest/617/problem/A) |
+| 1459A | [Red-Blue Shuffle](problems/math/0800_1459A-Red-Blue-Shuffle) | 800 | `math`, `probabilities` | — | [CF](https://codeforces.com/contest/1459/problem/A) |
 | 1493A | [Anti-knapsack](problems/constructive-algorithms/0800_1493A-Anti-knapsack) | 800 | `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/1493/problem/A) |
 | 1766A | [Extremely Round](problems/brute-force/0800_1766A-Extremely-Round) | 800 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1766/problem/A) |
 | 1772A | [A+B?](problems/implementation/0800_1772A-AB) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/1772/problem/A) |
