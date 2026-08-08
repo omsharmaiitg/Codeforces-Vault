@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 109
-- **With source attached:** 0 / 109
-- **Longest streak:** 15 days  |  **Current streak:** 1 days
+- **Total solved:** 110
+- **With source attached:** 0 / 110
+- **Longest streak:** 15 days  |  **Current streak:** 2 days
 - **Contest rating:** 1074 (max 1294)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 109 |
+| C++ | 110 |
 
 ### By rating
 
@@ -42,7 +42,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1000 | 5 |
 | 1100 | 10 |
 | 1200 | 12 |
-| 1300 | 12 |
+| 1300 | 13 |
 | 1400 | 4 |
 | 1500 | 9 |
 | 1600 | 5 |
@@ -56,15 +56,15 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | `greedy` | 58 |
 | `math` | 46 |
+| `implementation` | 28 |
 | `brute force` | 27 |
-| `implementation` | 27 |
 | `binary search` | 18 |
 | `sortings` | 17 |
 | `constructive algorithms` | 17 |
 | `dp` | 17 |
 | `number theory` | 14 |
 | `strings` | 11 |
-| `data structures` | 10 |
+| `data structures` | 11 |
 | `two pointers` | 9 |
 | `bitmasks` | 5 |
 | `dfs and similar` | 4 |
@@ -74,10 +74,10 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `dsu` | 2 |
 | `graphs` | 2 |
 | `games` | 2 |
+| `hashing` | 2 |
 | `interactive` | 1 |
 | `shortest paths` | 1 |
 | `graph matchings` | 1 |
-| `hashing` | 1 |
 | `probabilities` | 1 |
 
 </details>
@@ -161,6 +161,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2053B | [Outstanding Impressionist](problems/binary-search/1200_2053B-Outstanding-Impressionist) | 1200 | `binary search`, `brute force`, `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2053/problem/B) |
 | 2109B | [Slice to Survive](problems/bitmasks/1200_2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2109/problem/B) |
 | 2244D | [Yaroslav and Productivity](problems/constructive-algorithms/1200_2244D-Yaroslav-and-Productivity) | 1200 | `constructive algorithms`, `dp`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2244/problem/D) |
+| 4C | [Registration System](problems/data-structures/1300_4C-Registration-System) | 1300 | `data structures`, `hashing`, `implementation` | — | [CF](https://codeforces.com/contest/4/problem/C) |
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
 | 665C | [Simple Strings](problems/dp/1300_665C-Simple-Strings) | 1300 | `dp`, `greedy`, `strings` | — | [CF](https://codeforces.com/contest/665/problem/C) |
 | 1424G | [Years](problems/data-structures/1300_1424G-Years) | 1300 | `data structures`, `sortings` | — | [CF](https://codeforces.com/contest/1424/problem/G) |
