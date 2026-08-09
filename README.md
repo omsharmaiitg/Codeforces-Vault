@@ -55,11 +55,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 58 |
-| `math` | 46 |
+| `math` | 47 |
 | `implementation` | 28 |
 | `brute force` | 27 |
+| `sortings` | 18 |
 | `binary search` | 18 |
-| `sortings` | 17 |
 | `constructive algorithms` | 17 |
 | `dp` | 17 |
 | `number theory` | 14 |
@@ -88,7 +88,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
 | 2252A | [Boss Fight](problems/data-structures/Unrated_2252A-Boss-Fight) | ? | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2252/problem/A) |
-| 2256A | [Three Numbers on the Blackboard](problems/untagged/Unrated_2256A-Three-Numbers-on-the-Blackboard) | ? |  | — | [CF](https://codeforces.com/contest/2256/problem/A) |
+| 2256A | [Three Numbers on the Blackboard](problems/math/Unrated_2256A-Three-Numbers-on-the-Blackboard) | ? | `math`, `sortings` | — | [CF](https://codeforces.com/contest/2256/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 231A | [Team](problems/brute-force/0800_231A-Team) | 800 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/231/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
