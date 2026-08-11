@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 119
-- **With source attached:** 0 / 119
+- **Total solved:** 120
+- **With source attached:** 0 / 120
 - **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 984 (max 1294)
 
@@ -31,14 +31,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 119 |
+| C++ | 120 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
 | 0800 | 36 |
-| 0900 | 18 |
+| 0900 | 19 |
 | 1000 | 5 |
 | 1100 | 10 |
 | 1200 | 12 |
@@ -54,21 +54,21 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 62 |
-| `math` | 51 |
+| `greedy` | 63 |
+| `math` | 52 |
 | `brute force` | 30 |
 | `implementation` | 30 |
 | `sortings` | 19 |
 | `constructive algorithms` | 18 |
+| `dp` | 18 |
 | `binary search` | 18 |
-| `dp` | 17 |
 | `number theory` | 15 |
 | `strings` | 12 |
 | `data structures` | 11 |
 | `two pointers` | 9 |
 | `bitmasks` | 5 |
+| `dfs and similar` | 5 |
 | `combinatorics` | 5 |
-| `dfs and similar` | 4 |
 | `geometry` | 3 |
 | `ternary search` | 2 |
 | `dsu` | 2 |
@@ -128,6 +128,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1537B | [Bad Boy](problems/constructive-algorithms/0900_1537B-Bad-Boy) | 900 | `constructive algorithms`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1537/problem/B) |
+| 1593B | [Make it Divisible by 25](problems/dfs-and-similar/0900_1593B-Make-it-Divisible-by-25) | 900 | `dfs and similar`, `dp`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1593/problem/B) |
 | 1607B | [Odd Grasshopper](problems/math/0900_1607B-Odd-Grasshopper) | 900 | `math` | — | [CF](https://codeforces.com/contest/1607/problem/B) |
 | 1624B | [Make AP](problems/implementation/0900_1624B-Make-AP) | 900 | `implementation`, `math` | — | [CF](https://codeforces.com/contest/1624/problem/B) |
 | 1675B | [Make It Increasing](problems/greedy/0900_1675B-Make-It-Increasing) | 900 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/1675/problem/B) |
