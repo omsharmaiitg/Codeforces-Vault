@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 111
-- **With source attached:** 0 / 111
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 113
+- **With source attached:** 0 / 113
+- **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 984 (max 1294)
 
 ## 📊 Analytics
@@ -31,14 +31,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 111 |
+| C++ | 113 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
 | 0800 | 34 |
-| 0900 | 12 |
+| 0900 | 14 |
 | 1000 | 5 |
 | 1100 | 10 |
 | 1200 | 12 |
@@ -55,7 +55,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 58 |
-| `math` | 47 |
+| `math` | 48 |
 | `implementation` | 28 |
 | `brute force` | 27 |
 | `sortings` | 18 |
@@ -63,7 +63,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `constructive algorithms` | 17 |
 | `dp` | 17 |
 | `number theory` | 14 |
-| `strings` | 11 |
+| `strings` | 12 |
 | `data structures` | 11 |
 | `two pointers` | 9 |
 | `bitmasks` | 5 |
@@ -130,6 +130,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1675B | [Make It Increasing](problems/greedy/0900_1675B-Make-It-Increasing) | 900 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/1675/problem/B) |
 | 1679A | [AvtoBus](problems/brute-force/0900_1679A-AvtoBus) | 900 | `brute force`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1679/problem/A) |
 | 1696B | [NIT Destroys the Universe](problems/greedy/0900_1696B-NIT-Destroys-the-Universe) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/1696/problem/B) |
+| 1878C | [Vasilije in Cacak](problems/math/0900_1878C-Vasilije-in-Cacak) | 900 | `math` | — | [CF](https://codeforces.com/contest/1878/problem/C) |
+| 1883B | [Chemistry](problems/strings/0900_1883B-Chemistry) | 900 | `strings` | — | [CF](https://codeforces.com/contest/1883/problem/B) |
 | 1904A | [Forked!](problems/brute-force/0900_1904A-Forked) | 900 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1904/problem/A) |
 | 2195B | [Heapify 1](problems/implementation/0900_2195B-Heapify-1) | 900 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2195/problem/B) |
 | 2210B | [Simply Sitting on Chairs](problems/data-structures/0900_2210B-Simply-Sitting-on-Chairs) | 900 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2210/problem/B) |
