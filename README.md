@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 113
-- **With source attached:** 0 / 113
+- **Total solved:** 116
+- **With source attached:** 0 / 116
 - **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 984 (max 1294)
 
@@ -31,14 +31,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 113 |
+| C++ | 116 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 34 |
-| 0900 | 14 |
+| 0800 | 36 |
+| 0900 | 15 |
 | 1000 | 5 |
 | 1100 | 10 |
 | 1200 | 12 |
@@ -54,13 +54,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 58 |
-| `math` | 48 |
+| `greedy` | 60 |
+| `math` | 49 |
+| `brute force` | 28 |
 | `implementation` | 28 |
-| `brute force` | 27 |
 | `sortings` | 18 |
+| `constructive algorithms` | 18 |
 | `binary search` | 18 |
-| `constructive algorithms` | 17 |
 | `dp` | 17 |
 | `number theory` | 14 |
 | `strings` | 12 |
@@ -102,6 +102,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1791C | [Prepend and Append](problems/implementation/0800_1791C-Prepend-and-Append) | 800 | `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/1791/problem/C) |
 | 1833C | [Vlad Building Beautiful Array](problems/greedy/0800_1833C-Vlad-Building-Beautiful-Array) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1833/problem/C) |
 | 1877A | [Goals of Victory](problems/math/0800_1877A-Goals-of-Victory) | 800 | `math` | — | [CF](https://codeforces.com/contest/1877/problem/A) |
+| 1878A | [How Much Does Daytona Cost?](problems/greedy/0800_1878A-How-Much-Does-Daytona-Cost) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/1878/problem/A) |
+| 1878B | [Aleksa and Stack](problems/constructive-algorithms/0800_1878B-Aleksa-and-Stack) | 800 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1878/problem/B) |
 | 1901A | [Line Trip](problems/greedy/0800_1901A-Line-Trip) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1901/problem/A) |
 | 1903A | [Halloumi Boxes](problems/brute-force/0800_1903A-Halloumi-Boxes) | 800 | `brute force`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1903/problem/A) |
 | 2151A | [Incremental Subarray](problems/math/0800_2151A-Incremental-Subarray) | 800 | `math`, `strings` | — | [CF](https://codeforces.com/contest/2151/problem/A) |
@@ -130,6 +132,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1675B | [Make It Increasing](problems/greedy/0900_1675B-Make-It-Increasing) | 900 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/1675/problem/B) |
 | 1679A | [AvtoBus](problems/brute-force/0900_1679A-AvtoBus) | 900 | `brute force`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1679/problem/A) |
 | 1696B | [NIT Destroys the Universe](problems/greedy/0900_1696B-NIT-Destroys-the-Universe) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/1696/problem/B) |
+| 1875A | [Jellyfish and Undertale](problems/brute-force/0900_1875A-Jellyfish-and-Undertale) | 900 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1875/problem/A) |
 | 1878C | [Vasilije in Cacak](problems/math/0900_1878C-Vasilije-in-Cacak) | 900 | `math` | — | [CF](https://codeforces.com/contest/1878/problem/C) |
 | 1883B | [Chemistry](problems/strings/0900_1883B-Chemistry) | 900 | `strings` | — | [CF](https://codeforces.com/contest/1883/problem/B) |
 | 1904A | [Forked!](problems/brute-force/0900_1904A-Forked) | 900 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1904/problem/A) |
