@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 116
-- **With source attached:** 0 / 116
+- **Total solved:** 119
+- **With source attached:** 0 / 119
 - **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 984 (max 1294)
 
@@ -31,14 +31,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 116 |
+| C++ | 119 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
 | 0800 | 36 |
-| 0900 | 15 |
+| 0900 | 18 |
 | 1000 | 5 |
 | 1100 | 10 |
 | 1200 | 12 |
@@ -54,21 +54,21 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 60 |
-| `math` | 49 |
-| `brute force` | 28 |
-| `implementation` | 28 |
-| `sortings` | 18 |
+| `greedy` | 62 |
+| `math` | 51 |
+| `brute force` | 30 |
+| `implementation` | 30 |
+| `sortings` | 19 |
 | `constructive algorithms` | 18 |
 | `binary search` | 18 |
 | `dp` | 17 |
-| `number theory` | 14 |
+| `number theory` | 15 |
 | `strings` | 12 |
 | `data structures` | 11 |
 | `two pointers` | 9 |
 | `bitmasks` | 5 |
+| `combinatorics` | 5 |
 | `dfs and similar` | 4 |
-| `combinatorics` | 4 |
 | `geometry` | 3 |
 | `ternary search` | 2 |
 | `dsu` | 2 |
@@ -129,9 +129,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1537B | [Bad Boy](problems/constructive-algorithms/0900_1537B-Bad-Boy) | 900 | `constructive algorithms`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1537/problem/B) |
 | 1607B | [Odd Grasshopper](problems/math/0900_1607B-Odd-Grasshopper) | 900 | `math` | — | [CF](https://codeforces.com/contest/1607/problem/B) |
+| 1624B | [Make AP](problems/implementation/0900_1624B-Make-AP) | 900 | `implementation`, `math` | — | [CF](https://codeforces.com/contest/1624/problem/B) |
 | 1675B | [Make It Increasing](problems/greedy/0900_1675B-Make-It-Increasing) | 900 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/1675/problem/B) |
 | 1679A | [AvtoBus](problems/brute-force/0900_1679A-AvtoBus) | 900 | `brute force`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1679/problem/A) |
 | 1696B | [NIT Destroys the Universe](problems/greedy/0900_1696B-NIT-Destroys-the-Universe) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/1696/problem/B) |
+| 1850D | [Balanced Round](problems/brute-force/0900_1850D-Balanced-Round) | 900 | `brute force`, `greedy`, `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/1850/problem/D) |
+| 1855B | [Longest Divisors Interval](problems/brute-force/0900_1855B-Longest-Divisors-Interval) | 900 | `brute force`, `combinatorics`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1855/problem/B) |
 | 1875A | [Jellyfish and Undertale](problems/brute-force/0900_1875A-Jellyfish-and-Undertale) | 900 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1875/problem/A) |
 | 1878C | [Vasilije in Cacak](problems/math/0900_1878C-Vasilije-in-Cacak) | 900 | `math` | — | [CF](https://codeforces.com/contest/1878/problem/C) |
 | 1883B | [Chemistry](problems/strings/0900_1883B-Chemistry) | 900 | `strings` | — | [CF](https://codeforces.com/contest/1883/problem/B) |
