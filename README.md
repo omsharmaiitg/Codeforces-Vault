@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 123
-- **With source attached:** 0 / 123
+- **Total solved:** 125
+- **With source attached:** 0 / 125
 - **Longest streak:** 15 days  |  **Current streak:** 3 days
 - **Contest rating:** 984 (max 1294)
 
@@ -31,14 +31,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 123 |
+| C++ | 125 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 36 |
-| 0900 | 22 |
+| 0800 | 37 |
+| 0900 | 23 |
 | 1000 | 5 |
 | 1100 | 10 |
 | 1200 | 12 |
@@ -54,12 +54,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 64 |
-| `math` | 54 |
+| `greedy` | 65 |
+| `math` | 56 |
+| `implementation` | 31 |
 | `brute force` | 30 |
-| `implementation` | 30 |
 | `sortings` | 19 |
-| `constructive algorithms` | 18 |
+| `constructive algorithms` | 19 |
 | `dp` | 18 |
 | `binary search` | 18 |
 | `number theory` | 16 |
@@ -100,6 +100,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1772A | [A+B?](problems/implementation/0800_1772A-AB) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/1772/problem/A) |
 | 1772B | [Matrix Rotation](problems/brute-force/0800_1772B-Matrix-Rotation) | 800 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1772/problem/B) |
 | 1791C | [Prepend and Append](problems/implementation/0800_1791C-Prepend-and-Append) | 800 | `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/1791/problem/C) |
+| 1814A | [Coins](problems/implementation/0800_1814A-Coins) | 800 | `implementation`, `math` | — | [CF](https://codeforces.com/contest/1814/problem/A) |
 | 1833C | [Vlad Building Beautiful Array](problems/greedy/0800_1833C-Vlad-Building-Beautiful-Array) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1833/problem/C) |
 | 1877A | [Goals of Victory](problems/math/0800_1877A-Goals-of-Victory) | 800 | `math` | — | [CF](https://codeforces.com/contest/1877/problem/A) |
 | 1878A | [How Much Does Daytona Cost?](problems/greedy/0800_1878A-How-Much-Does-Daytona-Cost) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/1878/problem/A) |
@@ -137,6 +138,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1675B | [Make It Increasing](problems/greedy/0900_1675B-Make-It-Increasing) | 900 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/1675/problem/B) |
 | 1679A | [AvtoBus](problems/brute-force/0900_1679A-AvtoBus) | 900 | `brute force`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1679/problem/A) |
 | 1696B | [NIT Destroys the Universe](problems/greedy/0900_1696B-NIT-Destroys-the-Universe) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/1696/problem/B) |
+| 1794B | [Not Dividing](problems/constructive-algorithms/0900_1794B-Not-Dividing) | 900 | `constructive algorithms`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1794/problem/B) |
 | 1850D | [Balanced Round](problems/brute-force/0900_1850D-Balanced-Round) | 900 | `brute force`, `greedy`, `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/1850/problem/D) |
 | 1855B | [Longest Divisors Interval](problems/brute-force/0900_1855B-Longest-Divisors-Interval) | 900 | `brute force`, `combinatorics`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1855/problem/B) |
 | 1875A | [Jellyfish and Undertale](problems/brute-force/0900_1875A-Jellyfish-and-Undertale) | 900 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1875/problem/A) |
