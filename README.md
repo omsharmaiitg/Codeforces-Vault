@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 122
-- **With source attached:** 0 / 122
+- **Total solved:** 123
+- **With source attached:** 0 / 123
 - **Longest streak:** 15 days  |  **Current streak:** 3 days
 - **Contest rating:** 984 (max 1294)
 
@@ -31,14 +31,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 122 |
+| C++ | 123 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
 | 0800 | 36 |
-| 0900 | 21 |
+| 0900 | 22 |
 | 1000 | 5 |
 | 1100 | 10 |
 | 1200 | 12 |
@@ -54,8 +54,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 63 |
-| `math` | 53 |
+| `greedy` | 64 |
+| `math` | 54 |
 | `brute force` | 30 |
 | `implementation` | 30 |
 | `sortings` | 19 |
@@ -127,6 +127,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2248A | [You Delete, I Delete](problems/greedy/0800_2248A-You-Delete-I-Delete) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2248/problem/A) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
+| 1440B | [Sum of Medians](problems/greedy/0900_1440B-Sum-of-Medians) | 900 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1440/problem/B) |
 | 1475A | [Odd Divisor](problems/math/0900_1475A-Odd-Divisor) | 900 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/1475/problem/A) |
 | 1537B | [Bad Boy](problems/constructive-algorithms/0900_1537B-Bad-Boy) | 900 | `constructive algorithms`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1537/problem/B) |
 | 1593B | [Make it Divisible by 25](problems/dfs-and-similar/0900_1593B-Make-it-Divisible-by-25) | 900 | `dfs and similar`, `dp`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1593/problem/B) |
