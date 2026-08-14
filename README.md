@@ -37,7 +37,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Rating | Count |
 |---|---|
-| 0800 | 37 |
+| 0800 | 39 |
 | 0900 | 23 |
 | 1000 | 5 |
 | 1100 | 10 |
@@ -48,7 +48,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 5 |
 | 1700 | 4 |
 | 1800 | 1 |
-| Unrated | 2 |
 
 ### By tag
 
@@ -87,8 +86,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2252A | [Boss Fight](problems/data-structures/Unrated_2252A-Boss-Fight) | ? | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2252/problem/A) |
-| 2256A | [Three Numbers on the Blackboard](problems/math/Unrated_2256A-Three-Numbers-on-the-Blackboard) | ? | `math`, `sortings` | — | [CF](https://codeforces.com/contest/2256/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 231A | [Team](problems/brute-force/0800_231A-Team) | 800 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/231/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
@@ -126,6 +123,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2246A | [farmpiggie and Subset Sum](problems/constructive-algorithms/0800_2246A-farmpiggie-and-Subset-Sum) | 800 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 2247A | [Zero Sum](problems/constructive-algorithms/0800_2247A-Zero-Sum) | 800 | `constructive algorithms`, `dp`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
 | 2248A | [You Delete, I Delete](problems/greedy/0800_2248A-You-Delete-I-Delete) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2248/problem/A) |
+| 2252A | [Boss Fight](problems/data-structures/0800_2252A-Boss-Fight) | 800 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2252/problem/A) |
+| 2256A | [Three Numbers on the Blackboard](problems/math/0800_2256A-Three-Numbers-on-the-Blackboard) | 800 | `math`, `sortings` | — | [CF](https://codeforces.com/contest/2256/problem/A) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1440B | [Sum of Medians](problems/greedy/0900_1440B-Sum-of-Medians) | 900 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1440/problem/B) |
