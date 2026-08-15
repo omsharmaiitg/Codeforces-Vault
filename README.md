@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 126
-- **With source attached:** 0 / 126
+- **Total solved:** 127
+- **With source attached:** 0 / 127
 - **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 984 (max 1294)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 126 |
+| C++ | 127 |
 
 ### By rating
 
@@ -39,7 +39,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | 0800 | 39 |
 | 0900 | 23 |
-| 1000 | 6 |
+| 1000 | 7 |
 | 1100 | 10 |
 | 1200 | 12 |
 | 1300 | 13 |
@@ -62,7 +62,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `dp` | 18 |
 | `binary search` | 18 |
 | `number theory` | 16 |
-| `strings` | 13 |
+| `strings` | 14 |
 | `data structures` | 12 |
 | `two pointers` | 9 |
 | `bitmasks` | 5 |
@@ -150,6 +150,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2246B | [ezraft and Array](problems/constructive-algorithms/0900_2246B-ezraft-and-Array) | 900 | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
 | 1784A | [Monsters (easy version)](problems/brute-force/1000_1784A-Monsters-easy-version) | 1000 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1784/problem/A) |
+| 1913B | [Swap and Delete](problems/strings/1000_1913B-Swap-and-Delete) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/1913/problem/B) |
 | 2193C | [Replace and Sum](problems/data-structures/1000_2193C-Replace-and-Sum) | 1000 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2193/problem/C) |
 | 2236C | [Omsk Programmers](problems/brute-force/1000_2236C-Omsk-Programmers) | 1000 | `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2236/problem/C) |
 | 2241C | [RemovevomeR](problems/greedy/1000_2241C-RemovevomeR) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2241/problem/C) |
