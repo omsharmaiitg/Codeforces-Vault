@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 129
-- **With source attached:** 0 / 129
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 130
+- **With source attached:** 0 / 130
+- **Longest streak:** 15 days  |  **Current streak:** 2 days
 - **Contest rating:** 984 (max 1294)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 129 |
+| C++ | 130 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 39 |
+| 0800 | 40 |
 | 0900 | 23 |
 | 1000 | 8 |
 | 1100 | 10 |
@@ -62,7 +62,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `dp` | 19 |
 | `binary search` | 18 |
 | `number theory` | 16 |
-| `strings` | 14 |
+| `strings` | 15 |
 | `data structures` | 12 |
 | `two pointers` | 9 |
 | `bitmasks` | 5 |
@@ -87,6 +87,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
+| 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
 | 231A | [Team](problems/brute-force/0800_231A-Team) | 800 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/231/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
 | 339A | [Helpful Maths](problems/greedy/0800_339A-Helpful-Maths) | 800 | `greedy`, `implementation`, `sortings`, `strings` | — | [CF](https://codeforces.com/contest/339/problem/A) |
