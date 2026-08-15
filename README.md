@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 125
-- **With source attached:** 0 / 125
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 126
+- **With source attached:** 0 / 126
+- **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 984 (max 1294)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 125 |
+| C++ | 126 |
 
 ### By rating
 
@@ -39,7 +39,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | 0800 | 39 |
 | 0900 | 23 |
-| 1000 | 5 |
+| 1000 | 6 |
 | 1100 | 10 |
 | 1200 | 12 |
 | 1300 | 13 |
@@ -53,7 +53,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 65 |
+| `greedy` | 66 |
 | `math` | 56 |
 | `implementation` | 31 |
 | `brute force` | 30 |
@@ -63,7 +63,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `binary search` | 18 |
 | `number theory` | 16 |
 | `strings` | 13 |
-| `data structures` | 11 |
+| `data structures` | 12 |
 | `two pointers` | 9 |
 | `bitmasks` | 5 |
 | `dfs and similar` | 5 |
@@ -150,6 +150,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2246B | [ezraft and Array](problems/constructive-algorithms/0900_2246B-ezraft-and-Array) | 900 | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
 | 1784A | [Monsters (easy version)](problems/brute-force/1000_1784A-Monsters-easy-version) | 1000 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1784/problem/A) |
+| 2193C | [Replace and Sum](problems/data-structures/1000_2193C-Replace-and-Sum) | 1000 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2193/problem/C) |
 | 2236C | [Omsk Programmers](problems/brute-force/1000_2236C-Omsk-Programmers) | 1000 | `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2236/problem/C) |
 | 2241C | [RemovevomeR](problems/greedy/1000_2241C-RemovevomeR) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2241/problem/C) |
 | 2242B | [Predominant Frequency Division](problems/data-structures/1000_2242B-Predominant-Frequency-Division) | 1000 | `data structures`, `greedy`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2242/problem/B) |
