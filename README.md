@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 127
-- **With source attached:** 0 / 127
+- **Total solved:** 128
+- **With source attached:** 0 / 128
 - **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 984 (max 1294)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 127 |
+| C++ | 128 |
 
 ### By rating
 
@@ -39,7 +39,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | 0800 | 39 |
 | 0900 | 23 |
-| 1000 | 7 |
+| 1000 | 8 |
 | 1100 | 10 |
 | 1200 | 12 |
 | 1300 | 13 |
@@ -54,12 +54,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 66 |
-| `math` | 56 |
+| `math` | 57 |
 | `implementation` | 31 |
 | `brute force` | 30 |
 | `sortings` | 19 |
 | `constructive algorithms` | 19 |
-| `dp` | 18 |
+| `dp` | 19 |
 | `binary search` | 18 |
 | `number theory` | 16 |
 | `strings` | 14 |
@@ -150,6 +150,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2246B | [ezraft and Array](problems/constructive-algorithms/0900_2246B-ezraft-and-Array) | 900 | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
 | 1784A | [Monsters (easy version)](problems/brute-force/1000_1784A-Monsters-easy-version) | 1000 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1784/problem/A) |
+| 1883C | [Raspberries](problems/dp/1000_1883C-Raspberries) | 1000 | `dp`, `math` | — | [CF](https://codeforces.com/contest/1883/problem/C) |
 | 1913B | [Swap and Delete](problems/strings/1000_1913B-Swap-and-Delete) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/1913/problem/B) |
 | 2193C | [Replace and Sum](problems/data-structures/1000_2193C-Replace-and-Sum) | 1000 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2193/problem/C) |
 | 2236C | [Omsk Programmers](problems/brute-force/1000_2236C-Omsk-Programmers) | 1000 | `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2236/problem/C) |
