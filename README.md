@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 130
-- **With source attached:** 0 / 130
+- **Total solved:** 131
+- **With source attached:** 0 / 131
 - **Longest streak:** 15 days  |  **Current streak:** 2 days
 - **Contest rating:** 984 (max 1294)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 130 |
+| C++ | 131 |
 
 ### By rating
 
@@ -40,7 +40,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0800 | 40 |
 | 0900 | 23 |
 | 1000 | 8 |
-| 1100 | 10 |
+| 1100 | 11 |
 | 1200 | 13 |
 | 1300 | 13 |
 | 1400 | 4 |
@@ -53,8 +53,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 67 |
-| `math` | 57 |
+| `greedy` | 68 |
+| `math` | 58 |
 | `implementation` | 32 |
 | `brute force` | 30 |
 | `sortings` | 19 |
@@ -158,6 +158,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2241C | [RemovevomeR](problems/greedy/1000_2241C-RemovevomeR) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2241/problem/C) |
 | 2242B | [Predominant Frequency Division](problems/data-structures/1000_2242B-Predominant-Frequency-Division) | 1000 | `data structures`, `greedy`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2242/problem/B) |
 | 919B | [Perfect Number](problems/binary-search/1100_919B-Perfect-Number) | 1100 | `binary search`, `brute force`, `dp`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/919/problem/B) |
+| 1914C | [Quests](problems/greedy/1100_1914C-Quests) | 1100 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1914/problem/C) |
 | 1942B | [Bessie and MEX](problems/constructive-algorithms/1100_1942B-Bessie-and-MEX) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1942/problem/B) |
 | 2063B | [Subsequence Update](problems/constructive-algorithms/1100_2063B-Subsequence-Update) | 1100 | `constructive algorithms`, `data structures`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/2063/problem/B) |
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](problems/binary-search/1100_2065C1-Skibidus-and-Fanum-Tax-easy-version) | 1100 | `binary search`, `dp`, `greedy` | — | [CF](https://codeforces.com/contest/2065/problem/C1) |
