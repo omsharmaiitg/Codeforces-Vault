@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 133
-- **With source attached:** 0 / 133
+- **Total solved:** 134
+- **With source attached:** 0 / 134
 - **Longest streak:** 15 days  |  **Current streak:** 2 days
 - **Contest rating:** 984 (max 1294)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 133 |
+| C++ | 134 |
 
 ### By rating
 
@@ -40,7 +40,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0800 | 40 |
 | 0900 | 23 |
 | 1000 | 8 |
-| 1100 | 13 |
+| 1100 | 14 |
 | 1200 | 13 |
 | 1300 | 13 |
 | 1400 | 4 |
@@ -54,11 +54,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 68 |
-| `math` | 59 |
+| `math` | 60 |
 | `implementation` | 33 |
 | `brute force` | 31 |
+| `constructive algorithms` | 20 |
 | `sortings` | 19 |
-| `constructive algorithms` | 19 |
 | `dp` | 19 |
 | `number theory` | 18 |
 | `binary search` | 18 |
@@ -158,6 +158,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2241C | [RemovevomeR](problems/greedy/1000_2241C-RemovevomeR) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2241/problem/C) |
 | 2242B | [Predominant Frequency Division](problems/data-structures/1000_2242B-Predominant-Frequency-Division) | 1000 | `data structures`, `greedy`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2242/problem/B) |
 | 919B | [Perfect Number](problems/binary-search/1100_919B-Perfect-Number) | 1100 | `binary search`, `brute force`, `dp`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/919/problem/B) |
+| 1708B | [Difference of GCDs](problems/constructive-algorithms/1100_1708B-Difference-of-GCDs) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1708/problem/B) |
 | 1826B | [Lunatic Never Content](problems/math/1100_1826B-Lunatic-Never-Content) | 1100 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/1826/problem/B) |
 | 1899B | [250 Thousand Tons of TNT](problems/brute-force/1100_1899B-250-Thousand-Tons-of-TNT) | 1100 | `brute force`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/1899/problem/B) |
 | 1914C | [Quests](problems/greedy/1100_1914C-Quests) | 1100 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1914/problem/C) |
