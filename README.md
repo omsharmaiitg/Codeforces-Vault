@@ -55,7 +55,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 68 |
-| `math` | 60 |
+| `math` | 61 |
 | `implementation` | 35 |
 | `brute force` | 31 |
 | `sortings` | 20 |
@@ -63,7 +63,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `dp` | 19 |
 | `number theory` | 18 |
 | `binary search` | 18 |
-| `strings` | 16 |
+| `strings` | 17 |
 | `data structures` | 12 |
 | `two pointers` | 10 |
 | `bitmasks` | 5 |
@@ -79,6 +79,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `shortest paths` | 1 |
 | `graph matchings` | 1 |
 | `probabilities` | 1 |
+| `fft` | 1 |
 
 </details>
 
@@ -87,8 +88,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2257A | [Creating Abbreviations](problems/untagged/Unrated_2257A-Creating-Abbreviations) | ? |  | — | [CF](https://codeforces.com/contest/2257/problem/A) |
-| 2257B | [Gigantomachy](problems/untagged/Unrated_2257B-Gigantomachy) | ? |  | — | [CF](https://codeforces.com/contest/2257/problem/B) |
+| 2257A | [Creating Abbreviations](problems/fft/Unrated_2257A-Creating-Abbreviations) | ? | `fft`, `strings` | — | [CF](https://codeforces.com/contest/2257/problem/A) |
+| 2257B | [Gigantomachy](problems/math/Unrated_2257B-Gigantomachy) | ? | `math` | — | [CF](https://codeforces.com/contest/2257/problem/B) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
 | 231A | [Team](problems/brute-force/0800_231A-Team) | 800 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/231/problem/A) |
