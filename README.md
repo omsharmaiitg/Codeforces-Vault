@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 134
-- **With source attached:** 0 / 134
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 136
+- **With source attached:** 0 / 136
+- **Longest streak:** 15 days  |  **Current streak:** 3 days
 - **Contest rating:** 984 (max 1294)
 
 ## 📊 Analytics
@@ -31,14 +31,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 134 |
+| C++ | 136 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 40 |
-| 0900 | 23 |
+| 0800 | 41 |
+| 0900 | 24 |
 | 1000 | 8 |
 | 1100 | 14 |
 | 1200 | 13 |
@@ -55,16 +55,16 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | `greedy` | 68 |
 | `math` | 60 |
-| `implementation` | 33 |
+| `implementation` | 35 |
 | `brute force` | 31 |
+| `sortings` | 20 |
 | `constructive algorithms` | 20 |
-| `sortings` | 19 |
 | `dp` | 19 |
 | `number theory` | 18 |
 | `binary search` | 18 |
-| `strings` | 15 |
+| `strings` | 16 |
 | `data structures` | 12 |
-| `two pointers` | 9 |
+| `two pointers` | 10 |
 | `bitmasks` | 5 |
 | `dfs and similar` | 5 |
 | `combinatorics` | 5 |
@@ -125,6 +125,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2247A | [Zero Sum](problems/constructive-algorithms/0800_2247A-Zero-Sum) | 800 | `constructive algorithms`, `dp`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
 | 2248A | [You Delete, I Delete](problems/greedy/0800_2248A-You-Delete-I-Delete) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2248/problem/A) |
 | 2252A | [Boss Fight](problems/data-structures/0800_2252A-Boss-Fight) | 800 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2252/problem/A) |
+| 2254A | [Riptide](problems/implementation/0800_2254A-Riptide) | 800 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2254/problem/A) |
 | 2256A | [Three Numbers on the Blackboard](problems/math/0800_2256A-Three-Numbers-on-the-Blackboard) | 800 | `math`, `sortings` | — | [CF](https://codeforces.com/contest/2256/problem/A) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
@@ -149,6 +150,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2210B | [Simply Sitting on Chairs](problems/data-structures/0900_2210B-Simply-Sitting-on-Chairs) | 900 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2210/problem/B) |
 | 2238B | [Crimson Triples](problems/dp/0900_2238B-Crimson-Triples) | 900 | `dp`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2238/problem/B) |
 | 2246B | [ezraft and Array](problems/constructive-algorithms/0900_2246B-ezraft-and-Array) | 900 | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
+| 2254B | [Evanescent](problems/implementation/0900_2254B-Evanescent) | 900 | `implementation`, `strings`, `two pointers` | — | [CF](https://codeforces.com/contest/2254/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
 | 1784A | [Monsters (easy version)](problems/brute-force/1000_1784A-Monsters-easy-version) | 1000 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1784/problem/A) |
 | 1883C | [Raspberries](problems/dp/1000_1883C-Raspberries) | 1000 | `dp`, `math` | — | [CF](https://codeforces.com/contest/1883/problem/C) |
