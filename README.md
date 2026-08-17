@@ -4,8 +4,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 - **Total solved:** 138
 - **With source attached:** 0 / 138
-- **Longest streak:** 15 days  |  **Current streak:** 3 days
-- **Contest rating:** 984 (max 1294)
+- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Contest rating:** 990 (max 1294)
 
 ## 📊 Analytics
 
@@ -79,7 +79,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `shortest paths` | 1 |
 | `graph matchings` | 1 |
 | `probabilities` | 1 |
-| `fft` | 1 |
 
 </details>
 
@@ -88,7 +87,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2257A | [Creating Abbreviations](problems/fft/Unrated_2257A-Creating-Abbreviations) | ? | `fft`, `strings` | — | [CF](https://codeforces.com/contest/2257/problem/A) |
+| 2257A | [Creating Abbreviations](problems/strings/Unrated_2257A-Creating-Abbreviations) | ? | `strings` | — | [CF](https://codeforces.com/contest/2257/problem/A) |
 | 2257B | [Gigantomachy](problems/math/Unrated_2257B-Gigantomachy) | ? | `math` | — | [CF](https://codeforces.com/contest/2257/problem/B) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
