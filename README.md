@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 136
-- **With source attached:** 0 / 136
+- **Total solved:** 138
+- **With source attached:** 0 / 138
 - **Longest streak:** 15 days  |  **Current streak:** 3 days
 - **Contest rating:** 984 (max 1294)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 136 |
+| C++ | 138 |
 
 ### By rating
 
@@ -48,6 +48,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 5 |
 | 1700 | 4 |
 | 1800 | 1 |
+| Unrated | 2 |
 
 ### By tag
 
@@ -86,6 +87,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
+| 2257A | [Creating Abbreviations](problems/untagged/Unrated_2257A-Creating-Abbreviations) | ? |  | — | [CF](https://codeforces.com/contest/2257/problem/A) |
+| 2257B | [Gigantomachy](problems/untagged/Unrated_2257B-Gigantomachy) | ? |  | — | [CF](https://codeforces.com/contest/2257/problem/B) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
 | 231A | [Team](problems/brute-force/0800_231A-Team) | 800 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/231/problem/A) |
