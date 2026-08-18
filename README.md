@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 139
-- **With source attached:** 0 / 139
-- **Longest streak:** 15 days  |  **Current streak:** 4 days
+- **Total solved:** 140
+- **With source attached:** 0 / 140
+- **Longest streak:** 15 days  |  **Current streak:** 5 days
 - **Contest rating:** 990 (max 1294)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 139 |
+| C++ | 140 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 41 |
+| 0800 | 42 |
 | 0900 | 24 |
 | 1000 | 8 |
 | 1100 | 14 |
@@ -55,9 +55,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 68 |
-| `math` | 62 |
+| `math` | 63 |
 | `implementation` | 35 |
-| `brute force` | 32 |
+| `brute force` | 33 |
 | `sortings` | 20 |
 | `constructive algorithms` | 20 |
 | `number theory` | 19 |
@@ -114,6 +114,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2182B | [New Year Cake](problems/brute-force/0800_2182B-New-Year-Cake) | 800 | `brute force` | — | [CF](https://codeforces.com/contest/2182/problem/B) |
 | 2188A | [Divisible Permutation](problems/constructive-algorithms/0800_2188A-Divisible-Permutation) | 800 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2188/problem/A) |
 | 2209A | [Flip Flops](problems/greedy/0800_2209A-Flip-Flops) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2209/problem/A) |
+| 2233A | [AI Project Development](problems/brute-force/0800_2233A-AI-Project-Development) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/2233/problem/A) |
 | 2234A | [Euclid, Sequence and Two Numbers](problems/math/0800_2234A-Euclid-Sequence-and-Two-Numbers) | 800 | `math`, `number theory`, `sortings` | — | [CF](https://codeforces.com/contest/2234/problem/A) |
 | 2234B | [Palindrome, Twelve and Two Terms](problems/brute-force/0800_2234B-Palindrome-Twelve-and-Two-Terms) | 800 | `brute force`, `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2234/problem/B) |
 | 2236A | [Games on the Train](problems/greedy/0800_2236A-Games-on-the-Train) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/2236/problem/A) |
