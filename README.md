@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 148
-- **With source attached:** 0 / 148
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 149
+- **With source attached:** 0 / 149
+- **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 990 (max 1294)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 148 |
+| C++ | 149 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 45 |
+| 0800 | 46 |
 | 0900 | 24 |
 | 1000 | 10 |
 | 1100 | 16 |
@@ -55,9 +55,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 70 |
-| `math` | 67 |
-| `implementation` | 40 |
-| `brute force` | 35 |
+| `math` | 68 |
+| `implementation` | 41 |
+| `brute force` | 36 |
 | `constructive algorithms` | 21 |
 | `number theory` | 20 |
 | `sortings` | 20 |
@@ -70,10 +70,10 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `dfs and similar` | 5 |
 | `combinatorics` | 5 |
 | `geometry` | 4 |
+| `games` | 3 |
 | `ternary search` | 2 |
 | `dsu` | 2 |
 | `graphs` | 2 |
-| `games` | 2 |
 | `hashing` | 2 |
 | `interactive` | 1 |
 | `shortest paths` | 1 |
@@ -116,6 +116,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2182B | [New Year Cake](problems/brute-force/0800_2182B-New-Year-Cake) | 800 | `brute force` | — | [CF](https://codeforces.com/contest/2182/problem/B) |
 | 2188A | [Divisible Permutation](problems/constructive-algorithms/0800_2188A-Divisible-Permutation) | 800 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2188/problem/A) |
 | 2209A | [Flip Flops](problems/greedy/0800_2209A-Flip-Flops) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2209/problem/A) |
+| 2218A | [The 67th Integer Problem](problems/brute-force/0800_2218A-The-67th-Integer-Problem) | 800 | `brute force`, `games`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2218/problem/A) |
 | 2233A | [AI Project Development](problems/brute-force/0800_2233A-AI-Project-Development) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/2233/problem/A) |
 | 2234A | [Euclid, Sequence and Two Numbers](problems/math/0800_2234A-Euclid-Sequence-and-Two-Numbers) | 800 | `math`, `number theory`, `sortings` | — | [CF](https://codeforces.com/contest/2234/problem/A) |
 | 2234B | [Palindrome, Twelve and Two Terms](problems/brute-force/0800_2234B-Palindrome-Twelve-and-Two-Terms) | 800 | `brute force`, `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2234/problem/B) |
