@@ -5,7 +5,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 - **Total solved:** 149
 - **With source attached:** 0 / 149
 - **Longest streak:** 15 days  |  **Current streak:** 0 days
-- **Contest rating:** 990 (max 990)
+- **Contest rating:** 1248 (max 1248)
 
 ## 📊 Analytics
 
