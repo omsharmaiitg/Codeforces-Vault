@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 149
-- **With source attached:** 0 / 149
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 150
+- **With source attached:** 0 / 150
+- **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 996 (max 1299)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 149 |
+| C++ | 150 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 46 |
+| 0800 | 47 |
 | 0900 | 24 |
 | 1000 | 10 |
 | 1100 | 16 |
@@ -55,11 +55,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `greedy` | 70 |
-| `math` | 68 |
+| `math` | 69 |
 | `implementation` | 41 |
 | `brute force` | 36 |
+| `number theory` | 21 |
 | `constructive algorithms` | 21 |
-| `number theory` | 20 |
 | `sortings` | 20 |
 | `dp` | 20 |
 | `binary search` | 19 |
@@ -115,6 +115,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2182A | [New Year String](problems/constructive-algorithms/0800_2182A-New-Year-String) | 800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2182/problem/A) |
 | 2182B | [New Year Cake](problems/brute-force/0800_2182B-New-Year-Cake) | 800 | `brute force` | — | [CF](https://codeforces.com/contest/2182/problem/B) |
 | 2188A | [Divisible Permutation](problems/constructive-algorithms/0800_2188A-Divisible-Permutation) | 800 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2188/problem/A) |
+| 2195A | [Sieve of Erato67henes](problems/math/0800_2195A-Sieve-of-Erato67henes) | 800 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/2195/problem/A) |
 | 2209A | [Flip Flops](problems/greedy/0800_2209A-Flip-Flops) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2209/problem/A) |
 | 2218A | [The 67th Integer Problem](problems/brute-force/0800_2218A-The-67th-Integer-Problem) | 800 | `brute force`, `games`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2218/problem/A) |
 | 2233A | [AI Project Development](problems/brute-force/0800_2233A-AI-Project-Development) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/2233/problem/A) |
