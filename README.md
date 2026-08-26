@@ -37,7 +37,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Rating | Count |
 |---|---|
-| 0800 | 47 |
+| 0800 | 49 |
 | 0900 | 24 |
 | 1000 | 10 |
 | 1100 | 16 |
@@ -45,10 +45,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1300 | 13 |
 | 1400 | 4 |
 | 1500 | 9 |
-| 1600 | 5 |
+| 1600 | 6 |
 | 1700 | 5 |
 | 1800 | 1 |
-| Unrated | 3 |
 
 ### By tag
 
@@ -87,9 +86,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2257A | [Creating Abbreviations](problems/brute-force/Unrated_2257A-Creating-Abbreviations) | ? | `brute force`, `strings` | — | [CF](https://codeforces.com/contest/2257/problem/A) |
-| 2257B | [Gigantomachy](problems/math/Unrated_2257B-Gigantomachy) | ? | `math` | — | [CF](https://codeforces.com/contest/2257/problem/B) |
-| 2257D | [Bermuda Rectangle](problems/binary-search/Unrated_2257D-Bermuda-Rectangle) | ? | `binary search`, `implementation`, `math`, `number theory`, `two pointers` | — | [CF](https://codeforces.com/contest/2257/problem/D) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 14A | [Letter](problems/implementation/0800_14A-Letter) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
@@ -137,6 +133,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2253A | [The Best Card](problems/greedy/0800_2253A-The-Best-Card) | 800 | `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2253/problem/A) |
 | 2254A | [Riptide](problems/implementation/0800_2254A-Riptide) | 800 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2254/problem/A) |
 | 2256A | [Three Numbers on the Blackboard](problems/math/0800_2256A-Three-Numbers-on-the-Blackboard) | 800 | `math`, `sortings` | — | [CF](https://codeforces.com/contest/2256/problem/A) |
+| 2257A | [Creating Abbreviations](problems/brute-force/0800_2257A-Creating-Abbreviations) | 800 | `brute force`, `strings` | — | [CF](https://codeforces.com/contest/2257/problem/A) |
+| 2257B | [Gigantomachy](problems/math/0800_2257B-Gigantomachy) | 800 | `math` | — | [CF](https://codeforces.com/contest/2257/problem/B) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1440B | [Sum of Medians](problems/greedy/0900_1440B-Sum-of-Medians) | 900 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1440/problem/B) |
@@ -231,6 +229,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1730B | [Meeting on the Line](problems/binary-search/1600_1730B-Meeting-on-the-Line) | 1600 | `binary search`, `geometry`, `greedy`, `implementation`, `math`, `ternary search` | — | [CF](https://codeforces.com/contest/1730/problem/B) |
 | 2040C | [Ordered Permutations](problems/bitmasks/1600_2040C-Ordered-Permutations) | 1600 | `bitmasks`, `combinatorics`, `constructive algorithms`, `greedy`, `math`, `two pointers` | — | [CF](https://codeforces.com/contest/2040/problem/C) |
 | 2048D | [Kevin and Competition Memories](problems/binary-search/1600_2048D-Kevin-and-Competition-Memories) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2048/problem/D) |
+| 2257D | [Bermuda Rectangle](problems/binary-search/1600_2257D-Bermuda-Rectangle) | 1600 | `binary search`, `implementation`, `math`, `number theory`, `two pointers` | — | [CF](https://codeforces.com/contest/2257/problem/D) |
 | 14C | [Four Segments](problems/brute-force/1700_14C-Four-Segments) | 1700 | `brute force`, `constructive algorithms`, `geometry`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/14/problem/C) |
 | 474D | [Flowers](problems/dp/1700_474D-Flowers) | 1700 | `dp` | — | [CF](https://codeforces.com/contest/474/problem/D) |
 | 2045A | [Scrambled Scrabble](problems/brute-force/1700_2045A-Scrambled-Scrabble) | 1700 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/2045/problem/A) |
