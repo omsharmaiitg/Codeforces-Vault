@@ -2,10 +2,10 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 154
-- **With source attached:** 0 / 154
+- **Total solved:** 156
+- **With source attached:** 0 / 156
 - **Longest streak:** 15 days  |  **Current streak:** 1 days
-- **Contest rating:** 996 (max 1299)
+- **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 154 |
+| C++ | 156 |
 
 ### By rating
 
@@ -48,15 +48,16 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 6 |
 | 1700 | 5 |
 | 1800 | 1 |
+| Unrated | 2 |
 
 ### By tag
 
 | Tag | Count |
 |---|---|
-| `math` | 73 |
+| `math` | 74 |
 | `greedy` | 71 |
 | `implementation` | 41 |
-| `brute force` | 36 |
+| `brute force` | 37 |
 | `number theory` | 23 |
 | `constructive algorithms` | 21 |
 | `sortings` | 20 |
@@ -86,6 +87,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
+| 2258A | [Odd Eraser](problems/math/Unrated_2258A-Odd-Eraser) | ? | `math` | — | [CF](https://codeforces.com/contest/2258/problem/A) |
+| 2258B1 | [Carrot Chopdown (Easy Version)](problems/brute-force/Unrated_2258B1-Carrot-Chopdown-Easy-Version) | ? | `brute force` | — | [CF](https://codeforces.com/contest/2258/problem/B1) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 14A | [Letter](problems/implementation/0800_14A-Letter) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
