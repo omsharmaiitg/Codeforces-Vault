@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 153
-- **With source attached:** 0 / 153
+- **Total solved:** 154
+- **With source attached:** 0 / 154
 - **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 996 (max 1299)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 153 |
+| C++ | 154 |
 
 ### By rating
 
@@ -40,7 +40,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0800 | 49 |
 | 0900 | 26 |
 | 1000 | 10 |
-| 1100 | 16 |
+| 1100 | 17 |
 | 1200 | 14 |
 | 1300 | 13 |
 | 1400 | 4 |
@@ -53,11 +53,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 72 |
+| `math` | 73 |
 | `greedy` | 71 |
 | `implementation` | 41 |
 | `brute force` | 36 |
-| `number theory` | 22 |
+| `number theory` | 23 |
 | `constructive algorithms` | 21 |
 | `sortings` | 20 |
 | `dp` | 20 |
@@ -174,6 +174,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 919B | [Perfect Number](problems/binary-search/1100_919B-Perfect-Number) | 1100 | `binary search`, `brute force`, `dp`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/919/problem/B) |
 | 1708B | [Difference of GCDs](problems/constructive-algorithms/1100_1708B-Difference-of-GCDs) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1708/problem/B) |
 | 1826B | [Lunatic Never Content](problems/math/1100_1826B-Lunatic-Never-Content) | 1100 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/1826/problem/B) |
+| 1872C | [Non-coprime Split](problems/math/1100_1872C-Non-coprime-Split) | 1100 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/1872/problem/C) |
 | 1899B | [250 Thousand Tons of TNT](problems/brute-force/1100_1899B-250-Thousand-Tons-of-TNT) | 1100 | `brute force`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/1899/problem/B) |
 | 1914C | [Quests](problems/greedy/1100_1914C-Quests) | 1100 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1914/problem/C) |
 | 1942B | [Bessie and MEX](problems/constructive-algorithms/1100_1942B-Bessie-and-MEX) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1942/problem/B) |
