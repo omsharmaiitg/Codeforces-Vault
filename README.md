@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 150
-- **With source attached:** 0 / 150
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 153
+- **With source attached:** 0 / 153
+- **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 996 (max 1299)
 
 ## 📊 Analytics
@@ -31,17 +31,17 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 150 |
+| C++ | 153 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
 | 0800 | 49 |
-| 0900 | 24 |
+| 0900 | 26 |
 | 1000 | 10 |
 | 1100 | 16 |
-| 1200 | 13 |
+| 1200 | 14 |
 | 1300 | 13 |
 | 1400 | 4 |
 | 1500 | 9 |
@@ -53,11 +53,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 70 |
-| `math` | 69 |
+| `math` | 72 |
+| `greedy` | 71 |
 | `implementation` | 41 |
 | `brute force` | 36 |
-| `number theory` | 21 |
+| `number theory` | 22 |
 | `constructive algorithms` | 21 |
 | `sortings` | 20 |
 | `dp` | 20 |
@@ -65,9 +65,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `strings` | 18 |
 | `data structures` | 13 |
 | `two pointers` | 12 |
+| `combinatorics` | 6 |
 | `bitmasks` | 5 |
 | `dfs and similar` | 5 |
-| `combinatorics` | 5 |
 | `geometry` | 4 |
 | `games` | 3 |
 | `ternary search` | 2 |
@@ -140,6 +140,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1440B | [Sum of Medians](problems/greedy/0900_1440B-Sum-of-Medians) | 900 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1440/problem/B) |
 | 1475A | [Odd Divisor](problems/math/0900_1475A-Odd-Divisor) | 900 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/1475/problem/A) |
 | 1537B | [Bad Boy](problems/constructive-algorithms/0900_1537B-Bad-Boy) | 900 | `constructive algorithms`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1537/problem/B) |
+| 1543A | [Exciting Bets](problems/greedy/0900_1543A-Exciting-Bets) | 900 | `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1543/problem/A) |
+| 1582B | [Luntik and Subsequences](problems/combinatorics/0900_1582B-Luntik-and-Subsequences) | 900 | `combinatorics`, `math` | — | [CF](https://codeforces.com/contest/1582/problem/B) |
 | 1593B | [Make it Divisible by 25](problems/dfs-and-similar/0900_1593B-Make-it-Divisible-by-25) | 900 | `dfs and similar`, `dp`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1593/problem/B) |
 | 1606A | [AB Balance](problems/strings/0900_1606A-AB-Balance) | 900 | `strings` | — | [CF](https://codeforces.com/contest/1606/problem/A) |
 | 1607B | [Odd Grasshopper](problems/math/0900_1607B-Odd-Grasshopper) | 900 | `math` | — | [CF](https://codeforces.com/contest/1607/problem/B) |
@@ -191,6 +193,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1546B | [AquaMoon and Stolen String](problems/interactive/1200_1546B-AquaMoon-and-Stolen-String) | 1200 | `interactive`, `math` | — | [CF](https://codeforces.com/contest/1546/problem/B) |
 | 1613C | [Poisoned Dagger](problems/binary-search/1200_1613C-Poisoned-Dagger) | 1200 | `binary search` | — | [CF](https://codeforces.com/contest/1613/problem/C) |
 | 1832C | [Contrast Value](problems/greedy/1200_1832C-Contrast-Value) | 1200 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/1832/problem/C) |
+| 1872D | [Plus Minus Permutation](problems/math/1200_1872D-Plus-Minus-Permutation) | 1200 | `math` | — | [CF](https://codeforces.com/contest/1872/problem/D) |
 | 1925B | [A Balanced Problemset?](problems/brute-force/1200_1925B-A-Balanced-Problemset) | 1200 | `brute force`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1925/problem/B) |
 | 2041E | [Beautiful Array](problems/constructive-algorithms/1200_2041E-Beautiful-Array) | 1200 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2041/problem/E) |
 | 2048C | [Kevin and Binary Strings](problems/bitmasks/1200_2048C-Kevin-and-Binary-Strings) | 1200 | `bitmasks`, `brute force`, `greedy`, `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2048/problem/C) |
