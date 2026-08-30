@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 156
-- **With source attached:** 0 / 156
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 157
+- **With source attached:** 0 / 157
+- **Longest streak:** 15 days  |  **Current streak:** 2 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 156 |
+| C++ | 157 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 49 |
+| 0800 | 50 |
 | 0900 | 26 |
 | 1000 | 10 |
 | 1100 | 17 |
@@ -54,13 +54,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 75 |
+| `math` | 76 |
 | `greedy` | 71 |
 | `implementation` | 41 |
 | `brute force` | 37 |
 | `number theory` | 23 |
+| `sortings` | 21 |
 | `constructive algorithms` | 21 |
-| `sortings` | 20 |
 | `dp` | 20 |
 | `binary search` | 19 |
 | `strings` | 18 |
@@ -70,7 +70,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `bitmasks` | 5 |
 | `dfs and similar` | 5 |
 | `geometry` | 4 |
-| `games` | 3 |
+| `games` | 4 |
 | `ternary search` | 2 |
 | `dsu` | 2 |
 | `graphs` | 2 |
@@ -88,7 +88,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
 | 2258A | [Odd Eraser](problems/math/Unrated_2258A-Odd-Eraser) | ? | `math` | — | [CF](https://codeforces.com/contest/2258/problem/A) |
-| 2258B1 | [Carrot Chopdown (Easy Version)](problems/brute-force/Unrated_2258B1-Carrot-Chopdown-Easy-Version) | ? | `brute force`, `math` | — | [CF](https://codeforces.com/contest/2258/problem/B1) |
+| 2258B1 | [Carrot Chopdown (Easy Version)](problems/brute-force/Unrated_2258B1-Carrot-Chopdown-Easy-Version) | ? | `brute force`, `games`, `math` | — | [CF](https://codeforces.com/contest/2258/problem/B1) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 14A | [Letter](problems/implementation/0800_14A-Letter) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
@@ -111,6 +111,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1901A | [Line Trip](problems/greedy/0800_1901A-Line-Trip) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1901/problem/A) |
 | 1903A | [Halloumi Boxes](problems/brute-force/0800_1903A-Halloumi-Boxes) | 800 | `brute force`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1903/problem/A) |
 | 2151A | [Incremental Subarray](problems/math/0800_2151A-Incremental-Subarray) | 800 | `math`, `strings` | — | [CF](https://codeforces.com/contest/2151/problem/A) |
+| 2167A | [Square?](problems/math/0800_2167A-Square) | 800 | `math`, `sortings` | — | [CF](https://codeforces.com/contest/2167/problem/A) |
 | 2182A | [New Year String](problems/constructive-algorithms/0800_2182A-New-Year-String) | 800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2182/problem/A) |
 | 2182B | [New Year Cake](problems/brute-force/0800_2182B-New-Year-Cake) | 800 | `brute force` | — | [CF](https://codeforces.com/contest/2182/problem/B) |
 | 2188A | [Divisible Permutation](problems/constructive-algorithms/0800_2188A-Divisible-Permutation) | 800 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2188/problem/A) |
