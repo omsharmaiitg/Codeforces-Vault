@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 157
-- **With source attached:** 0 / 157
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 159
+- **With source attached:** 0 / 159
+- **Longest streak:** 15 days  |  **Current streak:** 3 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 157 |
+| C++ | 159 |
 
 ### By rating
 
@@ -39,11 +39,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | 0800 | 50 |
 | 0900 | 26 |
-| 1000 | 10 |
+| 1000 | 11 |
 | 1100 | 17 |
 | 1200 | 14 |
 | 1300 | 13 |
-| 1400 | 4 |
+| 1400 | 5 |
 | 1500 | 9 |
 | 1600 | 6 |
 | 1700 | 5 |
@@ -55,14 +55,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `math` | 76 |
-| `greedy` | 71 |
-| `implementation` | 41 |
+| `greedy` | 73 |
+| `implementation` | 42 |
 | `brute force` | 37 |
 | `number theory` | 23 |
-| `sortings` | 21 |
-| `constructive algorithms` | 21 |
+| `sortings` | 22 |
+| `constructive algorithms` | 22 |
 | `dp` | 20 |
-| `binary search` | 19 |
+| `binary search` | 20 |
 | `strings` | 18 |
 | `data structures` | 13 |
 | `two pointers` | 12 |
@@ -168,6 +168,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1A | [Theatre Square](problems/math/1000_1A-Theatre-Square) | 1000 | `math` | — | [CF](https://codeforces.com/contest/1/problem/A) |
 | 14B | [Young Photographer](problems/implementation/1000_14B-Young-Photographer) | 1000 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
+| 1725B | [Basketball Together](problems/binary-search/1000_1725B-Basketball-Together) | 1000 | `binary search`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1725/problem/B) |
 | 1784A | [Monsters (easy version)](problems/brute-force/1000_1784A-Monsters-easy-version) | 1000 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1784/problem/A) |
 | 1883C | [Raspberries](problems/dp/1000_1883C-Raspberries) | 1000 | `dp`, `math` | — | [CF](https://codeforces.com/contest/1883/problem/C) |
 | 1913B | [Swap and Delete](problems/strings/1000_1913B-Swap-and-Delete) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/1913/problem/B) |
@@ -220,6 +221,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2240C | [Nim Game Is XOR Game](problems/games/1300_2240C-Nim-Game-Is-XOR-Game) | 1300 | `games`, `greedy` | — | [CF](https://codeforces.com/contest/2240/problem/C) |
 | 2242C | [Unstable Elements](problems/brute-force/1300_2242C-Unstable-Elements) | 1300 | `brute force`, `data structures`, `implementation`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2242/problem/C) |
 | 279B | [Books](problems/binary-search/1400_279B-Books) | 1400 | `binary search`, `brute force`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/279/problem/B) |
+| 1974D | [Ingenuity-2](problems/constructive-algorithms/1400_1974D-Ingenuity-2) | 1400 | `constructive algorithms`, `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/1974/problem/D) |
 | 2038L | [Bridge Renovation](problems/brute-force/1400_2038L-Bridge-Renovation) | 1400 | `brute force`, `dp`, `greedy`, `math`, `two pointers` | — | [CF](https://codeforces.com/contest/2038/problem/L) |
 | 2038C | [DIY](problems/data-structures/1400_2038C-DIY) | 1400 | `data structures`, `geometry`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/2038/problem/C) |
 | 2045C | [Saraga](problems/greedy/1400_2045C-Saraga) | 1400 | `greedy`, `strings` | — | [CF](https://codeforces.com/contest/2045/problem/C) |
