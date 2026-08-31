@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 159
-- **With source attached:** 0 / 159
-- **Longest streak:** 15 days  |  **Current streak:** 3 days
+- **Total solved:** 164
+- **With source attached:** 0 / 164
+- **Longest streak:** 15 days  |  **Current streak:** 4 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 159 |
+| C++ | 164 |
 
 ### By rating
 
@@ -39,9 +39,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | 0800 | 50 |
 | 0900 | 26 |
-| 1000 | 11 |
+| 1000 | 14 |
 | 1100 | 17 |
-| 1200 | 14 |
+| 1200 | 16 |
 | 1300 | 13 |
 | 1400 | 5 |
 | 1500 | 9 |
@@ -54,17 +54,17 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 76 |
-| `greedy` | 73 |
-| `implementation` | 42 |
-| `brute force` | 37 |
-| `number theory` | 23 |
-| `sortings` | 22 |
+| `math` | 77 |
+| `greedy` | 75 |
+| `implementation` | 43 |
+| `brute force` | 38 |
+| `number theory` | 24 |
+| `sortings` | 24 |
 | `constructive algorithms` | 22 |
 | `dp` | 20 |
 | `binary search` | 20 |
 | `strings` | 18 |
-| `data structures` | 13 |
+| `data structures` | 14 |
 | `two pointers` | 12 |
 | `combinatorics` | 6 |
 | `bitmasks` | 5 |
@@ -168,6 +168,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1A | [Theatre Square](problems/math/1000_1A-Theatre-Square) | 1000 | `math` | — | [CF](https://codeforces.com/contest/1/problem/A) |
 | 14B | [Young Photographer](problems/implementation/1000_14B-Young-Photographer) | 1000 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
+| 1362A | [Johnny and Ancient Computer](problems/implementation/1000_1362A-Johnny-and-Ancient-Computer) | 1000 | `implementation` | — | [CF](https://codeforces.com/contest/1362/problem/A) |
+| 1411B | [Fair Numbers](problems/brute-force/1000_1411B-Fair-Numbers) | 1000 | `brute force`, `number theory` | — | [CF](https://codeforces.com/contest/1411/problem/B) |
+| 1418A | [Buying Torches](problems/math/1000_1418A-Buying-Torches) | 1000 | `math` | — | [CF](https://codeforces.com/contest/1418/problem/A) |
 | 1725B | [Basketball Together](problems/binary-search/1000_1725B-Basketball-Together) | 1000 | `binary search`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1725/problem/B) |
 | 1784A | [Monsters (easy version)](problems/brute-force/1000_1784A-Monsters-easy-version) | 1000 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1784/problem/A) |
 | 1883C | [Raspberries](problems/dp/1000_1883C-Raspberries) | 1000 | `dp`, `math` | — | [CF](https://codeforces.com/contest/1883/problem/C) |
@@ -198,7 +201,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1272C | [Yet Another Broken Keyboard](problems/combinatorics/1200_1272C-Yet-Another-Broken-Keyboard) | 1200 | `combinatorics`, `dp`, `implementation` | — | [CF](https://codeforces.com/contest/1272/problem/C) |
 | 1546B | [AquaMoon and Stolen String](problems/interactive/1200_1546B-AquaMoon-and-Stolen-String) | 1200 | `interactive`, `math` | — | [CF](https://codeforces.com/contest/1546/problem/B) |
 | 1613C | [Poisoned Dagger](problems/binary-search/1200_1613C-Poisoned-Dagger) | 1200 | `binary search` | — | [CF](https://codeforces.com/contest/1613/problem/C) |
+| 1790D | [Matryoshkas](problems/data-structures/1200_1790D-Matryoshkas) | 1200 | `data structures`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1790/problem/D) |
 | 1832C | [Contrast Value](problems/greedy/1200_1832C-Contrast-Value) | 1200 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/1832/problem/C) |
+| 1857C | [Assembly via Minimums](problems/greedy/1200_1857C-Assembly-via-Minimums) | 1200 | `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1857/problem/C) |
 | 1872D | [Plus Minus Permutation](problems/math/1200_1872D-Plus-Minus-Permutation) | 1200 | `math` | — | [CF](https://codeforces.com/contest/1872/problem/D) |
 | 1925B | [A Balanced Problemset?](problems/brute-force/1200_1925B-A-Balanced-Problemset) | 1200 | `brute force`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1925/problem/B) |
 | 2041E | [Beautiful Array](problems/constructive-algorithms/1200_2041E-Beautiful-Array) | 1200 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2041/problem/E) |
