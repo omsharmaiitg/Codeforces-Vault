@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 167
-- **With source attached:** 0 / 167
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 168
+- **With source attached:** 0 / 168
+- **Longest streak:** 15 days  |  **Current streak:** 6 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 167 |
+| C++ | 168 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 52 |
+| 0800 | 53 |
 | 0900 | 27 |
 | 1000 | 14 |
 | 1100 | 17 |
@@ -54,12 +54,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 78 |
+| `math` | 79 |
 | `greedy` | 76 |
 | `implementation` | 44 |
 | `brute force` | 38 |
+| `number theory` | 25 |
 | `sortings` | 25 |
-| `number theory` | 24 |
 | `constructive algorithms` | 23 |
 | `dp` | 20 |
 | `binary search` | 20 |
@@ -69,8 +69,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `combinatorics` | 6 |
 | `bitmasks` | 5 |
 | `dfs and similar` | 5 |
+| `games` | 5 |
 | `geometry` | 4 |
-| `games` | 4 |
 | `ternary search` | 2 |
 | `dsu` | 2 |
 | `graphs` | 2 |
@@ -108,6 +108,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1877A | [Goals of Victory](problems/math/0800_1877A-Goals-of-Victory) | 800 | `math` | — | [CF](https://codeforces.com/contest/1877/problem/A) |
 | 1878A | [How Much Does Daytona Cost?](problems/greedy/0800_1878A-How-Much-Does-Daytona-Cost) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/1878/problem/A) |
 | 1878B | [Aleksa and Stack](problems/constructive-algorithms/0800_1878B-Aleksa-and-Stack) | 800 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1878/problem/B) |
+| 1899A | [Game with Integers](problems/games/0800_1899A-Game-with-Integers) | 800 | `games`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1899/problem/A) |
 | 1901A | [Line Trip](problems/greedy/0800_1901A-Line-Trip) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1901/problem/A) |
 | 1903A | [Halloumi Boxes](problems/brute-force/0800_1903A-Halloumi-Boxes) | 800 | `brute force`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1903/problem/A) |
 | 2151A | [Incremental Subarray](problems/math/0800_2151A-Incremental-Subarray) | 800 | `math`, `strings` | — | [CF](https://codeforces.com/contest/2151/problem/A) |
