@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 171
-- **With source attached:** 0 / 171
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 173
+- **With source attached:** 0 / 173
+- **Longest streak:** 15 days  |  **Current streak:** 8 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,15 +31,15 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 171 |
+| C++ | 173 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
 | 0800 | 53 |
-| 0900 | 27 |
-| 1000 | 14 |
+| 0900 | 28 |
+| 1000 | 15 |
 | 1100 | 18 |
 | 1200 | 17 |
 | 1300 | 13 |
@@ -54,13 +54,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 82 |
+| `math` | 83 |
 | `greedy` | 77 |
-| `implementation` | 44 |
+| `implementation` | 45 |
 | `brute force` | 38 |
 | `number theory` | 25 |
 | `sortings` | 25 |
-| `constructive algorithms` | 23 |
+| `constructive algorithms` | 24 |
 | `dp` | 20 |
 | `binary search` | 20 |
 | `strings` | 18 |
@@ -168,6 +168,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2210B | [Simply Sitting on Chairs](problems/data-structures/0900_2210B-Simply-Sitting-on-Chairs) | 900 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2210/problem/B) |
 | 2238B | [Crimson Triples](problems/dp/0900_2238B-Crimson-Triples) | 900 | `dp`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2238/problem/B) |
 | 2246B | [ezraft and Array](problems/constructive-algorithms/0900_2246B-ezraft-and-Array) | 900 | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
+| 2247B | [Yet Another Constructive](problems/constructive-algorithms/0900_2247B-Yet-Another-Constructive) | 900 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2247/problem/B) |
 | 2254B | [Evanescent](problems/implementation/0900_2254B-Evanescent) | 900 | `implementation`, `strings`, `two pointers` | — | [CF](https://codeforces.com/contest/2254/problem/B) |
 | 1A | [Theatre Square](problems/math/1000_1A-Theatre-Square) | 1000 | `math` | — | [CF](https://codeforces.com/contest/1/problem/A) |
 | 14B | [Young Photographer](problems/implementation/1000_14B-Young-Photographer) | 1000 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/B) |
@@ -183,6 +184,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2236C | [Omsk Programmers](problems/brute-force/1000_2236C-Omsk-Programmers) | 1000 | `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2236/problem/C) |
 | 2241C | [RemovevomeR](problems/greedy/1000_2241C-RemovevomeR) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2241/problem/C) |
 | 2242B | [Predominant Frequency Division](problems/data-structures/1000_2242B-Predominant-Frequency-Division) | 1000 | `data structures`, `greedy`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2242/problem/B) |
+| 2256B | [Domino Tiles](problems/implementation/1000_2256B-Domino-Tiles) | 1000 | `implementation`, `math` | — | [CF](https://codeforces.com/contest/2256/problem/B) |
 | 919B | [Perfect Number](problems/binary-search/1100_919B-Perfect-Number) | 1100 | `binary search`, `brute force`, `dp`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/919/problem/B) |
 | 1708B | [Difference of GCDs](problems/constructive-algorithms/1100_1708B-Difference-of-GCDs) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1708/problem/B) |
 | 1826B | [Lunatic Never Content](problems/math/1100_1826B-Lunatic-Never-Content) | 1100 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/1826/problem/B) |
