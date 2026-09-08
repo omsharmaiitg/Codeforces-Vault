@@ -37,8 +37,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Rating | Count |
 |---|---|
-| 0800 | 53 |
-| 0900 | 28 |
+| 0800 | 54 |
+| 0900 | 29 |
 | 1000 | 15 |
 | 1100 | 18 |
 | 1200 | 17 |
@@ -48,7 +48,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 6 |
 | 1700 | 5 |
 | 1800 | 2 |
-| Unrated | 2 |
 
 ### By tag
 
@@ -87,8 +86,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2258A | [Odd Eraser](problems/math/Unrated_2258A-Odd-Eraser) | ? | `math` | — | [CF](https://codeforces.com/contest/2258/problem/A) |
-| 2258B1 | [Carrot Chopdown (Easy Version)](problems/brute-force/Unrated_2258B1-Carrot-Chopdown-Easy-Version) | ? | `brute force`, `games`, `math` | — | [CF](https://codeforces.com/contest/2258/problem/B1) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 14A | [Letter](problems/implementation/0800_14A-Letter) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
@@ -142,6 +139,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2256A | [Three Numbers on the Blackboard](problems/math/0800_2256A-Three-Numbers-on-the-Blackboard) | 800 | `math`, `sortings` | — | [CF](https://codeforces.com/contest/2256/problem/A) |
 | 2257A | [Creating Abbreviations](problems/brute-force/0800_2257A-Creating-Abbreviations) | 800 | `brute force`, `strings` | — | [CF](https://codeforces.com/contest/2257/problem/A) |
 | 2257B | [Gigantomachy](problems/math/0800_2257B-Gigantomachy) | 800 | `math` | — | [CF](https://codeforces.com/contest/2257/problem/B) |
+| 2258A | [Odd Eraser](problems/math/0800_2258A-Odd-Eraser) | 800 | `math` | — | [CF](https://codeforces.com/contest/2258/problem/A) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1440B | [Sum of Medians](problems/greedy/0900_1440B-Sum-of-Medians) | 900 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1440/problem/B) |
@@ -170,6 +168,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2246B | [ezraft and Array](problems/constructive-algorithms/0900_2246B-ezraft-and-Array) | 900 | `constructive algorithms`, `number theory` | — | [CF](https://codeforces.com/contest/2246/problem/B) |
 | 2247B | [Yet Another Constructive](problems/constructive-algorithms/0900_2247B-Yet-Another-Constructive) | 900 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2247/problem/B) |
 | 2254B | [Evanescent](problems/implementation/0900_2254B-Evanescent) | 900 | `implementation`, `strings`, `two pointers` | — | [CF](https://codeforces.com/contest/2254/problem/B) |
+| 2258B1 | [Carrot Chopdown (Easy Version)](problems/brute-force/0900_2258B1-Carrot-Chopdown-Easy-Version) | 900 | `brute force`, `games`, `math` | — | [CF](https://codeforces.com/contest/2258/problem/B1) |
 | 1A | [Theatre Square](problems/math/1000_1A-Theatre-Square) | 1000 | `math` | — | [CF](https://codeforces.com/contest/1/problem/A) |
 | 14B | [Young Photographer](problems/implementation/1000_14B-Young-Photographer) | 1000 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
