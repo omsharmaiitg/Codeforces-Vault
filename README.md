@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 173
-- **With source attached:** 0 / 173
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 175
+- **With source attached:** 0 / 175
+- **Longest streak:** 15 days  |  **Current streak:** 1 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,16 +31,16 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 173 |
+| C++ | 175 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 54 |
+| 0800 | 55 |
 | 0900 | 29 |
 | 1000 | 15 |
-| 1100 | 18 |
+| 1100 | 19 |
 | 1200 | 17 |
 | 1300 | 13 |
 | 1400 | 5 |
@@ -54,20 +54,20 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `math` | 83 |
-| `greedy` | 77 |
+| `greedy` | 79 |
 | `implementation` | 45 |
 | `brute force` | 38 |
 | `number theory` | 25 |
 | `sortings` | 25 |
-| `constructive algorithms` | 24 |
+| `constructive algorithms` | 25 |
 | `dp` | 20 |
 | `binary search` | 20 |
 | `strings` | 18 |
 | `data structures` | 14 |
 | `two pointers` | 12 |
+| `bitmasks` | 6 |
 | `combinatorics` | 6 |
 | `games` | 6 |
-| `bitmasks` | 5 |
 | `dfs and similar` | 5 |
 | `geometry` | 4 |
 | `ternary search` | 2 |
@@ -108,6 +108,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1899A | [Game with Integers](problems/games/0800_1899A-Game-with-Integers) | 800 | `games`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1899/problem/A) |
 | 1901A | [Line Trip](problems/greedy/0800_1901A-Line-Trip) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1901/problem/A) |
 | 1903A | [Halloumi Boxes](problems/brute-force/0800_1903A-Halloumi-Boxes) | 800 | `brute force`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1903/problem/A) |
+| 2139B | [Cake Collection](problems/greedy/0800_2139B-Cake-Collection) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2139/problem/B) |
 | 2151A | [Incremental Subarray](problems/math/0800_2151A-Incremental-Subarray) | 800 | `math`, `strings` | — | [CF](https://codeforces.com/contest/2151/problem/A) |
 | 2167A | [Square?](problems/math/0800_2167A-Square) | 800 | `math`, `sortings` | — | [CF](https://codeforces.com/contest/2167/problem/A) |
 | 2182A | [New Year String](problems/constructive-algorithms/0800_2182A-New-Year-String) | 800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2182/problem/A) |
@@ -193,6 +194,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1942B | [Bessie and MEX](problems/constructive-algorithms/1100_1942B-Bessie-and-MEX) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1942/problem/B) |
 | 2063B | [Subsequence Update](problems/constructive-algorithms/1100_2063B-Subsequence-Update) | 1100 | `constructive algorithms`, `data structures`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/2063/problem/B) |
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](problems/binary-search/1100_2065C1-Skibidus-and-Fanum-Tax-easy-version) | 1100 | `binary search`, `dp`, `greedy` | — | [CF](https://codeforces.com/contest/2065/problem/C1) |
+| 2138A | [Cake Assignment](problems/bitmasks/1100_2138A-Cake-Assignment) | 1100 | `bitmasks`, `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/2138/problem/A) |
 | 2169B | [Drifting Away](problems/greedy/1100_2169B-Drifting-Away) | 1100 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/2169/problem/B) |
 | 2240B | [AI Finds Nothing Here](problems/combinatorics/1100_2240B-AI-Finds-Nothing-Here) | 1100 | `combinatorics`, `math` | — | [CF](https://codeforces.com/contest/2240/problem/B) |
 | 2241D | [An Alternative Way](problems/dp/1100_2241D-An-Alternative-Way) | 1100 | `dp`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2241/problem/D) |
