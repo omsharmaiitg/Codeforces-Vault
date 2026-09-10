@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 176
-- **With source attached:** 0 / 176
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 177
+- **With source attached:** 0 / 177
+- **Longest streak:** 15 days  |  **Current streak:** 2 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 176 |
+| C++ | 177 |
 
 ### By rating
 
@@ -39,7 +39,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | 0800 | 56 |
 | 0900 | 29 |
-| 1000 | 15 |
+| 1000 | 16 |
 | 1100 | 19 |
 | 1200 | 17 |
 | 1300 | 13 |
@@ -54,7 +54,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `math` | 84 |
-| `greedy` | 80 |
+| `greedy` | 81 |
 | `implementation` | 45 |
 | `brute force` | 38 |
 | `number theory` | 25 |
@@ -185,6 +185,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2236C | [Omsk Programmers](problems/brute-force/1000_2236C-Omsk-Programmers) | 1000 | `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2236/problem/C) |
 | 2241C | [RemovevomeR](problems/greedy/1000_2241C-RemovevomeR) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2241/problem/C) |
 | 2242B | [Predominant Frequency Division](problems/data-structures/1000_2242B-Predominant-Frequency-Division) | 1000 | `data structures`, `greedy`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2242/problem/B) |
+| 2254C1 | [Marenol (easy version)](problems/greedy/1000_2254C1-Marenol-easy-version) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2254/problem/C1) |
 | 2256B | [Domino Tiles](problems/implementation/1000_2256B-Domino-Tiles) | 1000 | `implementation`, `math` | — | [CF](https://codeforces.com/contest/2256/problem/B) |
 | 919B | [Perfect Number](problems/binary-search/1100_919B-Perfect-Number) | 1100 | `binary search`, `brute force`, `dp`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/919/problem/B) |
 | 1708B | [Difference of GCDs](problems/constructive-algorithms/1100_1708B-Difference-of-GCDs) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1708/problem/B) |
