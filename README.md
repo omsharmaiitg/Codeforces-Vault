@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 177
-- **With source attached:** 0 / 177
-- **Longest streak:** 15 days  |  **Current streak:** 0 days
+- **Total solved:** 178
+- **With source attached:** 0 / 178
+- **Longest streak:** 14 days  |  **Current streak:** 0 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 177 |
+| C++ | 178 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 56 |
+| 0800 | 57 |
 | 0900 | 29 |
 | 1000 | 16 |
 | 1100 | 19 |
@@ -53,10 +53,10 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 84 |
+| `math` | 85 |
 | `greedy` | 81 |
-| `implementation` | 45 |
-| `brute force` | 38 |
+| `implementation` | 46 |
+| `brute force` | 39 |
 | `number theory` | 25 |
 | `sortings` | 25 |
 | `constructive algorithms` | 25 |
@@ -135,6 +135,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2246A | [farmpiggie and Subset Sum](problems/constructive-algorithms/0800_2246A-farmpiggie-and-Subset-Sum) | 800 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 2247A | [Zero Sum](problems/constructive-algorithms/0800_2247A-Zero-Sum) | 800 | `constructive algorithms`, `dp`, `number theory` | — | [CF](https://codeforces.com/contest/2247/problem/A) |
 | 2248A | [You Delete, I Delete](problems/greedy/0800_2248A-You-Delete-I-Delete) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2248/problem/A) |
+| 2250A | [Threshold Movement](problems/brute-force/0800_2250A-Threshold-Movement) | 800 | `brute force`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2250/problem/A) |
 | 2252A | [Boss Fight](problems/data-structures/0800_2252A-Boss-Fight) | 800 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2252/problem/A) |
 | 2253A | [The Best Card](problems/greedy/0800_2253A-The-Best-Card) | 800 | `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2253/problem/A) |
 | 2254A | [Riptide](problems/implementation/0800_2254A-Riptide) | 800 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2254/problem/A) |
