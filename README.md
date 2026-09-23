@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 178
-- **With source attached:** 0 / 178
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 180
+- **With source attached:** 0 / 180
+- **Longest streak:** 8 days  |  **Current streak:** 1 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 178 |
+| C++ | 180 |
 
 ### By rating
 
@@ -41,7 +41,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0900 | 29 |
 | 1000 | 16 |
 | 1100 | 19 |
-| 1200 | 17 |
+| 1200 | 19 |
 | 1300 | 13 |
 | 1400 | 5 |
 | 1500 | 9 |
@@ -54,12 +54,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `math` | 85 |
-| `greedy` | 81 |
+| `greedy` | 83 |
 | `implementation` | 46 |
 | `brute force` | 39 |
+| `constructive algorithms` | 26 |
 | `number theory` | 25 |
 | `sortings` | 25 |
-| `constructive algorithms` | 25 |
 | `dp` | 20 |
 | `binary search` | 20 |
 | `strings` | 18 |
@@ -207,6 +207,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2247C | [Inversion of a Subsequence](problems/greedy/1100_2247C-Inversion-of-a-Subsequence) | 1100 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/2247/problem/C) |
 | 2252B | [Always Changing](problems/dp/1100_2252B-Always-Changing) | 1100 | `dp`, `greedy`, `math`, `strings` | — | [CF](https://codeforces.com/contest/2252/problem/B) |
 | 2253B | [Hypercarp and the Control Panel](problems/brute-force/1100_2253B-Hypercarp-and-the-Control-Panel) | 1100 | `brute force`, `data structures`, `two pointers` | — | [CF](https://codeforces.com/contest/2253/problem/B) |
+| 4B | [Before an Exam](problems/constructive-algorithms/1200_4B-Before-an-Exam) | 1200 | `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/4/problem/B) |
+| 101A | [Homework](problems/greedy/1200_101A-Homework) | 1200 | `greedy` | — | [CF](https://codeforces.com/contest/101/problem/A) |
 | 961B | [Lecture Sleep](problems/data-structures/1200_961B-Lecture-Sleep) | 1200 | `data structures`, `dp`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/961/problem/B) |
 | 1076B | [Divisor Subtraction](problems/implementation/1200_1076B-Divisor-Subtraction) | 1200 | `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1076/problem/B) |
 | 1272C | [Yet Another Broken Keyboard](problems/combinatorics/1200_1272C-Yet-Another-Broken-Keyboard) | 1200 | `combinatorics`, `dp`, `implementation` | — | [CF](https://codeforces.com/contest/1272/problem/C) |
