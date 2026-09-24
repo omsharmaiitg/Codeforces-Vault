@@ -37,18 +37,18 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Rating | Count |
 |---|---|
-| 0800 | 25 |
-| 0900 | 21 |
-| 1000 | 10 |
+| 0800 | 33 |
+| 0900 | 23 |
+| 1000 | 11 |
 | 1100 | 10 |
-| 1200 | 17 |
+| 1200 | 18 |
 | 1300 | 11 |
 | 1400 | 5 |
 | 1500 | 7 |
 | 1600 | 5 |
-| 1700 | 3 |
+| 1700 | 4 |
 | 1800 | 2 |
-| Unrated | 64 |
+| Unrated | 51 |
 
 ### By tag
 
@@ -87,19 +87,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2167A | [Square?](problems/math/Unrated_2167A-Square) | ? | `math`, `sortings` | — | [CF](https://codeforces.com/contest/2167/problem/A) |
-| 2169B | [Drifting Away](problems/greedy/Unrated_2169B-Drifting-Away) | ? | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/2169/problem/B) |
-| 2182A | [New Year String](problems/constructive-algorithms/Unrated_2182A-New-Year-String) | ? | `constructive algorithms`, `greedy`, `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2182/problem/A) |
-| 2182B | [New Year Cake](problems/brute-force/Unrated_2182B-New-Year-Cake) | ? | `brute force` | — | [CF](https://codeforces.com/contest/2182/problem/B) |
-| 2185A | [Perfect Root](problems/constructive-algorithms/Unrated_2185A-Perfect-Root) | ? | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2185/problem/A) |
-| 2185B | [Prefix Max](problems/greedy/Unrated_2185B-Prefix-Max) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2185/problem/B) |
-| 2185C | [Shifted MEX](problems/implementation/Unrated_2185C-Shifted-MEX) | ? | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2185/problem/C) |
-| 2188A | [Divisible Permutation](problems/constructive-algorithms/Unrated_2188A-Divisible-Permutation) | ? | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2188/problem/A) |
-| 2193C | [Replace and Sum](problems/data-structures/Unrated_2193C-Replace-and-Sum) | ? | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2193/problem/C) |
-| 2195B | [Heapify 1](problems/implementation/Unrated_2195B-Heapify-1) | ? | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2195/problem/B) |
-| 2195A | [Sieve of Erato67henes](problems/math/Unrated_2195A-Sieve-of-Erato67henes) | ? | `math`, `number theory` | — | [CF](https://codeforces.com/contest/2195/problem/A) |
-| 2196A | [Game with a Fraction](problems/games/Unrated_2196A-Game-with-a-Fraction) | ? | `games`, `math` | — | [CF](https://codeforces.com/contest/2196/problem/A) |
-| 2206J | [Worldwide Playlist](problems/math/Unrated_2206J-Worldwide-Playlist) | ? | `math` | — | [CF](https://codeforces.com/contest/2206/problem/J) |
 | 2209A | [Flip Flops](problems/greedy/Unrated_2209A-Flip-Flops) | ? | `greedy` | — | [CF](https://codeforces.com/contest/2209/problem/A) |
 | 2210B | [Simply Sitting on Chairs](problems/data-structures/Unrated_2210B-Simply-Sitting-on-Chairs) | ? | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2210/problem/B) |
 | 2218A | [The 67th Integer Problem](problems/brute-force/Unrated_2218A-The-67th-Integer-Problem) | ? | `brute force`, `games`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2218/problem/A) |
@@ -176,6 +163,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2139B | [Cake Collection](problems/greedy/0800_2139B-Cake-Collection) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2139/problem/B) |
 | 2139A | [Maple and Multiplication](problems/greedy/0800_2139A-Maple-and-Multiplication) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/2139/problem/A) |
 | 2151A | [Incremental Subarray](problems/math/0800_2151A-Incremental-Subarray) | 800 | `math`, `strings` | — | [CF](https://codeforces.com/contest/2151/problem/A) |
+| 2167A | [Square?](problems/math/0800_2167A-Square) | 800 | `math`, `sortings` | — | [CF](https://codeforces.com/contest/2167/problem/A) |
+| 2182A | [New Year String](problems/constructive-algorithms/0800_2182A-New-Year-String) | 800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2182/problem/A) |
+| 2182B | [New Year Cake](problems/brute-force/0800_2182B-New-Year-Cake) | 800 | `brute force` | — | [CF](https://codeforces.com/contest/2182/problem/B) |
+| 2185A | [Perfect Root](problems/constructive-algorithms/0800_2185A-Perfect-Root) | 800 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2185/problem/A) |
+| 2185B | [Prefix Max](problems/greedy/0800_2185B-Prefix-Max) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2185/problem/B) |
+| 2185C | [Shifted MEX](problems/implementation/0800_2185C-Shifted-MEX) | 800 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2185/problem/C) |
+| 2188A | [Divisible Permutation](problems/constructive-algorithms/0800_2188A-Divisible-Permutation) | 800 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2188/problem/A) |
+| 2195A | [Sieve of Erato67henes](problems/math/0800_2195A-Sieve-of-Erato67henes) | 800 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/2195/problem/A) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1440B | [Sum of Medians](problems/greedy/0900_1440B-Sum-of-Medians) | 900 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1440/problem/B) |
@@ -197,6 +192,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1878C | [Vasilije in Cacak](problems/math/0900_1878C-Vasilije-in-Cacak) | 900 | `math` | — | [CF](https://codeforces.com/contest/1878/problem/C) |
 | 1883B | [Chemistry](problems/strings/0900_1883B-Chemistry) | 900 | `strings` | — | [CF](https://codeforces.com/contest/1883/problem/B) |
 | 1904A | [Forked!](problems/brute-force/0900_1904A-Forked) | 900 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1904/problem/A) |
+| 2193C | [Replace and Sum](problems/data-structures/0900_2193C-Replace-and-Sum) | 900 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2193/problem/C) |
+| 2195B | [Heapify 1](problems/implementation/0900_2195B-Heapify-1) | 900 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/2195/problem/B) |
 | 1A | [Theatre Square](problems/math/1000_1A-Theatre-Square) | 1000 | `math` | — | [CF](https://codeforces.com/contest/1/problem/A) |
 | 14B | [Young Photographer](problems/implementation/1000_14B-Young-Photographer) | 1000 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
@@ -207,6 +204,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1784A | [Monsters (easy version)](problems/brute-force/1000_1784A-Monsters-easy-version) | 1000 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/1784/problem/A) |
 | 1883C | [Raspberries](problems/dp/1000_1883C-Raspberries) | 1000 | `dp`, `math` | — | [CF](https://codeforces.com/contest/1883/problem/C) |
 | 1913B | [Swap and Delete](problems/strings/1000_1913B-Swap-and-Delete) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/1913/problem/B) |
+| 2169B | [Drifting Away](problems/greedy/1000_2169B-Drifting-Away) | 1000 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/2169/problem/B) |
 | 919B | [Perfect Number](problems/binary-search/1100_919B-Perfect-Number) | 1100 | `binary search`, `brute force`, `dp`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/919/problem/B) |
 | 1708B | [Difference of GCDs](problems/constructive-algorithms/1100_1708B-Difference-of-GCDs) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1708/problem/B) |
 | 1826B | [Lunatic Never Content](problems/math/1100_1826B-Lunatic-Never-Content) | 1100 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/1826/problem/B) |
@@ -234,6 +232,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2051D | [Counting Pairs](problems/binary-search/1200_2051D-Counting-Pairs) | 1200 | `binary search`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2051/problem/D) |
 | 2053B | [Outstanding Impressionist](problems/binary-search/1200_2053B-Outstanding-Impressionist) | 1200 | `binary search`, `brute force`, `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2053/problem/B) |
 | 2109B | [Slice to Survive](problems/bitmasks/1200_2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2109/problem/B) |
+| 2196A | [Game with a Fraction](problems/games/1200_2196A-Game-with-a-Fraction) | 1200 | `games`, `math` | — | [CF](https://codeforces.com/contest/2196/problem/A) |
 | 4C | [Registration System](problems/data-structures/1300_4C-Registration-System) | 1300 | `data structures`, `hashing`, `implementation` | — | [CF](https://codeforces.com/contest/4/problem/C) |
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
 | 665C | [Simple Strings](problems/dp/1300_665C-Simple-Strings) | 1300 | `dp`, `greedy`, `strings` | — | [CF](https://codeforces.com/contest/665/problem/C) |
@@ -265,5 +264,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 14C | [Four Segments](problems/brute-force/1700_14C-Four-Segments) | 1700 | `brute force`, `constructive algorithms`, `geometry`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/14/problem/C) |
 | 474D | [Flowers](problems/dp/1700_474D-Flowers) | 1700 | `dp` | — | [CF](https://codeforces.com/contest/474/problem/D) |
 | 2045A | [Scrambled Scrabble](problems/brute-force/1700_2045A-Scrambled-Scrabble) | 1700 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/2045/problem/A) |
+| 2206J | [Worldwide Playlist](problems/math/1700_2206J-Worldwide-Playlist) | 1700 | `math` | — | [CF](https://codeforces.com/contest/2206/problem/J) |
 | 15B | [Laser](problems/math/1800_15B-Laser) | 1800 | `math` | — | [CF](https://codeforces.com/contest/15/problem/B) |
 | 2106E | [Wolf](problems/binary-search/1800_2106E-Wolf) | 1800 | `binary search`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2106/problem/E) |
