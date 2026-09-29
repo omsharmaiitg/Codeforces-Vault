@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 180
-- **With source attached:** 0 / 180
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 181
+- **With source attached:** 0 / 181
+- **Longest streak:** 8 days  |  **Current streak:** 1 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 180 |
+| C++ | 181 |
 
 ### By rating
 
@@ -41,7 +41,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0900 | 29 |
 | 1000 | 16 |
 | 1100 | 19 |
-| 1200 | 19 |
+| 1200 | 20 |
 | 1300 | 13 |
 | 1400 | 5 |
 | 1500 | 8 |
@@ -54,7 +54,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `math` | 85 |
-| `greedy` | 83 |
+| `greedy` | 84 |
 | `implementation` | 46 |
 | `brute force` | 39 |
 | `constructive algorithms` | 26 |
@@ -62,18 +62,18 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `sortings` | 25 |
 | `dp` | 20 |
 | `binary search` | 20 |
-| `strings` | 18 |
-| `data structures` | 14 |
+| `strings` | 19 |
+| `data structures` | 15 |
 | `two pointers` | 12 |
 | `bitmasks` | 6 |
 | `combinatorics` | 6 |
 | `games` | 6 |
 | `dfs and similar` | 5 |
 | `geometry` | 4 |
+| `hashing` | 3 |
 | `ternary search` | 2 |
 | `dsu` | 2 |
 | `graphs` | 2 |
-| `hashing` | 2 |
 | `interactive` | 1 |
 | `shortest paths` | 1 |
 | `graph matchings` | 1 |
@@ -215,6 +215,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1546B | [AquaMoon and Stolen String](problems/interactive/1200_1546B-AquaMoon-and-Stolen-String) | 1200 | `interactive`, `math` | — | [CF](https://codeforces.com/contest/1546/problem/B) |
 | 1613C | [Poisoned Dagger](problems/binary-search/1200_1613C-Poisoned-Dagger) | 1200 | `binary search` | — | [CF](https://codeforces.com/contest/1613/problem/C) |
 | 1790D | [Matryoshkas](problems/data-structures/1200_1790D-Matryoshkas) | 1200 | `data structures`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1790/problem/D) |
+| 1800D | [Remove Two Letters](problems/data-structures/1200_1800D-Remove-Two-Letters) | 1200 | `data structures`, `greedy`, `hashing`, `strings` | — | [CF](https://codeforces.com/contest/1800/problem/D) |
 | 1832C | [Contrast Value](problems/greedy/1200_1832C-Contrast-Value) | 1200 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/1832/problem/C) |
 | 1857C | [Assembly via Minimums](problems/greedy/1200_1857C-Assembly-via-Minimums) | 1200 | `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1857/problem/C) |
 | 1872D | [Plus Minus Permutation](problems/math/1200_1872D-Plus-Minus-Permutation) | 1200 | `math` | — | [CF](https://codeforces.com/contest/1872/problem/D) |
