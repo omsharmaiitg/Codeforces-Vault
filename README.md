@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 181
-- **With source attached:** 0 / 181
+- **Total solved:** 183
+- **With source attached:** 0 / 183
 - **Longest streak:** 8 days  |  **Current streak:** 0 days
 - **Contest rating:** 1010 (max 1299)
 
@@ -31,17 +31,17 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 181 |
+| C++ | 183 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 57 |
+| 0800 | 58 |
 | 0900 | 29 |
 | 1000 | 16 |
 | 1100 | 19 |
-| 1200 | 20 |
+| 1200 | 21 |
 | 1300 | 13 |
 | 1400 | 5 |
 | 1500 | 8 |
@@ -53,13 +53,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
+| `greedy` | 86 |
 | `math` | 85 |
-| `greedy` | 84 |
 | `implementation` | 46 |
 | `brute force` | 39 |
+| `sortings` | 26 |
 | `constructive algorithms` | 26 |
 | `number theory` | 25 |
-| `sortings` | 25 |
 | `dp` | 20 |
 | `binary search` | 20 |
 | `strings` | 19 |
@@ -118,6 +118,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2185B | [Prefix Max](problems/greedy/0800_2185B-Prefix-Max) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2185/problem/B) |
 | 2188A | [Divisible Permutation](problems/constructive-algorithms/0800_2188A-Divisible-Permutation) | 800 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2188/problem/A) |
 | 2195A | [Sieve of Erato67henes](problems/math/0800_2195A-Sieve-of-Erato67henes) | 800 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/2195/problem/A) |
+| 2204B | [Right Maximum](problems/greedy/0800_2204B-Right-Maximum) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2204/problem/B) |
 | 2209A | [Flip Flops](problems/greedy/0800_2209A-Flip-Flops) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/2209/problem/A) |
 | 2218A | [The 67th Integer Problem](problems/brute-force/0800_2218A-The-67th-Integer-Problem) | 800 | `brute force`, `games`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2218/problem/A) |
 | 2233A | [AI Project Development](problems/brute-force/0800_2233A-AI-Project-Development) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/2233/problem/A) |
@@ -212,6 +213,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 961B | [Lecture Sleep](problems/data-structures/1200_961B-Lecture-Sleep) | 1200 | `data structures`, `dp`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/961/problem/B) |
 | 1076B | [Divisor Subtraction](problems/implementation/1200_1076B-Divisor-Subtraction) | 1200 | `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1076/problem/B) |
 | 1272C | [Yet Another Broken Keyboard](problems/combinatorics/1200_1272C-Yet-Another-Broken-Keyboard) | 1200 | `combinatorics`, `dp`, `implementation` | — | [CF](https://codeforces.com/contest/1272/problem/C) |
+| 1539C | [Stable Groups](problems/greedy/1200_1539C-Stable-Groups) | 1200 | `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1539/problem/C) |
 | 1546B | [AquaMoon and Stolen String](problems/interactive/1200_1546B-AquaMoon-and-Stolen-String) | 1200 | `interactive`, `math` | — | [CF](https://codeforces.com/contest/1546/problem/B) |
 | 1613C | [Poisoned Dagger](problems/binary-search/1200_1613C-Poisoned-Dagger) | 1200 | `binary search` | — | [CF](https://codeforces.com/contest/1613/problem/C) |
 | 1790D | [Matryoshkas](problems/data-structures/1200_1790D-Matryoshkas) | 1200 | `data structures`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1790/problem/D) |
