@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 184
-- **With source attached:** 0 / 184
-- **Longest streak:** 8 days  |  **Current streak:** 2 days
+- **Total solved:** 185
+- **With source attached:** 0 / 185
+- **Longest streak:** 8 days  |  **Current streak:** 0 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,14 +31,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 184 |
+| C++ | 185 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
 | 0800 | 59 |
-| 0900 | 29 |
+| 0900 | 30 |
 | 1000 | 16 |
 | 1100 | 19 |
 | 1200 | 21 |
@@ -53,13 +53,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
+| `math` | 86 |
 | `greedy` | 86 |
-| `math` | 85 |
 | `implementation` | 47 |
-| `brute force` | 39 |
+| `brute force` | 40 |
+| `number theory` | 26 |
 | `sortings` | 26 |
 | `constructive algorithms` | 26 |
-| `number theory` | 25 |
 | `dp` | 20 |
 | `binary search` | 20 |
 | `strings` | 19 |
@@ -174,6 +174,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2247B | [Yet Another Constructive](problems/constructive-algorithms/0900_2247B-Yet-Another-Constructive) | 900 | `constructive algorithms` | — | [CF](https://codeforces.com/contest/2247/problem/B) |
 | 2254B | [Evanescent](problems/implementation/0900_2254B-Evanescent) | 900 | `implementation`, `strings`, `two pointers` | — | [CF](https://codeforces.com/contest/2254/problem/B) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](problems/brute-force/0900_2258B1-Carrot-Chopdown-Easy-Version) | 900 | `brute force`, `games`, `math` | — | [CF](https://codeforces.com/contest/2258/problem/B1) |
+| 2260B | [Monocarp and Projects](problems/brute-force/0900_2260B-Monocarp-and-Projects) | 900 | `brute force`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2260/problem/B) |
 | 1A | [Theatre Square](problems/math/1000_1A-Theatre-Square) | 1000 | `math` | — | [CF](https://codeforces.com/contest/1/problem/A) |
 | 14B | [Young Photographer](problems/implementation/1000_14B-Young-Photographer) | 1000 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/B) |
 | 43A | [Football](problems/strings/1000_43A-Football) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/43/problem/A) |
