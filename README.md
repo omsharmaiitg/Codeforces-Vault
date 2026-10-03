@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 183
-- **With source attached:** 0 / 183
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 184
+- **With source attached:** 0 / 184
+- **Longest streak:** 8 days  |  **Current streak:** 2 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 183 |
+| C++ | 184 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 58 |
+| 0800 | 59 |
 | 0900 | 29 |
 | 1000 | 16 |
 | 1100 | 19 |
@@ -55,7 +55,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | `greedy` | 86 |
 | `math` | 85 |
-| `implementation` | 46 |
+| `implementation` | 47 |
 | `brute force` | 39 |
 | `sortings` | 26 |
 | `constructive algorithms` | 26 |
@@ -144,6 +144,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2257A | [Creating Abbreviations](problems/brute-force/0800_2257A-Creating-Abbreviations) | 800 | `brute force`, `strings` | — | [CF](https://codeforces.com/contest/2257/problem/A) |
 | 2257B | [Gigantomachy](problems/math/0800_2257B-Gigantomachy) | 800 | `math` | — | [CF](https://codeforces.com/contest/2257/problem/B) |
 | 2258A | [Odd Eraser](problems/math/0800_2258A-Odd-Eraser) | 800 | `math` | — | [CF](https://codeforces.com/contest/2258/problem/A) |
+| 2260A | [Monocarp's Contest](problems/implementation/0800_2260A-Monocarps-Contest) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/2260/problem/A) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1440B | [Sum of Medians](problems/greedy/0900_1440B-Sum-of-Medians) | 900 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1440/problem/B) |
