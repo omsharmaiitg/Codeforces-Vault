@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 185
-- **With source attached:** 0 / 185
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 187
+- **With source attached:** 0 / 187
+- **Longest streak:** 8 days  |  **Current streak:** 3 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 185 |
+| C++ | 187 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 59 |
+| 0800 | 61 |
 | 0900 | 30 |
 | 1000 | 16 |
 | 1100 | 19 |
@@ -53,16 +53,16 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
+| `greedy` | 87 |
 | `math` | 86 |
-| `greedy` | 86 |
 | `implementation` | 47 |
-| `brute force` | 40 |
+| `brute force` | 41 |
+| `sortings` | 27 |
+| `constructive algorithms` | 27 |
 | `number theory` | 26 |
-| `sortings` | 26 |
-| `constructive algorithms` | 26 |
+| `strings` | 20 |
 | `dp` | 20 |
 | `binary search` | 20 |
-| `strings` | 19 |
 | `data structures` | 15 |
 | `two pointers` | 12 |
 | `bitmasks` | 6 |
@@ -145,6 +145,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2257B | [Gigantomachy](problems/math/0800_2257B-Gigantomachy) | 800 | `math` | — | [CF](https://codeforces.com/contest/2257/problem/B) |
 | 2258A | [Odd Eraser](problems/math/0800_2258A-Odd-Eraser) | 800 | `math` | — | [CF](https://codeforces.com/contest/2258/problem/A) |
 | 2260A | [Monocarp's Contest](problems/implementation/0800_2260A-Monocarps-Contest) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/2260/problem/A) |
+| 2267A | [Turn Into a Palindrome](problems/greedy/0800_2267A-Turn-Into-a-Palindrome) | 800 | `greedy`, `strings` | — | [CF](https://codeforces.com/contest/2267/problem/A) |
+| 2267B | [Fashionable Array](problems/brute-force/0800_2267B-Fashionable-Array) | 800 | `brute force`, `constructive algorithms`, `sortings` | — | [CF](https://codeforces.com/contest/2267/problem/B) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1440B | [Sum of Medians](problems/greedy/0900_1440B-Sum-of-Medians) | 900 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1440/problem/B) |
