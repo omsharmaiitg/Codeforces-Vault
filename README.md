@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 187
-- **With source attached:** 0 / 187
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 188
+- **With source attached:** 0 / 188
+- **Longest streak:** 8 days  |  **Current streak:** 4 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 187 |
+| C++ | 188 |
 
 ### By rating
 
@@ -41,7 +41,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0900 | 30 |
 | 1000 | 16 |
 | 1100 | 19 |
-| 1200 | 21 |
+| 1200 | 22 |
 | 1300 | 13 |
 | 1400 | 5 |
 | 1500 | 8 |
@@ -53,13 +53,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 87 |
-| `math` | 86 |
+| `greedy` | 88 |
+| `math` | 87 |
 | `implementation` | 47 |
 | `brute force` | 41 |
+| `number theory` | 27 |
 | `sortings` | 27 |
 | `constructive algorithms` | 27 |
-| `number theory` | 26 |
 | `strings` | 20 |
 | `dp` | 20 |
 | `binary search` | 20 |
@@ -233,6 +233,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2109B | [Slice to Survive](problems/bitmasks/1200_2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2109/problem/B) |
 | 2196A | [Game with a Fraction](problems/games/1200_2196A-Game-with-a-Fraction) | 1200 | `games`, `math` | — | [CF](https://codeforces.com/contest/2196/problem/A) |
 | 2244D | [Yaroslav and Productivity](problems/constructive-algorithms/1200_2244D-Yaroslav-and-Productivity) | 1200 | `constructive algorithms`, `dp`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2244/problem/D) |
+| 2267C | [GCD Treasury](problems/greedy/1200_2267C-GCD-Treasury) | 1200 | `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2267/problem/C) |
 | 4C | [Registration System](problems/data-structures/1300_4C-Registration-System) | 1300 | `data structures`, `hashing`, `implementation` | — | [CF](https://codeforces.com/contest/4/problem/C) |
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
 | 665C | [Simple Strings](problems/dp/1300_665C-Simple-Strings) | 1300 | `dp`, `greedy`, `strings` | — | [CF](https://codeforces.com/contest/665/problem/C) |
