@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 188
-- **With source attached:** 0 / 188
+- **Total solved:** 193
+- **With source attached:** 0 / 193
 - **Longest streak:** 8 days  |  **Current streak:** 4 days
 - **Contest rating:** 1010 (max 1299)
 
@@ -31,18 +31,18 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 188 |
+| C++ | 193 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 61 |
+| 0800 | 62 |
 | 0900 | 30 |
 | 1000 | 16 |
-| 1100 | 19 |
-| 1200 | 22 |
-| 1300 | 13 |
+| 1100 | 20 |
+| 1200 | 24 |
+| 1300 | 14 |
 | 1400 | 5 |
 | 1500 | 8 |
 | 1600 | 7 |
@@ -53,21 +53,21 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `greedy` | 88 |
-| `math` | 87 |
-| `implementation` | 47 |
-| `brute force` | 41 |
-| `number theory` | 27 |
+| `math` | 91 |
+| `greedy` | 89 |
+| `implementation` | 48 |
+| `brute force` | 43 |
+| `number theory` | 29 |
+| `constructive algorithms` | 28 |
 | `sortings` | 27 |
-| `constructive algorithms` | 27 |
 | `strings` | 20 |
 | `dp` | 20 |
 | `binary search` | 20 |
 | `data structures` | 15 |
 | `two pointers` | 12 |
-| `bitmasks` | 6 |
+| `bitmasks` | 7 |
+| `games` | 7 |
 | `combinatorics` | 6 |
-| `games` | 6 |
 | `dfs and similar` | 5 |
 | `geometry` | 4 |
 | `hashing` | 3 |
@@ -102,6 +102,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1791C | [Prepend and Append](problems/implementation/0800_1791C-Prepend-and-Append) | 800 | `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/1791/problem/C) |
 | 1814A | [Coins](problems/implementation/0800_1814A-Coins) | 800 | `implementation`, `math` | — | [CF](https://codeforces.com/contest/1814/problem/A) |
 | 1833C | [Vlad Building Beautiful Array](problems/greedy/0800_1833C-Vlad-Building-Beautiful-Array) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1833/problem/C) |
+| 1858A | [Buttons](problems/games/0800_1858A-Buttons) | 800 | `games`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1858/problem/A) |
 | 1877A | [Goals of Victory](problems/math/0800_1877A-Goals-of-Victory) | 800 | `math` | — | [CF](https://codeforces.com/contest/1877/problem/A) |
 | 1878A | [How Much Does Daytona Cost?](problems/greedy/0800_1878A-How-Much-Does-Daytona-Cost) | 800 | `greedy` | — | [CF](https://codeforces.com/contest/1878/problem/A) |
 | 1878B | [Aleksa and Stack](problems/constructive-algorithms/0800_1878B-Aleksa-and-Stack) | 800 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1878/problem/B) |
@@ -194,6 +195,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2254C1 | [Marenol (easy version)](problems/greedy/1000_2254C1-Marenol-easy-version) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2254/problem/C1) |
 | 2256B | [Domino Tiles](problems/implementation/1000_2256B-Domino-Tiles) | 1000 | `implementation`, `math` | — | [CF](https://codeforces.com/contest/2256/problem/B) |
 | 919B | [Perfect Number](problems/binary-search/1100_919B-Perfect-Number) | 1100 | `binary search`, `brute force`, `dp`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/919/problem/B) |
+| 1327A | [Sum of Odd Integers](problems/math/1100_1327A-Sum-of-Odd-Integers) | 1100 | `math` | — | [CF](https://codeforces.com/contest/1327/problem/A) |
 | 1708B | [Difference of GCDs](problems/constructive-algorithms/1100_1708B-Difference-of-GCDs) | 1100 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/1708/problem/B) |
 | 1826B | [Lunatic Never Content](problems/math/1100_1826B-Lunatic-Never-Content) | 1100 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/1826/problem/B) |
 | 1872C | [Non-coprime Split](problems/math/1100_1872C-Non-coprime-Split) | 1100 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/1872/problem/C) |
@@ -218,6 +220,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1076B | [Divisor Subtraction](problems/implementation/1200_1076B-Divisor-Subtraction) | 1200 | `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1076/problem/B) |
 | 1272C | [Yet Another Broken Keyboard](problems/combinatorics/1200_1272C-Yet-Another-Broken-Keyboard) | 1200 | `combinatorics`, `dp`, `implementation` | — | [CF](https://codeforces.com/contest/1272/problem/C) |
 | 1539C | [Stable Groups](problems/greedy/1200_1539C-Stable-Groups) | 1200 | `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1539/problem/C) |
+| 1541B | [Pleasant Pairs](problems/brute-force/1200_1541B-Pleasant-Pairs) | 1200 | `brute force`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1541/problem/B) |
 | 1546B | [AquaMoon and Stolen String](problems/interactive/1200_1546B-AquaMoon-and-Stolen-String) | 1200 | `interactive`, `math` | — | [CF](https://codeforces.com/contest/1546/problem/B) |
 | 1613C | [Poisoned Dagger](problems/binary-search/1200_1613C-Poisoned-Dagger) | 1200 | `binary search` | — | [CF](https://codeforces.com/contest/1613/problem/C) |
 | 1790D | [Matryoshkas](problems/data-structures/1200_1790D-Matryoshkas) | 1200 | `data structures`, `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1790/problem/D) |
@@ -225,6 +228,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1832C | [Contrast Value](problems/greedy/1200_1832C-Contrast-Value) | 1200 | `greedy`, `implementation` | — | [CF](https://codeforces.com/contest/1832/problem/C) |
 | 1857C | [Assembly via Minimums](problems/greedy/1200_1857C-Assembly-via-Minimums) | 1200 | `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1857/problem/C) |
 | 1872D | [Plus Minus Permutation](problems/math/1200_1872D-Plus-Minus-Permutation) | 1200 | `math` | — | [CF](https://codeforces.com/contest/1872/problem/D) |
+| 1909B | [Make Almost Equal With Mod](problems/bitmasks/1200_1909B-Make-Almost-Equal-With-Mod) | 1200 | `bitmasks`, `constructive algorithms`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1909/problem/B) |
 | 1925B | [A Balanced Problemset?](problems/brute-force/1200_1925B-A-Balanced-Problemset) | 1200 | `brute force`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1925/problem/B) |
 | 2041E | [Beautiful Array](problems/constructive-algorithms/1200_2041E-Beautiful-Array) | 1200 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2041/problem/E) |
 | 2048C | [Kevin and Binary Strings](problems/bitmasks/1200_2048C-Kevin-and-Binary-Strings) | 1200 | `bitmasks`, `brute force`, `greedy`, `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2048/problem/C) |
@@ -235,6 +239,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2244D | [Yaroslav and Productivity](problems/constructive-algorithms/1200_2244D-Yaroslav-and-Productivity) | 1200 | `constructive algorithms`, `dp`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2244/problem/D) |
 | 2267C | [GCD Treasury](problems/greedy/1200_2267C-GCD-Treasury) | 1200 | `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2267/problem/C) |
 | 4C | [Registration System](problems/data-structures/1300_4C-Registration-System) | 1300 | `data structures`, `hashing`, `implementation` | — | [CF](https://codeforces.com/contest/4/problem/C) |
+| 25A | [IQ test](problems/brute-force/1300_25A-IQ-test) | 1300 | `brute force` | — | [CF](https://codeforces.com/contest/25/problem/A) |
 | 230B | [T-primes](problems/binary-search/1300_230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/230/problem/B) |
 | 665C | [Simple Strings](problems/dp/1300_665C-Simple-Strings) | 1300 | `dp`, `greedy`, `strings` | — | [CF](https://codeforces.com/contest/665/problem/C) |
 | 1424G | [Years](problems/data-structures/1300_1424G-Years) | 1300 | `data structures`, `sortings` | — | [CF](https://codeforces.com/contest/1424/problem/G) |
