@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 193
-- **With source attached:** 0 / 193
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 194
+- **With source attached:** 0 / 194
+- **Longest streak:** 8 days  |  **Current streak:** 5 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 193 |
+| C++ | 194 |
 
 ### By rating
 
@@ -41,7 +41,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0900 | 30 |
 | 1000 | 16 |
 | 1100 | 20 |
-| 1200 | 24 |
+| 1200 | 25 |
 | 1300 | 14 |
 | 1400 | 5 |
 | 1500 | 8 |
@@ -53,11 +53,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 91 |
+| `math` | 92 |
 | `greedy` | 89 |
 | `implementation` | 48 |
-| `brute force` | 43 |
-| `number theory` | 29 |
+| `brute force` | 44 |
+| `number theory` | 30 |
 | `constructive algorithms` | 28 |
 | `sortings` | 27 |
 | `strings` | 20 |
@@ -235,6 +235,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2051D | [Counting Pairs](problems/binary-search/1200_2051D-Counting-Pairs) | 1200 | `binary search`, `sortings`, `two pointers` | — | [CF](https://codeforces.com/contest/2051/problem/D) |
 | 2053B | [Outstanding Impressionist](problems/binary-search/1200_2053B-Outstanding-Impressionist) | 1200 | `binary search`, `brute force`, `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2053/problem/B) |
 | 2109B | [Slice to Survive](problems/bitmasks/1200_2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2109/problem/B) |
+| 2181H | [Honey Cake](problems/brute-force/1200_2181H-Honey-Cake) | 1200 | `brute force`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2181/problem/H) |
 | 2196A | [Game with a Fraction](problems/games/1200_2196A-Game-with-a-Fraction) | 1200 | `games`, `math` | — | [CF](https://codeforces.com/contest/2196/problem/A) |
 | 2244D | [Yaroslav and Productivity](problems/constructive-algorithms/1200_2244D-Yaroslav-and-Productivity) | 1200 | `constructive algorithms`, `dp`, `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2244/problem/D) |
 | 2267C | [GCD Treasury](problems/greedy/1200_2267C-GCD-Treasury) | 1200 | `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2267/problem/C) |
