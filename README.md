@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 194
-- **With source attached:** 0 / 194
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 196
+- **With source attached:** 0 / 196
+- **Longest streak:** 8 days  |  **Current streak:** 6 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 194 |
+| C++ | 196 |
 
 ### By rating
 
@@ -48,6 +48,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 7 |
 | 1700 | 5 |
 | 1800 | 2 |
+| Unrated | 2 |
 
 ### By tag
 
@@ -86,6 +87,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
+| 2275B | [Did Not Go to Print](problems/untagged/Unrated_2275B-Did-Not-Go-to-Print) | ? |  | — | [CF](https://codeforces.com/contest/2275/problem/B) |
+| 2275A | [In Search of Convenience](problems/untagged/Unrated_2275A-In-Search-of-Convenience) | ? |  | — | [CF](https://codeforces.com/contest/2275/problem/A) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 14A | [Letter](problems/implementation/0800_14A-Letter) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
