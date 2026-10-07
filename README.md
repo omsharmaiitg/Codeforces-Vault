@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 196
-- **With source attached:** 0 / 196
-- **Longest streak:** 8 days  |  **Current streak:** 6 days
+- **Total solved:** 197
+- **With source attached:** 0 / 197
+- **Longest streak:** 8 days  |  **Current streak:** 0 days
 - **Contest rating:** 1010 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 196 |
+| C++ | 197 |
 
 ### By rating
 
@@ -48,7 +48,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 7 |
 | 1700 | 5 |
 | 1800 | 2 |
-| Unrated | 2 |
+| Unrated | 3 |
 
 ### By tag
 
@@ -56,21 +56,21 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | `math` | 92 |
 | `greedy` | 89 |
-| `implementation` | 48 |
-| `brute force` | 44 |
+| `implementation` | 50 |
+| `brute force` | 45 |
 | `number theory` | 30 |
 | `constructive algorithms` | 28 |
 | `sortings` | 27 |
 | `strings` | 20 |
 | `dp` | 20 |
 | `binary search` | 20 |
-| `data structures` | 15 |
+| `data structures` | 17 |
 | `two pointers` | 12 |
 | `bitmasks` | 7 |
 | `games` | 7 |
 | `combinatorics` | 6 |
+| `geometry` | 5 |
 | `dfs and similar` | 5 |
-| `geometry` | 4 |
 | `hashing` | 3 |
 | `ternary search` | 2 |
 | `dsu` | 2 |
@@ -87,8 +87,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2275B | [Did Not Go to Print](problems/untagged/Unrated_2275B-Did-Not-Go-to-Print) | ? |  | — | [CF](https://codeforces.com/contest/2275/problem/B) |
-| 2275A | [In Search of Convenience](problems/untagged/Unrated_2275A-In-Search-of-Convenience) | ? |  | — | [CF](https://codeforces.com/contest/2275/problem/A) |
+| 2275B | [Did Not Go to Print](problems/data-structures/Unrated_2275B-Did-Not-Go-to-Print) | ? | `data structures`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/B) |
+| 2275A | [In Search of Convenience](problems/geometry/Unrated_2275A-In-Search-of-Convenience) | ? | `geometry`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/A) |
+| 2275C | [Unrequited Love](problems/brute-force/Unrated_2275C-Unrequited-Love) | ? | `brute force`, `data structures` | — | [CF](https://codeforces.com/contest/2275/problem/C) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 14A | [Letter](problems/implementation/0800_14A-Letter) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
