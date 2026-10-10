@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 197
-- **With source attached:** 0 / 197
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 199
+- **With source attached:** 0 / 199
+- **Longest streak:** 8 days  |  **Current streak:** 1 days
 - **Contest rating:** 1029 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 197 |
+| C++ | 199 |
 
 ### By rating
 
@@ -48,7 +48,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 7 |
 | 1700 | 5 |
 | 1800 | 2 |
-| Unrated | 3 |
+| Unrated | 5 |
 
 ### By tag
 
@@ -87,6 +87,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
+| 2271A | [Robot Odd Moves](problems/untagged/Unrated_2271A-Robot-Odd-Moves) | ? |  | — | [CF](https://codeforces.com/contest/2271/problem/A) |
+| 2271B | [MEX Game](problems/untagged/Unrated_2271B-MEX-Game) | ? |  | — | [CF](https://codeforces.com/contest/2271/problem/B) |
 | 2275B | [Did Not Go to Print](problems/data-structures/Unrated_2275B-Did-Not-Go-to-Print) | ? | `data structures`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/B) |
 | 2275A | [In Search of Convenience](problems/geometry/Unrated_2275A-In-Search-of-Convenience) | ? | `geometry`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/A) |
 | 2275C | [Unrequited Love](problems/brute-force/Unrated_2275C-Unrequited-Love) | ? | `brute force`, `data structures` | — | [CF](https://codeforces.com/contest/2275/problem/C) |
