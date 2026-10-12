@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 204
-- **With source attached:** 0 / 204
-- **Longest streak:** 8 days  |  **Current streak:** 3 days
+- **Total solved:** 205
+- **With source attached:** 0 / 205
+- **Longest streak:** 8 days  |  **Current streak:** 4 days
 - **Contest rating:** 1085 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 204 |
+| C++ | 205 |
 
 ### By rating
 
@@ -47,7 +47,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1500 | 8 |
 | 1600 | 7 |
 | 1700 | 5 |
-| 1800 | 2 |
+| 1800 | 3 |
 | Unrated | 5 |
 
 ### By tag
@@ -57,7 +57,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `math` | 94 |
 | `greedy` | 92 |
 | `implementation` | 51 |
-| `brute force` | 47 |
+| `brute force` | 48 |
 | `number theory` | 30 |
 | `constructive algorithms` | 29 |
 | `sortings` | 27 |
@@ -68,7 +68,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `two pointers` | 12 |
 | `bitmasks` | 11 |
 | `games` | 8 |
-| `combinatorics` | 6 |
+| `combinatorics` | 7 |
 | `geometry` | 5 |
 | `dfs and similar` | 5 |
 | `hashing` | 3 |
@@ -290,4 +290,5 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2206J | [Worldwide Playlist](problems/math/1700_2206J-Worldwide-Playlist) | 1700 | `math` | — | [CF](https://codeforces.com/contest/2206/problem/J) |
 | 2236E | [Friendly Gifts](problems/brute-force/1700_2236E-Friendly-Gifts) | 1700 | `brute force`, `dp` | — | [CF](https://codeforces.com/contest/2236/problem/E) |
 | 15B | [Laser](problems/math/1800_15B-Laser) | 1800 | `math` | — | [CF](https://codeforces.com/contest/15/problem/B) |
+| 300C | [Beautiful Numbers](problems/brute-force/1800_300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | — | [CF](https://codeforces.com/contest/300/problem/C) |
 | 2106E | [Wolf](problems/binary-search/1800_2106E-Wolf) | 1800 | `binary search`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2106/problem/E) |
