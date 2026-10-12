@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 202
-- **With source attached:** 0 / 202
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 204
+- **With source attached:** 0 / 204
+- **Longest streak:** 8 days  |  **Current streak:** 3 days
 - **Contest rating:** 1085 (max 1299)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 202 |
+| C++ | 204 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 64 |
+| 0800 | 66 |
 | 0900 | 30 |
 | 1000 | 16 |
 | 1100 | 21 |
@@ -55,9 +55,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | Tag | Count |
 |---|---|
 | `math` | 94 |
-| `greedy` | 91 |
+| `greedy` | 92 |
 | `implementation` | 51 |
-| `brute force` | 46 |
+| `brute force` | 47 |
 | `number theory` | 30 |
 | `constructive algorithms` | 29 |
 | `sortings` | 27 |
@@ -66,7 +66,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `binary search` | 20 |
 | `data structures` | 17 |
 | `two pointers` | 12 |
-| `bitmasks` | 9 |
+| `bitmasks` | 11 |
 | `games` | 8 |
 | `combinatorics` | 6 |
 | `geometry` | 5 |
@@ -104,6 +104,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1459A | [Red-Blue Shuffle](problems/math/0800_1459A-Red-Blue-Shuffle) | 800 | `math`, `probabilities` | — | [CF](https://codeforces.com/contest/1459/problem/A) |
 | 1493A | [Anti-knapsack](problems/constructive-algorithms/0800_1493A-Anti-knapsack) | 800 | `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/1493/problem/A) |
 | 1635A | [Min Or Sum](problems/bitmasks/0800_1635A-Min-Or-Sum) | 800 | `bitmasks`, `greedy` | — | [CF](https://codeforces.com/contest/1635/problem/A) |
+| 1688A | [Cirno's Perfect Bitmasks Classroom](problems/bitmasks/0800_1688A-Cirnos-Perfect-Bitmasks-Classroom) | 800 | `bitmasks`, `brute force` | — | [CF](https://codeforces.com/contest/1688/problem/A) |
+| 1696A | [NIT orz!](problems/bitmasks/0800_1696A-NIT-orz) | 800 | `bitmasks`, `greedy` | — | [CF](https://codeforces.com/contest/1696/problem/A) |
 | 1766A | [Extremely Round](problems/brute-force/0800_1766A-Extremely-Round) | 800 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1766/problem/A) |
 | 1772A | [A+B?](problems/implementation/0800_1772A-AB) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/1772/problem/A) |
 | 1772B | [Matrix Rotation](problems/brute-force/0800_1772B-Matrix-Rotation) | 800 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1772/problem/B) |
