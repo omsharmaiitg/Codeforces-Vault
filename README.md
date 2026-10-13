@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 206
-- **With source attached:** 0 / 206
+- **Total solved:** 207
+- **With source attached:** 0 / 207
 - **Longest streak:** 8 days  |  **Current streak:** 4 days
 - **Contest rating:** 1085 (max 1299)
 
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 206 |
+| C++ | 207 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 66 |
+| 0800 | 67 |
 | 0900 | 30 |
 | 1000 | 16 |
 | 1100 | 21 |
@@ -54,7 +54,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 95 |
+| `math` | 96 |
 | `greedy` | 92 |
 | `implementation` | 51 |
 | `brute force` | 48 |
@@ -79,6 +79,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `shortest paths` | 1 |
 | `graph matchings` | 1 |
 | `probabilities` | 1 |
+| `*special` | 1 |
 
 </details>
 
@@ -107,6 +108,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1688A | [Cirno's Perfect Bitmasks Classroom](problems/bitmasks/0800_1688A-Cirnos-Perfect-Bitmasks-Classroom) | 800 | `bitmasks`, `brute force` | — | [CF](https://codeforces.com/contest/1688/problem/A) |
 | 1696A | [NIT orz!](problems/bitmasks/0800_1696A-NIT-orz) | 800 | `bitmasks`, `greedy` | — | [CF](https://codeforces.com/contest/1696/problem/A) |
 | 1766A | [Extremely Round](problems/brute-force/0800_1766A-Extremely-Round) | 800 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1766/problem/A) |
+| 1769A | [Узкая дорога](problems/special/0800_1769A-Узкая-дорога) | 800 | `*special`, `math` | — | [CF](https://codeforces.com/contest/1769/problem/A) |
 | 1772A | [A+B?](problems/implementation/0800_1772A-AB) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/1772/problem/A) |
 | 1772B | [Matrix Rotation](problems/brute-force/0800_1772B-Matrix-Rotation) | 800 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/1772/problem/B) |
 | 1791C | [Prepend and Append](problems/implementation/0800_1791C-Prepend-and-Append) | 800 | `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/1791/problem/C) |
