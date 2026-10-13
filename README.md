@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 205
-- **With source attached:** 0 / 205
+- **Total solved:** 206
+- **With source attached:** 0 / 206
 - **Longest streak:** 8 days  |  **Current streak:** 4 days
 - **Contest rating:** 1085 (max 1299)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 205 |
+| C++ | 206 |
 
 ### By rating
 
@@ -46,7 +46,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1400 | 5 |
 | 1500 | 8 |
 | 1600 | 7 |
-| 1700 | 5 |
+| 1700 | 6 |
 | 1800 | 3 |
 | Unrated | 5 |
 
@@ -54,7 +54,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 94 |
+| `math` | 95 |
 | `greedy` | 92 |
 | `implementation` | 51 |
 | `brute force` | 48 |
@@ -285,6 +285,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2240D | [Decidophobia](problems/greedy/1600_2240D-Decidophobia) | 1600 | `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/2240/problem/D) |
 | 2257D | [Bermuda Rectangle](problems/binary-search/1600_2257D-Bermuda-Rectangle) | 1600 | `binary search`, `implementation`, `math`, `number theory`, `two pointers` | — | [CF](https://codeforces.com/contest/2257/problem/D) |
 | 14C | [Four Segments](problems/brute-force/1700_14C-Four-Segments) | 1700 | `brute force`, `constructive algorithms`, `geometry`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/14/problem/C) |
+| 32C | [Flea](problems/math/1700_32C-Flea) | 1700 | `math` | — | [CF](https://codeforces.com/contest/32/problem/C) |
 | 474D | [Flowers](problems/dp/1700_474D-Flowers) | 1700 | `dp` | — | [CF](https://codeforces.com/contest/474/problem/D) |
 | 2045A | [Scrambled Scrabble](problems/brute-force/1700_2045A-Scrambled-Scrabble) | 1700 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/2045/problem/A) |
 | 2206J | [Worldwide Playlist](problems/math/1700_2206J-Worldwide-Playlist) | 1700 | `math` | — | [CF](https://codeforces.com/contest/2206/problem/J) |
