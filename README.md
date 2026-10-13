@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 207
-- **With source attached:** 0 / 207
-- **Longest streak:** 8 days  |  **Current streak:** 4 days
+- **Total solved:** 209
+- **With source attached:** 0 / 209
+- **Longest streak:** 8 days  |  **Current streak:** 5 days
 - **Contest rating:** 1085 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 207 |
+| C++ | 209 |
 
 ### By rating
 
@@ -44,8 +44,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1200 | 25 |
 | 1300 | 14 |
 | 1400 | 5 |
-| 1500 | 8 |
-| 1600 | 7 |
+| 1500 | 9 |
+| 1600 | 8 |
 | 1700 | 6 |
 | 1800 | 3 |
 | Unrated | 5 |
@@ -54,21 +54,21 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 96 |
+| `math` | 98 |
 | `greedy` | 92 |
 | `implementation` | 51 |
 | `brute force` | 48 |
 | `number theory` | 30 |
 | `constructive algorithms` | 29 |
-| `sortings` | 27 |
+| `sortings` | 28 |
 | `strings` | 20 |
 | `dp` | 20 |
 | `binary search` | 20 |
 | `data structures` | 17 |
 | `two pointers` | 12 |
 | `bitmasks` | 11 |
+| `combinatorics` | 9 |
 | `games` | 8 |
-| `combinatorics` | 7 |
 | `geometry` | 5 |
 | `dfs and similar` | 5 |
 | `hashing` | 3 |
@@ -276,10 +276,12 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1575J | [Jeopardy of Dropped Balls](problems/binary-search/1500_1575J-Jeopardy-of-Dropped-Balls) | 1500 | `binary search`, `brute force`, `dsu`, `implementation` | — | [CF](https://codeforces.com/contest/1575/problem/J) |
 | 1776L | [Controllers](problems/binary-search/1500_1776L-Controllers) | 1500 | `binary search`, `math` | — | [CF](https://codeforces.com/contest/1776/problem/L) |
 | 1933E | [Turtle vs. Rabbit Race: Optimal Trainings](problems/binary-search/1500_1933E-Turtle-vs.-Rabbit-Race-Optimal-Trainings) | 1500 | `binary search`, `implementation`, `math`, `ternary search` | — | [CF](https://codeforces.com/contest/1933/problem/E) |
+| 1999F | [Expected Median](problems/combinatorics/1500_1999F-Expected-Median) | 1500 | `combinatorics`, `math` | — | [CF](https://codeforces.com/contest/1999/problem/F) |
 | 2050E | [Three Strings](problems/dp/1500_2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2050/problem/E) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](problems/binary-search/1500_2072E-Do-You-Love-Your-Hero-and-His-Two-Hit-Multi-Target-Attacks) | 1500 | `binary search`, `brute force`, `constructive algorithms`, `dp`, `geometry`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2072/problem/E) |
 | 2238D | [Storming Arasaka](problems/greedy/1500_2238D-Storming-Arasaka) | 1500 | `greedy`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/2238/problem/D) |
 | 150B | [Quantity of Strings](problems/combinatorics/1600_150B-Quantity-of-Strings) | 1600 | `combinatorics`, `dfs and similar`, `graphs`, `math` | — | [CF](https://codeforces.com/contest/150/problem/B) |
+| 1475E | [Advertising Agency](problems/combinatorics/1600_1475E-Advertising-Agency) | 1600 | `combinatorics`, `math`, `sortings` | — | [CF](https://codeforces.com/contest/1475/problem/E) |
 | 1610C | [Keshi Is Throwing a Party](problems/binary-search/1600_1610C-Keshi-Is-Throwing-a-Party) | 1600 | `binary search`, `greedy` | — | [CF](https://codeforces.com/contest/1610/problem/C) |
 | 1730B | [Meeting on the Line](problems/binary-search/1600_1730B-Meeting-on-the-Line) | 1600 | `binary search`, `geometry`, `greedy`, `implementation`, `math`, `ternary search` | — | [CF](https://codeforces.com/contest/1730/problem/B) |
 | 2040C | [Ordered Permutations](problems/bitmasks/1600_2040C-Ordered-Permutations) | 1600 | `bitmasks`, `combinatorics`, `constructive algorithms`, `greedy`, `math`, `two pointers` | — | [CF](https://codeforces.com/contest/2040/problem/C) |
