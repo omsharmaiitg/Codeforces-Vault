@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 209
-- **With source attached:** 0 / 209
+- **Total solved:** 213
+- **With source attached:** 0 / 213
 - **Longest streak:** 8 days  |  **Current streak:** 5 days
 - **Contest rating:** 1085 (max 1299)
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 209 |
+| C++ | 213 |
 
 ### By rating
 
@@ -48,20 +48,20 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 8 |
 | 1700 | 6 |
 | 1800 | 3 |
-| Unrated | 5 |
+| Unrated | 9 |
 
 ### By tag
 
 | Tag | Count |
 |---|---|
-| `math` | 98 |
-| `greedy` | 92 |
-| `implementation` | 51 |
+| `math` | 100 |
+| `greedy` | 93 |
+| `implementation` | 52 |
 | `brute force` | 48 |
-| `number theory` | 30 |
+| `number theory` | 31 |
 | `constructive algorithms` | 29 |
 | `sortings` | 28 |
-| `strings` | 20 |
+| `strings` | 21 |
 | `dp` | 20 |
 | `binary search` | 20 |
 | `data structures` | 17 |
@@ -93,6 +93,10 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2275B | [Did Not Go to Print](problems/data-structures/Unrated_2275B-Did-Not-Go-to-Print) | ? | `data structures`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/B) |
 | 2275A | [In Search of Convenience](problems/geometry/Unrated_2275A-In-Search-of-Convenience) | ? | `geometry`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/A) |
 | 2275C | [Unrequited Love](problems/brute-force/Unrated_2275C-Unrequited-Love) | ? | `brute force`, `data structures` | — | [CF](https://codeforces.com/contest/2275/problem/C) |
+| 2276A | [Perfect Sandwiches](problems/greedy/Unrated_2276A-Perfect-Sandwiches) | ? | `greedy`, `math` | — | [CF](https://codeforces.com/contest/2276/problem/A) |
+| 2276B | [Replace and Compress](problems/implementation/Unrated_2276B-Replace-and-Compress) | ? | `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2276/problem/B) |
+| 2276C | [Subarrays](problems/math/Unrated_2276C-Subarrays) | ? | `math`, `number theory` | — | [CF](https://codeforces.com/contest/2276/problem/C) |
+| 105669I | [Partition](problems/untagged/Unrated_105669I-Partition) | ? |  | — | [CF](https://codeforces.com/contest/105669/problem/I) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 14A | [Letter](problems/implementation/0800_14A-Letter) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
