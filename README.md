@@ -2,8 +2,8 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 213
-- **With source attached:** 0 / 213
+- **Total solved:** 214
+- **With source attached:** 0 / 214
 - **Longest streak:** 8 days  |  **Current streak:** 0 days
 - **Contest rating:** 1102 (max 1299)
 
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 213 |
+| C++ | 214 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 67 |
+| 0800 | 68 |
 | 0900 | 30 |
 | 1000 | 16 |
 | 1100 | 21 |
@@ -68,7 +68,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `two pointers` | 12 |
 | `bitmasks` | 11 |
 | `combinatorics` | 9 |
-| `games` | 8 |
+| `games` | 9 |
 | `geometry` | 5 |
 | `dfs and similar` | 5 |
 | `hashing` | 3 |
@@ -162,6 +162,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2257B | [Gigantomachy](problems/math/0800_2257B-Gigantomachy) | 800 | `math` | — | [CF](https://codeforces.com/contest/2257/problem/B) |
 | 2258A | [Odd Eraser](problems/math/0800_2258A-Odd-Eraser) | 800 | `math` | — | [CF](https://codeforces.com/contest/2258/problem/A) |
 | 2260A | [Monocarp's Contest](problems/implementation/0800_2260A-Monocarps-Contest) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/2260/problem/A) |
+| 2263A | [Min Max Game](problems/games/0800_2263A-Min-Max-Game) | 800 | `games` | — | [CF](https://codeforces.com/contest/2263/problem/A) |
 | 2267A | [Turn Into a Palindrome](problems/greedy/0800_2267A-Turn-Into-a-Palindrome) | 800 | `greedy`, `strings` | — | [CF](https://codeforces.com/contest/2267/problem/A) |
 | 2267B | [Fashionable Array](problems/brute-force/0800_2267B-Fashionable-Array) | 800 | `brute force`, `constructive algorithms`, `sortings` | — | [CF](https://codeforces.com/contest/2267/problem/B) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
