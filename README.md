@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 214
-- **With source attached:** 0 / 214
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 215
+- **With source attached:** 0 / 215
+- **Longest streak:** 8 days  |  **Current streak:** 7 days
 - **Contest rating:** 1102 (max 1299)
 
 ## 📊 Analytics
@@ -31,13 +31,13 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 214 |
+| C++ | 215 |
 
 ### By rating
 
 | Rating | Count |
 |---|---|
-| 0800 | 68 |
+| 0800 | 69 |
 | 0900 | 30 |
 | 1000 | 16 |
 | 1100 | 21 |
@@ -56,7 +56,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | `math` | 100 |
 | `greedy` | 93 |
-| `implementation` | 52 |
+| `implementation` | 53 |
 | `brute force` | 48 |
 | `number theory` | 31 |
 | `constructive algorithms` | 29 |
@@ -75,11 +75,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `ternary search` | 2 |
 | `dsu` | 2 |
 | `graphs` | 2 |
+| `*special` | 2 |
 | `interactive` | 1 |
 | `shortest paths` | 1 |
 | `graph matchings` | 1 |
 | `probabilities` | 1 |
-| `*special` | 1 |
 
 </details>
 
@@ -100,6 +100,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 14A | [Letter](problems/implementation/0800_14A-Letter) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/A) |
 | 71A | [Way Too Long Words](problems/strings/0800_71A-Way-Too-Long-Words) | 800 | `strings` | — | [CF](https://codeforces.com/contest/71/problem/A) |
+| 158A | [Next Round](problems/special/0800_158A-Next-Round) | 800 | `*special`, `implementation` | — | [CF](https://codeforces.com/contest/158/problem/A) |
 | 231A | [Team](problems/brute-force/0800_231A-Team) | 800 | `brute force`, `greedy` | — | [CF](https://codeforces.com/contest/231/problem/A) |
 | 263A | [Beautiful Matrix](problems/implementation/0800_263A-Beautiful-Matrix) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/263/problem/A) |
 | 282A | [Bit++](problems/implementation/0800_282A-Bit) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/282/problem/A) |
