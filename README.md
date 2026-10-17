@@ -2,10 +2,10 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 217
-- **With source attached:** 0 / 217
-- **Longest streak:** 8 days  |  **Current streak:** 8 days
-- **Contest rating:** 1102 (max 1299)
+- **Total solved:** 218
+- **With source attached:** 0 / 218
+- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Contest rating:** 1109 (max 1299)
 
 ## 📊 Analytics
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 217 |
+| C++ | 218 |
 
 ### By rating
 
@@ -48,14 +48,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 8 |
 | 1700 | 6 |
 | 1800 | 3 |
-| Unrated | 11 |
+| Unrated | 12 |
 
 ### By tag
 
 | Tag | Count |
 |---|---|
-| `math` | 100 |
-| `greedy` | 93 |
+| `math` | 103 |
+| `greedy` | 94 |
 | `implementation` | 53 |
 | `brute force` | 48 |
 | `number theory` | 31 |
@@ -66,9 +66,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | `binary search` | 20 |
 | `data structures` | 17 |
 | `two pointers` | 12 |
-| `bitmasks` | 11 |
+| `bitmasks` | 12 |
+| `games` | 11 |
 | `combinatorics` | 9 |
-| `games` | 9 |
 | `geometry` | 5 |
 | `dfs and similar` | 5 |
 | `hashing` | 3 |
@@ -88,8 +88,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2261A | [Hey, It's Me, Souvlakity](problems/untagged/Unrated_2261A-Hey-Its-Me-Souvlakity) | ? |  | — | [CF](https://codeforces.com/contest/2261/problem/A) |
-| 2261C | [I Know About a Million Things](problems/untagged/Unrated_2261C-I-Know-About-a-Million-Things) | ? |  | — | [CF](https://codeforces.com/contest/2261/problem/C) |
+| 2261A | [Hey, It's Me, Souvlakity](problems/games/Unrated_2261A-Hey-Its-Me-Souvlakity) | ? | `games`, `math` | — | [CF](https://codeforces.com/contest/2261/problem/A) |
+| 2261C | [I Know About a Million Things](problems/games/Unrated_2261C-I-Know-About-a-Million-Things) | ? | `games`, `math` | — | [CF](https://codeforces.com/contest/2261/problem/C) |
+| 2261B | [What's the Capital of France?](problems/bitmasks/Unrated_2261B-Whats-the-Capital-of-France) | ? | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2261/problem/B) |
 | 2271A | [Robot Odd Moves](problems/constructive-algorithms/Unrated_2271A-Robot-Odd-Moves) | ? | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2271/problem/A) |
 | 2271B | [MEX Game](problems/games/Unrated_2271B-MEX-Game) | ? | `games` | — | [CF](https://codeforces.com/contest/2271/problem/B) |
 | 2275B | [Did Not Go to Print](problems/data-structures/Unrated_2275B-Did-Not-Go-to-Print) | ? | `data structures`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/B) |
