@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 215
-- **With source attached:** 0 / 215
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
+- **Total solved:** 217
+- **With source attached:** 0 / 217
+- **Longest streak:** 8 days  |  **Current streak:** 8 days
 - **Contest rating:** 1102 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 215 |
+| C++ | 217 |
 
 ### By rating
 
@@ -48,7 +48,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 8 |
 | 1700 | 6 |
 | 1800 | 3 |
-| Unrated | 9 |
+| Unrated | 11 |
 
 ### By tag
 
@@ -88,6 +88,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
+| 2261A | [Hey, It's Me, Souvlakity](problems/untagged/Unrated_2261A-Hey-Its-Me-Souvlakity) | ? |  | — | [CF](https://codeforces.com/contest/2261/problem/A) |
+| 2261C | [I Know About a Million Things](problems/untagged/Unrated_2261C-I-Know-About-a-Million-Things) | ? |  | — | [CF](https://codeforces.com/contest/2261/problem/C) |
 | 2271A | [Robot Odd Moves](problems/constructive-algorithms/Unrated_2271A-Robot-Odd-Moves) | ? | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2271/problem/A) |
 | 2271B | [MEX Game](problems/games/Unrated_2271B-MEX-Game) | ? | `games` | — | [CF](https://codeforces.com/contest/2271/problem/B) |
 | 2275B | [Did Not Go to Print](problems/data-structures/Unrated_2275B-Did-Not-Go-to-Print) | ? | `data structures`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/B) |
