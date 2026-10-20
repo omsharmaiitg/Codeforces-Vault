@@ -37,10 +37,10 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Rating | Count |
 |---|---|
-| 0800 | 69 |
+| 0800 | 74 |
 | 0900 | 30 |
-| 1000 | 16 |
-| 1100 | 21 |
+| 1000 | 20 |
+| 1100 | 23 |
 | 1200 | 25 |
 | 1300 | 14 |
 | 1400 | 5 |
@@ -48,7 +48,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 8 |
 | 1700 | 6 |
 | 1800 | 3 |
-| Unrated | 12 |
+| Unrated | 1 |
 
 ### By tag
 
@@ -88,17 +88,6 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
-| 2261A | [Hey, It's Me, Souvlakity](problems/games/Unrated_2261A-Hey-Its-Me-Souvlakity) | ? | `games`, `math` | — | [CF](https://codeforces.com/contest/2261/problem/A) |
-| 2261C | [I Know About a Million Things](problems/games/Unrated_2261C-I-Know-About-a-Million-Things) | ? | `games`, `math` | — | [CF](https://codeforces.com/contest/2261/problem/C) |
-| 2261B | [What's the Capital of France?](problems/bitmasks/Unrated_2261B-Whats-the-Capital-of-France) | ? | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2261/problem/B) |
-| 2271A | [Robot Odd Moves](problems/constructive-algorithms/Unrated_2271A-Robot-Odd-Moves) | ? | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2271/problem/A) |
-| 2271B | [MEX Game](problems/games/Unrated_2271B-MEX-Game) | ? | `games` | — | [CF](https://codeforces.com/contest/2271/problem/B) |
-| 2275B | [Did Not Go to Print](problems/data-structures/Unrated_2275B-Did-Not-Go-to-Print) | ? | `data structures`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/B) |
-| 2275A | [In Search of Convenience](problems/geometry/Unrated_2275A-In-Search-of-Convenience) | ? | `geometry`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/A) |
-| 2275C | [Unrequited Love](problems/brute-force/Unrated_2275C-Unrequited-Love) | ? | `brute force`, `data structures` | — | [CF](https://codeforces.com/contest/2275/problem/C) |
-| 2276A | [Perfect Sandwiches](problems/greedy/Unrated_2276A-Perfect-Sandwiches) | ? | `greedy`, `math` | — | [CF](https://codeforces.com/contest/2276/problem/A) |
-| 2276B | [Replace and Compress](problems/implementation/Unrated_2276B-Replace-and-Compress) | ? | `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2276/problem/B) |
-| 2276C | [Subarrays](problems/math/Unrated_2276C-Subarrays) | ? | `math`, `number theory` | — | [CF](https://codeforces.com/contest/2276/problem/C) |
 | 105669I | [Partition](problems/untagged/Unrated_105669I-Partition) | ? |  | — | [CF](https://codeforces.com/contest/105669/problem/I) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 14A | [Letter](problems/implementation/0800_14A-Letter) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/A) |
@@ -166,9 +155,14 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2257B | [Gigantomachy](problems/math/0800_2257B-Gigantomachy) | 800 | `math` | — | [CF](https://codeforces.com/contest/2257/problem/B) |
 | 2258A | [Odd Eraser](problems/math/0800_2258A-Odd-Eraser) | 800 | `math` | — | [CF](https://codeforces.com/contest/2258/problem/A) |
 | 2260A | [Monocarp's Contest](problems/implementation/0800_2260A-Monocarps-Contest) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/2260/problem/A) |
+| 2261A | [Hey, It's Me, Souvlakity](problems/games/0800_2261A-Hey-Its-Me-Souvlakity) | 800 | `games`, `math` | — | [CF](https://codeforces.com/contest/2261/problem/A) |
 | 2263A | [Min Max Game](problems/games/0800_2263A-Min-Max-Game) | 800 | `games` | — | [CF](https://codeforces.com/contest/2263/problem/A) |
 | 2267A | [Turn Into a Palindrome](problems/greedy/0800_2267A-Turn-Into-a-Palindrome) | 800 | `greedy`, `strings` | — | [CF](https://codeforces.com/contest/2267/problem/A) |
 | 2267B | [Fashionable Array](problems/brute-force/0800_2267B-Fashionable-Array) | 800 | `brute force`, `constructive algorithms`, `sortings` | — | [CF](https://codeforces.com/contest/2267/problem/B) |
+| 2271A | [Robot Odd Moves](problems/constructive-algorithms/0800_2271A-Robot-Odd-Moves) | 800 | `constructive algorithms`, `math` | — | [CF](https://codeforces.com/contest/2271/problem/A) |
+| 2275B | [Did Not Go to Print](problems/data-structures/0800_2275B-Did-Not-Go-to-Print) | 800 | `data structures`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/B) |
+| 2275A | [In Search of Convenience](problems/geometry/0800_2275A-In-Search-of-Convenience) | 800 | `geometry`, `implementation` | — | [CF](https://codeforces.com/contest/2275/problem/A) |
+| 2276A | [Perfect Sandwiches](problems/greedy/0800_2276A-Perfect-Sandwiches) | 800 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/2276/problem/A) |
 | 337A | [Puzzles](problems/greedy/0900_337A-Puzzles) | 900 | `greedy` | — | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1374B | [Multiply by 2, divide by 6](problems/math/0900_1374B-Multiply-by-2-divide-by-6) | 900 | `math` | — | [CF](https://codeforces.com/contest/1374/problem/B) |
 | 1440B | [Sum of Medians](problems/greedy/0900_1440B-Sum-of-Medians) | 900 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/1440/problem/B) |
@@ -215,6 +209,10 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2242B | [Predominant Frequency Division](problems/data-structures/1000_2242B-Predominant-Frequency-Division) | 1000 | `data structures`, `greedy`, `implementation`, `math` | — | [CF](https://codeforces.com/contest/2242/problem/B) |
 | 2254C1 | [Marenol (easy version)](problems/greedy/1000_2254C1-Marenol-easy-version) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/2254/problem/C1) |
 | 2256B | [Domino Tiles](problems/implementation/1000_2256B-Domino-Tiles) | 1000 | `implementation`, `math` | — | [CF](https://codeforces.com/contest/2256/problem/B) |
+| 2261C | [I Know About a Million Things](problems/games/1000_2261C-I-Know-About-a-Million-Things) | 1000 | `games`, `math` | — | [CF](https://codeforces.com/contest/2261/problem/C) |
+| 2271B | [MEX Game](problems/games/1000_2271B-MEX-Game) | 1000 | `games` | — | [CF](https://codeforces.com/contest/2271/problem/B) |
+| 2275C | [Unrequited Love](problems/brute-force/1000_2275C-Unrequited-Love) | 1000 | `brute force`, `data structures` | — | [CF](https://codeforces.com/contest/2275/problem/C) |
+| 2276B | [Replace and Compress](problems/implementation/1000_2276B-Replace-and-Compress) | 1000 | `implementation`, `strings` | — | [CF](https://codeforces.com/contest/2276/problem/B) |
 | 252A | [Little Xor](problems/brute-force/1100_252A-Little-Xor) | 1100 | `brute force`, `implementation` | — | [CF](https://codeforces.com/contest/252/problem/A) |
 | 919B | [Perfect Number](problems/binary-search/1100_919B-Perfect-Number) | 1100 | `binary search`, `brute force`, `dp`, `implementation`, `number theory` | — | [CF](https://codeforces.com/contest/919/problem/B) |
 | 1327A | [Sum of Odd Integers](problems/math/1100_1327A-Sum-of-Odd-Integers) | 1100 | `math` | — | [CF](https://codeforces.com/contest/1327/problem/A) |
@@ -236,6 +234,8 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 2247C | [Inversion of a Subsequence](problems/greedy/1100_2247C-Inversion-of-a-Subsequence) | 1100 | `greedy`, `math` | — | [CF](https://codeforces.com/contest/2247/problem/C) |
 | 2252B | [Always Changing](problems/dp/1100_2252B-Always-Changing) | 1100 | `dp`, `greedy`, `math`, `strings` | — | [CF](https://codeforces.com/contest/2252/problem/B) |
 | 2253B | [Hypercarp and the Control Panel](problems/brute-force/1100_2253B-Hypercarp-and-the-Control-Panel) | 1100 | `brute force`, `data structures`, `two pointers` | — | [CF](https://codeforces.com/contest/2253/problem/B) |
+| 2261B | [What's the Capital of France?](problems/bitmasks/1100_2261B-Whats-the-Capital-of-France) | 1100 | `bitmasks`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2261/problem/B) |
+| 2276C | [Subarrays](problems/math/1100_2276C-Subarrays) | 1100 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/2276/problem/C) |
 | 4B | [Before an Exam](problems/constructive-algorithms/1200_4B-Before-an-Exam) | 1200 | `constructive algorithms`, `greedy` | — | [CF](https://codeforces.com/contest/4/problem/B) |
 | 101A | [Homework](problems/greedy/1200_101A-Homework) | 1200 | `greedy` | — | [CF](https://codeforces.com/contest/101/problem/A) |
 | 961B | [Lecture Sleep](problems/data-structures/1200_961B-Lecture-Sleep) | 1200 | `data structures`, `dp`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/961/problem/B) |
