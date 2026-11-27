@@ -2,9 +2,9 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 227
-- **With source attached:** 0 / 227
-- **Longest streak:** 8 days  |  **Current streak:** 2 days
+- **Total solved:** 231
+- **With source attached:** 0 / 231
+- **Longest streak:** 8 days  |  **Current streak:** 0 days
 - **Contest rating:** 1125 (max 1299)
 
 ## 📊 Analytics
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 227 |
+| C++ | 231 |
 
 ### By rating
 
@@ -39,7 +39,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 |---|---|
 | 0800 | 75 |
 | 0900 | 30 |
-| 1000 | 24 |
+| 1000 | 25 |
 | 1100 | 24 |
 | 1200 | 26 |
 | 1300 | 15 |
@@ -48,20 +48,20 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1600 | 8 |
 | 1700 | 6 |
 | 1800 | 3 |
-| Unrated | 2 |
+| Unrated | 5 |
 
 ### By tag
 
 | Tag | Count |
 |---|---|
-| `math` | 106 |
-| `greedy` | 98 |
-| `implementation` | 57 |
+| `math` | 107 |
+| `greedy` | 99 |
+| `implementation` | 59 |
 | `brute force` | 50 |
 | `number theory` | 32 |
-| `sortings` | 30 |
-| `constructive algorithms` | 29 |
-| `strings` | 22 |
+| `sortings` | 32 |
+| `constructive algorithms` | 30 |
+| `strings` | 23 |
 | `binary search` | 21 |
 | `dp` | 20 |
 | `data structures` | 18 |
@@ -89,6 +89,9 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | # | Problem | Rating | Tags | Code | Link |
 |---|---|---|---|---|---|
 | 2289A | [Problem from Dolgoderevenskoye](problems/math/Unrated_2289A-Problem-from-Dolgoderevenskoye) | ? | `math`, `number theory` | — | [CF](https://codeforces.com/contest/2289/problem/A) |
+| 2292A | [Picnic for Two](problems/implementation/Unrated_2292A-Picnic-for-Two) | ? | `implementation`, `math` | — | [CF](https://codeforces.com/contest/2292/problem/A) |
+| 2292B | [Grapefruit Juice](problems/greedy/Unrated_2292B-Grapefruit-Juice) | ? | `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/2292/problem/B) |
+| 2292C | [Finding Shapes in the Clouds](problems/constructive-algorithms/Unrated_2292C-Finding-Shapes-in-the-Clouds) | ? | `constructive algorithms`, `strings` | — | [CF](https://codeforces.com/contest/2292/problem/C) |
 | 105669I | [Partition](problems/untagged/Unrated_105669I-Partition) | ? |  | — | [CF](https://codeforces.com/contest/105669/problem/I) |
 | 4A | [Watermelon](problems/brute-force/0800_4A-Watermelon) | 800 | `brute force`, `math` | — | [CF](https://codeforces.com/contest/4/problem/A) |
 | 14A | [Letter](problems/implementation/0800_14A-Letter) | 800 | `implementation` | — | [CF](https://codeforces.com/contest/14/problem/A) |
@@ -208,6 +211,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 1883C | [Raspberries](problems/dp/1000_1883C-Raspberries) | 1000 | `dp`, `math` | — | [CF](https://codeforces.com/contest/1883/problem/C) |
 | 1913B | [Swap and Delete](problems/strings/1000_1913B-Swap-and-Delete) | 1000 | `strings` | — | [CF](https://codeforces.com/contest/1913/problem/B) |
 | 1927C | [Choose the Different Ones!](problems/brute-force/1000_1927C-Choose-the-Different-Ones) | 1000 | `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/1927/problem/C) |
+| 1970A1 | [Balanced Shuffle (Easy)](problems/implementation/1000_1970A1-Balanced-Shuffle-Easy) | 1000 | `implementation`, `sortings` | — | [CF](https://codeforces.com/contest/1970/problem/A1) |
 | 1985C | [Good Prefixes](problems/greedy/1000_1985C-Good-Prefixes) | 1000 | `greedy` | — | [CF](https://codeforces.com/contest/1985/problem/C) |
 | 2193C | [Replace and Sum](problems/data-structures/1000_2193C-Replace-and-Sum) | 1000 | `data structures`, `greedy` | — | [CF](https://codeforces.com/contest/2193/problem/C) |
 | 2236C | [Omsk Programmers](problems/brute-force/1000_2236C-Omsk-Programmers) | 1000 | `brute force`, `greedy`, `math` | — | [CF](https://codeforces.com/contest/2236/problem/C) |
