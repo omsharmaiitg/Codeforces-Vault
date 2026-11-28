@@ -2,10 +2,10 @@
 
 Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](https://codeforces.com/profile/om_sharma_)**.
 
-- **Total solved:** 231
-- **With source attached:** 0 / 231
-- **Longest streak:** 8 days  |  **Current streak:** 0 days
-- **Contest rating:** 1125 (max 1299)
+- **Total solved:** 232
+- **With source attached:** 0 / 232
+- **Longest streak:** 8 days  |  **Current streak:** 3 days
+- **Contest rating:** 1114 (max 1299)
 
 ## 📊 Analytics
 
@@ -31,7 +31,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Language | Solved |
 |---|---|
-| C++ | 231 |
+| C++ | 232 |
 
 ### By rating
 
@@ -41,7 +41,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 0900 | 30 |
 | 1000 | 25 |
 | 1100 | 24 |
-| 1200 | 26 |
+| 1200 | 27 |
 | 1300 | 15 |
 | 1400 | 5 |
 | 1500 | 9 |
@@ -54,11 +54,11 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 
 | Tag | Count |
 |---|---|
-| `math` | 107 |
+| `math` | 108 |
 | `greedy` | 99 |
 | `implementation` | 59 |
 | `brute force` | 50 |
-| `number theory` | 32 |
+| `number theory` | 33 |
 | `sortings` | 32 |
 | `constructive algorithms` | 30 |
 | `strings` | 23 |
@@ -252,6 +252,7 @@ Auto-generated archive of accepted Codeforces submissions for **[om_sharma_](htt
 | 961B | [Lecture Sleep](problems/data-structures/1200_961B-Lecture-Sleep) | 1200 | `data structures`, `dp`, `implementation`, `two pointers` | — | [CF](https://codeforces.com/contest/961/problem/B) |
 | 1076B | [Divisor Subtraction](problems/implementation/1200_1076B-Divisor-Subtraction) | 1200 | `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1076/problem/B) |
 | 1272C | [Yet Another Broken Keyboard](problems/combinatorics/1200_1272C-Yet-Another-Broken-Keyboard) | 1200 | `combinatorics`, `dp`, `implementation` | — | [CF](https://codeforces.com/contest/1272/problem/C) |
+| 1487B | [Cat Cycle](problems/math/1200_1487B-Cat-Cycle) | 1200 | `math`, `number theory` | — | [CF](https://codeforces.com/contest/1487/problem/B) |
 | 1520D | [Same Differences](problems/data-structures/1200_1520D-Same-Differences) | 1200 | `data structures`, `hashing`, `math` | — | [CF](https://codeforces.com/contest/1520/problem/D) |
 | 1539C | [Stable Groups](problems/greedy/1200_1539C-Stable-Groups) | 1200 | `greedy`, `sortings` | — | [CF](https://codeforces.com/contest/1539/problem/C) |
 | 1541B | [Pleasant Pairs](problems/brute-force/1200_1541B-Pleasant-Pairs) | 1200 | `brute force`, `implementation`, `math`, `number theory` | — | [CF](https://codeforces.com/contest/1541/problem/B) |
